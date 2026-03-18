@@ -23,7 +23,8 @@ Beim ersten Push-Versuch gab es einen Konflikt, da das Remote-Repository bereits
 Dieser Konflikt wurde gelöst durch:
 
 Das Zusammenführen der Remote-Änderungen mit dem lokalen Branch mittels:
-```git pull origin main --allow-unrelated-histories --no-rebase
+```
+git pull origin main --allow-unrelated-histories --no-rebase
 ```
 Danach konnte das Projekt erfolgreich gepusht werden.
 
