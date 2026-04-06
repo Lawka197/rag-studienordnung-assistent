@@ -6,14 +6,18 @@ MAX_CHUNK_LENGTH = 1800
 
 FOOTER_PATTERNS = [
     r"Seite\s+\d+\s+Amtliches Mitteilungsblatt der HTW Berlin Nr\.\s*\d+/\d+",
+    r"Nr\.\s*\d+/\d+\s+Amtliches Mitteilungsblatt der HTW Berlin Seite\s+\d+",
     r"Modulhandbuch der HTW Berlin\s+\d+/\d+",
 ]
 
 def normalize_newlines(text: str) -> str:
-    """Vereinheitlicht Zeilenumbrüche und geschützte Leerzeichen."""
+    """Vereinheitlicht Zeilenumbrüche und verschiedne Sonder-Leerzeichen."""
     text = text.replace("\r\n", "\n")
     text = text.replace("\r", "\n")
     text = text.replace("\xa0", " ")
+    text = text.replace("\u202f", " ")
+    text = text.replace("\u2007", " ")
+    text = text.replace("\u2009", " ")
     return text
 
 def remove_footers(text: str) -> str:
@@ -41,6 +45,30 @@ def preprocess_text(text: str) -> str:
     text = fix_hyphenation(text)
     text = normalize_whitespace(text)
     return text
+
+def is_table_like_line(line: str) -> bool:
+    """Heuristik für tabellenartige Zeilen aus Studienverlaufs- oder Äquivalenzübersichten."""
+    stripped = line.strip()
+    if not stripped:
+        return False
+
+    patterns = [
+        r"^[A-Z]{1,3}\d{2,}[a-zA-Z]?\b",  # z. B. B11, WP14
+        r"^\d{1,2}\s+[A-ZÄÖÜa-zäöüß]",    # z. B. 13 Grundlegende Konzepte ...
+        r"^[A-ZÄÖÜa-zäöüß].*\b\d+\b.*\b\d+\b",  # mehrere numerische Spalten in einer Zeile
+    ]
+
+    return any(re.search(pattern, stripped) for pattern in patterns)
+
+
+def contains_table_like_structure(text: str) -> bool:
+    """Erkennt grob tabellenartige Blöcke, damit diese nicht mitten im Inhalt zerschnitten werden."""
+    lines = [line for line in text.split("\n") if line.strip()]
+    if len(lines) < 3:
+        return False
+
+    table_like_lines = sum(1 for line in lines if is_table_like_line(line))
+    return table_like_lines >= 3
 
 
 def remove_front_matter(text: str, document_type: str) -> str:
@@ -78,7 +106,7 @@ def split_studienordnung(text: str) -> List[str]:
     Zerlegt Studienordnungen zunächst nach echten Paragraphenüberschriften.
     Lange Paragraphen werden danach an Unterpunkten wie (1), (2), (3) aufgeteilt.
     """
-    paragraph_pattern = r"(?m)(?=^§\s*\d+[a-zA-Z]?\b)"
+    paragraph_pattern = r"(?m)(?=^\s*§\s*\d+[a-zA-Z]?\b)"
     paragraph_chunks = [part.strip() for part in re.split(paragraph_pattern, text) if part.strip()]
 
     final_chunks: List[str] = []
@@ -96,7 +124,7 @@ def split_paragraph_by_subpoints(paragraph_text: str) -> List[str]:
     Teilt einen Paragraphen an Unterpunkten wie (1), (2), (3) ...
     Der Paragraphenkopf bleibt beim ersten Unterpunkt erhalten.
     """
-    match = re.search(r"(?m)^§\s*\d+[a-zA-Z]?\b.*?(?=\n\(1\)|\Z)", paragraph_text, flags=re.DOTALL)
+    match = re.search(r"(?m)^\s*§\s*\d+[a-zA-Z]?\b.*?(?=\n\(1\)|\Z)", paragraph_text, flags=re.DOTALL)
     if match:
         paragraph_header = match.group(0).strip()
         body = paragraph_text[match.end():].strip()
@@ -199,6 +227,9 @@ def split_large_chunk(chunk: str, max_length: int = MAX_CHUNK_LENGTH) -> List[st
     if len(chunk) <= max_length:
         return [chunk.strip()]
 
+    if contains_table_like_structure(chunk):
+        return [chunk.strip()]
+
     paragraphs = [part.strip() for part in chunk.split("\n\n") if part.strip()]
     if len(paragraphs) <= 1:
         return split_by_length(chunk, max_length)
@@ -224,7 +255,10 @@ def split_large_chunk(chunk: str, max_length: int = MAX_CHUNK_LENGTH) -> List[st
     final_chunks: List[str] = []
     for part in result:
         if len(part) > max_length:
-            final_chunks.extend(split_by_length(part, max_length))
+            if contains_table_like_structure(part):
+                final_chunks.append(part)
+            else:
+                final_chunks.extend(split_by_length(part, max_length))
         else:
             final_chunks.append(part)
     return final_chunks
@@ -239,6 +273,10 @@ def split_by_length(text: str, max_length: int) -> List[str]:
         end = min(start + max_length, len(text))
 
         if end < len(text):
+            if contains_table_like_structure(text[start:end]):
+                next_double_break = text.find("\n\n", end)
+                if next_double_break != -1:
+                    end = next_double_break
             last_break = text.rfind("\n", start, end)
             last_space = text.rfind(" ", start, end)
             split_pos = max(last_break, last_space)

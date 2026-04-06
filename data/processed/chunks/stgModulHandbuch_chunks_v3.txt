@@ -824,7 +824,7 @@ Vorwissen. Rheinwerk Computing, ISBN 978-3836290890, 2022.
 • Christoph Höller: Angular: Das große Handbuch zum JavaScript-Framework. Einführung und 
 fortgeschrittene TypeScript-Techniken. Rheinwerk Computing, ISBN 978-3836282437, 2022.
 • Ferdinand Malcher, Johannes Hoppe und Danny Koppenhagen: Angular. Grundlagen, fortgeschrittene 
-Themen und Best Practices. dpunkt.verlag, ISBN 978-3864907791, 2020.
+Themen und Best Practices. dpunkt.verlag, ISBN 978-3864907791, 2020.
 • Sebastian Springer: Node.js. Das umfassende Handbuch. Rheinwerk 
 Computing, ISBN 978-3-8362-8765-4, 2021.
 • Philip Ackermann: Node.js - Rezepte und Lösungen. Rheinwerk Computing, ISBN 978-3-8362-6453-2, 
@@ -862,7 +862,7 @@ Vorwissen. Rheinwerk Computing, ISBN 978-3836290890, 2022.
 • Christoph Höller: Angular: Das große Handbuch zum JavaScript-Framework. Einführung und 
 fortgeschrittene TypeScript-Techniken. Rheinwerk Computing, ISBN 978-3836282437, 2022.
 • Ferdinand Malcher, Johannes Hoppe und Danny Koppenhagen: Angular. Grundlagen, fortgeschrittene 
-Themen und Best Practices. dpunkt.verlag, ISBN 978-3864907791, 2020.
+Themen und Best Practices. dpunkt.verlag, ISBN 978-3864907791, 2020.
 • Sebastian Springer: Node.js. Das umfassende Handbuch. Rheinwerk 
 Computing, ISBN 978-3-8362-8765-4, 2021.
 • Philip Ackermann: Node.js - Rezepte und Lösungen. Rheinwerk Computing, ISBN 978-3-8362-6453-2, 

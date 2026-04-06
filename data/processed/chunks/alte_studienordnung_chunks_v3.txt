@@ -109,7 +109,8 @@ Die Studierenden erlangen zentrale Schlüsselqualifikationen für die Arbeit in 
 Modellierungstechniken 
 • Verständnis von Methoden und Technologien sowie Fähigkeiten zum Entwickeln von Anwendungssystemen, Datenbanksystemen und Verteilten Systemen 
 • Kommunikations- und Teamfähigkeit 
-• Kundenorientiertes und proaktives Projektmanagement
+• Kundenorientiertes und proaktives Projektmanagement 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 317
 
 ----- CHUNK 25 -----
 (3) Der Bachelorstudiengang Informatik und Wirtschaft an der HTW Berlin konzentriert sich 
@@ -231,7 +232,8 @@ das zusätzlich absolvierte Wahlpflichtmodul.
 enthält die Modulprüfung die Prüfungskomponente modulbegleitend geprüfte Studienleistung, 
 so ist bei Nichtbestehen bzw. Nichtantritt die erneute Belegung erforderlich; das gilt auch für 
 alle Fremdsprachenmodule. An sonsten ist im Wiederholungsf all nur die Prüfungsanmeldung 
-zwingend erforderlich.
+zwingend erforderlich. 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 319
 
 ----- CHUNK 43 -----
 § 11 Praxisphase und Beurteilung des Fachpraktikums
@@ -351,7 +353,8 @@ fachlich und zeitlich nicht wesentlich beeinträchtigen.
 
 ----- CHUNK 57 -----
 (3) Der zeitliche Bearbeitungsaufwand der Bachelorarbeit entspricht 12 Leistungspunkten. Die 
-Bearbeitungszeit für die Bachelorarbeit umfasst 18 Wochen.
+Bearbeitungszeit für die Bachelorarbeit umfasst 18 Wochen. 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 321
 
 ----- CHUNK 58 -----
 (4) Die Bachelorarbeit befasst sich mit einem Thema aus dem Fachpraktikum oder einem frei 
@@ -436,7 +439,7 @@ Die Modulnoten Programmierung 1, Betriebswirtschaftslehre 1 und 1. Fremdsprache 
 nicht auf dem Bachelorzeugnis ausgewiesen und gehen nicht in die Berechnung des Gesamtprädikates ein.
 
 ----- CHUNK 63 -----
-§ 15 Berechnung des Gesamtprädikates 
+§ 15 Berechnung des Gesamtprädikates
 (1) Das Gesamtprädikat des Abschlusses ergibt sich aus der Gesamtnote (X), die wiederum 
 als gewogenes arithmetisches Mittel der Teilnoten (X
 1, X 2, X 3) nach der Formel 
@@ -449,8 +452,9 @@ b) die Note der Abschlussarbeit (Größe X2) und
 c) die Note des Kolloquiums (Größe X3). 
  
 Für die Gewichtungsfaktoren gilt: 
- a = 0,75; b = 0,15; c = 0,10. 
- 
+ a = 0,75; b = 0,15; c = 0,10.
+
+----- CHUNK 64 -----
 (2) Die Berechnung der Größe X
 1 für das Gesamtprädikat erfolgt durch die Bildung eines gewogenen Mittels aller Module aufgrund der Anzahl der jeweiligen Leistungspunkte. 
 
@@ -465,7 +469,7 @@ Darin bedeuten: - Fi: Die Fachnoten der einzelnen Module,
  - ai: Die Gewichtungsfaktoren (Leistungspunkte) der einzelnen Module. 
  
  
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 323 
  
 Die Gewichtungsfaktoren der Module sind im Folgenden aufgeführt: 
 Modulbezeichnung Gewichtungsfaktor 
@@ -495,20 +499,20 @@ AWE-Modul 1 2
 AWE-Modul 2 2 
 Summe 110
 
------ CHUNK 64 -----
+----- CHUNK 65 -----
 § 16 Abschlussdokumente 
 (1) Die Absolventin erhält die Abschlu ssdokumente gemäß Rahmenstudien- undprüfungsordnung für Bachelor- und Masterstudiengänge - RStPO – Ba/Ma in ihrer jeweils gültigen Fassung. Die Verleihung de s akademischen Grades Bachelor of Science (B.Sc) wird auf 
 der Bachelorurkunde bescheinigt. Auf den Abschlussdokumenten wird nicht gesondert ausgewiesen, dass es sich um einen mono-edukativen Studiengang handelt. 
 (2) Die Spezifika des Diploma Supplements des Bachelorstudienganges Informatik und Wirtschaft werden in der Anlage 4 ausgewiesen.
 
------ CHUNK 65 -----
+----- CHUNK 66 -----
 § 17 Übergangsregelungen 
 Studierende, welche in Studienverzug geraten sind und für die Module nach der vorangegangenen Studienordnung im Bachelorstudiengang Informatik und Wirtschaft vom 4. Februar 
 2009 (AMBl. HTW Berlin Nr. 42/09), zuletzt geändert am 13. April 2011 (AMBl. HTW Berlin Nr. 
 24/11), nicht mehr angeboten werden, müssen als Äquivalent die in der Äquivalenztabelle in 
 Anlage 6 aufgeführten Module dieser Studien- und Prüfungsordnung absolvieren.
 
------ CHUNK 66 -----
+----- CHUNK 67 -----
 § 18 Inkrafttreten/Veröffentlichung 
 Diese Ordnung tritt am Tage nach ihrer Veröffentlichung im Amtlichen Mitteilungsblatt der 
 HTW Berlin mit Wirkung vom 1. Oktober 2014 in Kraft. 
@@ -538,7 +542,7 @@ BerlHG geeignet:
  
 Über die inhaltliche Vergleichbarkeit von Berufsausbildungen mit anderen Bezeichnungen als 
 den genannten entscheidet der Prüfungsausschu ss des Studienganges Informatik und Wirtschaft. 
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 325 
  
 Anlage 2 zur Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik und 
 Wirtschaft 
@@ -561,7 +565,9 @@ B16 Fremdsprache 1 WP PÜ 4 4 1a - -
 2. Semester 
 Nr. Modulbezeichnung Art Form SWS LP NSt. NV EV 
 B21 Programmierung 2 P SL/PCÜ 2/2 5 1b - B11 
-B13 
+B13
+
+----- CHUNK 68 -----
 B22 Rechnernetze P SL/PCÜ 2/2 6 1b - B11 
 B13 
 B23 Softwaretechnik P SL/PCÜ 2/2 5 1b - B11 
@@ -631,7 +637,10 @@ B57 AWE-Modul 2 WP PÜ 2 2 1a - -
 6. Semester 
 Nr. Modulbezeichnung Art Form SWS LP NSt. NV EV 
 B61 Aktuelle Trends der Informations- und Kommunikationstechnik (IKT) 
-P SL/PCÜ 2/2 5 1b - B21 
+P SL/PCÜ 2/2
+
+----- CHUNK 69 -----
+5 1b - B21 
 B22 
 B62 Usability P SL/PCÜ 2/2 6 1b - B54 
 B23 
@@ -647,7 +656,7 @@ B64 Bachelorarbeit *2) P 12 1b s. §
 *)2 Die Bachelorarbeit ist im 6. Semester semesterbegleitend anzufertigen. Die Bearbeitungszeit beginnt mit der offiziellen Zulassung zur Bachelorarbeit. Der Workload beträgt 12 LP 
 30 Stunden = 360 Stunden. Die Bearbeitungsdauer beträgt 18 Wochen. 
 *)3 Zu B34.1 und B54.1 werden jeweils mindestens 4 Projekte angeboten. 
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 327 
  
  
 Erläuterungen: 
@@ -682,7 +691,10 @@ Informatik WP PCÜ 4 1b - 1.-3. Sem.
 B55 Besondere Kapitel der 
 Wirtschaftsinformatik WP PCÜ 4 1b 1.-3. Sem. 
 Zu B41 und B55 werden jeweils mindestens zwei Veranstaltungen angeboten, aus denen die 
-Studierenden wählen können. Jeweils eine der beiden Veranstaltungen findet semesterbegleitend, die jeweils andere Veranstaltung in der vorlesungsfreien Zeit als Blockveranstaltung 
+Studierenden wählen können. Jeweils eine der beiden Veranstaltungen findet semesterbegleitend, die jeweils andere Veranstaltung in der
+
+----- CHUNK 70 -----
+vorlesungsfreien Zeit als Blockveranstaltung 
 (über 2 Wochen) statt. 
  
  
@@ -749,7 +761,7 @@ B2.2) oder Französisch/
 Russisch/ Spanisch M2W 
 (Mittelstufe 2/Wirtschaft, GER 
 WP PÜ 4 4 1b - B16 
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 329 
  
 B2.1) 
 B56 
@@ -766,16 +778,9 @@ C2) oder
 Französisch/Russisch/ 
 Spanisch M3W (Mittelstufe 
 3/Wirtschaft, GER B2.2) 
-WP PÜ 4 4 1b - B26 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+WP PÜ 4 4 1b - B26
+
+----- CHUNK 71 -----
 Anlage 3 zur Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik und 
 Wirtschaft 
  
@@ -822,14 +827,16 @@ B55 Besondere Kapitel der Wirtschaftsinformatik
 Selected Business Computing Topics 5 
 B56 AWE-Modul 1 Supplementary Module 1 2 
 B57 AWE-Modul 2 Supplementary Module 2 2 
-B61 Aktuelle Trends der Informations- und 
+B61 Aktuelle Trends der Informations- und
+
+----- CHUNK 72 -----
 Kommunikationstechnik (IKT) 
 Current Trends in ICT 5 
 B62 Usability Usability 6 
 B63 Bachelorseminar/Kolloquium Bachelor’s Thesis Seminar/Oral Examination 
 3 
 B64 Bachelorarbeit Bachelor’s Thesis 12 
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 331 
  
 Anlage 4 zur Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik und 
 Wirtschaft 
@@ -873,7 +880,10 @@ Kompetenzen
 Fachabhängig: 
 • Verständnis der theoretischen Grundlagen der Informatik (Algorithmus, Datenstrukturen, Sprachen, Grammatiken) 
 • Fähigkeit zur Abstraktion und zum algorithmischen Denken 
-• Fähigkeit, die Grundkonzepte der digitalen Datenverarbeitung zu verstehen und anzuwenden 
+• Fähigkeit, die Grundkonzepte der
+
+----- CHUNK 73 -----
+digitalen Datenverarbeitung zu verstehen und anzuwenden 
 Fachunabhängig: 
 • Eigenständiges Lernen 
 • Strukturiertes, konzeptionelles Denken 
@@ -923,12 +933,14 @@ mathematischen Denkweise
 Fachunabhängig: 
 • Erlernen abstrakten Denkens 
 • Erlernen vom Denken in Konzepten 
-• Eigenständiges Lernen 
+• Eigenständiges Lernen
+
+----- CHUNK 74 -----
 • Strukturiertes, konzeptionelles Denken 
 • Systematische Arbeitsweise 
 • Verständnis für abstrakte/formale Modelle 
  
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 333 
  
 Modulbezeichnung B2 1 Programmierung 2 
 Lernergebnis und 
@@ -977,7 +989,10 @@ Anwendersoftwareentwicklung
 • Erwerb von Kenntnissen zum Softwareentwicklungsprozess 
 • Vorgehensmodelle 
 • Migration auf andere Plattformen 
-• Durchführung von Kosten- und Aufwandschätzungen 
+•
+
+----- CHUNK 75 -----
+Durchführung von Kosten- und Aufwandschätzungen 
 Fachunabhängig: 
 • Eigenständiges Lernen 
 • Strukturiertes, konzeptionelles Denken 
@@ -1025,7 +1040,10 @@ Dienst
 • Strukturiertes, konzeptionelles Denken 
 • Systematische Arbeitsweise 
 • Bewältigung komplexer Zusammenhänge 
-• Informationsbeschaffung und -bewertung 
+•
+
+----- CHUNK 76 -----
+Informationsbeschaffung und -bewertung 
 • Wissenschaftliche Neugier und Recherchefähigkeit 
 • Fähigkeit zu interdisziplinärer Teamarbeit 
  
@@ -1044,7 +1062,7 @@ Fachunabhängig:
 • Systematische Arbeitsweise 
 • Verständnis für technologische Grundlagen 
  
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 335 
  
 Modulbezeichnung B32 Datens chutz und Datensicherheit 
 Lernergebnis und 
@@ -1083,7 +1101,10 @@ Lernergebnis und
 Kompetenzen 
 Fachabhängig: 
 • Grundkenntnisse des Fach- und Me thodenwissen zur Projektarbeit 
-• Verständnis der Bedeutung von Ziel- und Anforderungsdefinition 
+• Verständnis der Bedeutung von Ziel- und
+
+----- CHUNK 77 -----
+Anforderungsdefinition 
 • Planung von Projekten 
 • Kenntnis von Methoden und Techniken zur Erhebung, Analyse, 
 • Konzeptentwicklung, Realisierung 
@@ -1131,9 +1152,12 @@ Fachunabhängig:
 • Konfliktfähigkeit 
 • Strukturiertes, konzeptionelles Denken 
  
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 337 
  
- 
-Modulbezeichnung B51 Modellieru ng von Informationssystemen 
+Modulbezeichnung B51 Modellieru ng von
+
+----- CHUNK 78 -----
+Informationssystemen 
 Lernergebnis und 
 Kompetenzen 
 Fachabhängig: 
@@ -1181,7 +1205,10 @@ Fachabhängig:
 • Finden und Ausbilden von Personal 
 Fachunabhängig: 
 • Eigenständiges Lernen 
-• Beobachten und Analysieren 
+• Beobachten und
+
+----- CHUNK 79 -----
+Analysieren 
 • Strukturiertes, konzeptionelles Denken 
 • Systematische Arbeitsweise 
  
@@ -1231,7 +1258,10 @@ gewichten
 Fragestellung unter Berücksichtigung von Schrifttum und vermitteltem 
 Wissen praxisorientiert darzustellen und zu lösen 
 • Fähigkeit der Darstellung des eigenen Arbeitsansatzes und der eigenen Ergebnisse 
-• Fähigkeit, die Arbeitsansätze und Ergebnisse anderer zu bewerten und 
+• Fähigkeit, die Arbeitsansätze und
+
+----- CHUNK 80 -----
+Ergebnisse anderer zu bewerten und 
 ggf. Verbesserungsvorschläge zu machen 
  
 Modulbezeichnung B6 6 Bachelorarbeit 
@@ -1246,7 +1276,7 @@ dem erworbenen Fach- und Methodenwissen erfolgreich mit wissenschaftlichem Anspr
  
  
  
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 339 
  
 Wahlpflichtmodule 
 Modulbezeichnung B34 Proj ekte in der Wirtschaft 
@@ -1289,7 +1319,9 @@ Fachunabhängig:
  
  
 Modulbezeichnung B53 Praxis in Forschung und Entwicklung 
-Lernergebnis und 
+Lernergebnis und
+
+----- CHUNK 81 -----
 Kompetenzen 
 Aus dem ganzen Bereich der Informatik wird in Gruppenarbeit ein komplexes Projekt durchgeführt, bei dem die Zusammenhänge der einzelnen Module des Studienganges erkennbar werden. 
 Fachabhängig: 
@@ -1325,7 +1357,7 @@ Fachunabhängig:
 • Praktische Problemlösungs- und Umsetzungsfähigkeit 
 • Schnelle Einarbeitung in unbekannte Themen 
  
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 341 
  
 AWE-Module/Fremdsprachen 
  
@@ -1338,7 +1370,10 @@ oder Russisch für die Wirtschaft M1W
 oder Deutsch als Fremdsprache/Wirtschaft M3W* 
 Lernergebnis und 
 Kompetenzen 
-Das Modul dient der Einführung in die Fachsprache der Informatik oder 
+Das Modul dient der Einführung in
+
+----- CHUNK 82 -----
+die Fachsprache der Informatik oder 
 Wirtschaft. Alle Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) 
 werden auf Grundlage bereits er worbener allgemeinsprachlicher 
 Kenntnisse mit folgender Zielstellung weiterentwickelt: 
@@ -1375,7 +1410,9 @@ anderen Sprache als Deutsch
  
 Modulbezeichnung Fremdsprache 2: 
 English for Computing M3T 
-oder Le français des affaires M2W 
+oder Le français des affaires M2W
+
+----- CHUNK 83 -----
 oder Español para los negocios M2W 
 oder Russisch für die Wirtschaft M2W 
 oder Deutsch als Fremdsprache/Wirtschaft O1W* 
@@ -1407,7 +1444,10 @@ adäquaten Wendungen
 - flexibler und effektiver Sprachgebrauch im sozialen, akademischen 
 und beruflichen Kontext 
 - klare, gut strukturierte und detaillierte Textproduktion zu anspruchsvollen Themen unter Verwendung usueller Informationsstrukturen 
-* gilt nur für Studierende mit Hochschulzugangsberechtigung in einer 
+* gilt nur für Studierende mit
+
+----- CHUNK 84 -----
+Hochschulzugangsberechtigung in einer 
 anderen Sprache als Deutsch 
  
 Modulbezeichnung AWE-Modul 1 / AWE-Modul 2 
@@ -1418,7 +1458,7 @@ Die Studierenden
 - Kenntnisse in einem studienfernen Fachgebiet erworben (z. B. interkulturelle Zusammenarbeit, genderspezifische Technikgestaltung, Soziologie, Ethik) 
  
  
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 343 
  
 Variante 2: 
  
@@ -1448,7 +1488,10 @@ usw.
 Ländern, in denen die Sprache gesprochen wird 
 - einfache Textproduktion zu vertrauten Fachthemen oder Themen von 
 persönlichem Interesse 
-- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen 
+- Beschreibung von
+
+----- CHUNK 85 -----
+Erfahrungen und Ereignissen, Träumen, Hoffnungen 
 und Zielen 
 - kurze Erklärung und Begründung von Meinungen und Plänen 
 DaF: Mittelstufe 3/Wirtschaft (B2.2)* 
@@ -1487,7 +1530,10 @@ Englisch: Mittelstufe 3/Technik (B2.2)
 - Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema 
 unter Benennung der Vor- und Nachteile unterschiedlicher Ansätze 
 Französisch/Spanisch/Russisch: Mittelstufe 2/Wirtschaft (B2.1) 
-- Verständnis der wesentlichen Gedanken sowohl von Texten mit 
+-
+
+----- CHUNK 86 -----
+Verständnis der wesentlichen Gedanken sowohl von Texten mit 
 konkretem als auch abstraktem Inhalt 
 - Präsentation von fachsprachlich relevanten Themen 
 - angemessen flüssige Gesprächsführung 
@@ -1511,7 +1557,7 @@ Kompetenzen
 Das Modul ist aus dem Angebot der ZE Fremdsprachen frei wählbar. 
 Lernergebnis und Kompetenzen richten sich nach der gewählten Fremdsprache und der Niveaustufe. 
  
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 345 
  
 Variante 3 
 Modulbezeichnung Fremdsprache 1: 
@@ -1528,7 +1574,10 @@ Kenntnisse mit folgender Zielstellung weiterentwickelt:
 Englisch: Mittelstufe 2/Technik (B2.1) 
 - Verständnis der wesentlichen Gedanken sowohl von Texten mit 
 konkretem als auch abstraktem Inhalt 
-- Präsentation von fachsprachlich relevanten Themen 
+- Präsentation von
+
+----- CHUNK 87 -----
+fachsprachlich relevanten Themen 
 - angemessen flüssige Gesprächsführung 
 - Textproduktion zu einer Reihe fachlicher Themen 
 - Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema 
@@ -1562,7 +1611,10 @@ Englisch: Mittelstufe 3/Technik (B2.2)
 - Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema 
 unter Benennung der Vor- und Nachteile unterschiedlicher Ansätze 
 Französisch/Spanisch/Russisch: Mittelstufe 2/Wirtschaft (B2.1) - 
-Verständnis der wesentlichen Gedanken sowohl von Texten mit 
+Verständnis der
+
+----- CHUNK 88 -----
+wesentlichen Gedanken sowohl von Texten mit 
 konkretem als auch abstraktem Inhalt 
 - Präsentation von fachsprachlich relevanten Themen 
 - angemessen flüssige Gesprächsführung 
@@ -1600,9 +1652,12 @@ Französisch/Russisch/Spanisch: Mittelstufe 3/Wirtschaft (B2.2)
 - detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
  
 - Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema 
-unter Benennung der Vor- und Nachteile unterschiedlicher Ansätze 
+unter Benennung der Vor- und Nachteile
+
+----- CHUNK 89 -----
+unterschiedlicher Ansätze 
  
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 347 
  
 Anlage 5 zur Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik und 
 Wirtschaft 
@@ -1669,7 +1724,10 @@ Vollzeitstudium, Präsenzstudium, ggf. mit E-Learning-Anteilen
  
 4.2 Anforderungen des Studienganges/Qualifikationsprofil des Absolventen/der 
 Absolventin 
-Die Absolventin verfügt über solide Kenntnisse aus den 
+Die Absolventin verfügt über solide Kenntnisse
+
+----- CHUNK 90 -----
+aus den 
 Informatik-Bereichen Softwareentwicklung, Datenbanken/ 
 Datenmodellierung, Betriebliche Anwendungen und Verteilte 
  
@@ -1719,7 +1777,10 @@ Zusammensetzung des Gesamtprädikats:
 10 % mündliche Abschlussprüfung 
  
 4.5 Gesamtnote 
-- Abschlussprädikat (ungerundete Abschlussnote) – 
+- Abschlussprädikat (ungerundete
+
+----- CHUNK 91 -----
+Abschlussnote) – 
  
  
 5 Status der 
@@ -1733,7 +1794,7 @@ Voraussetzungen festlegen. (s. Abschnitt 8)
 5.2 Beruflicher Status 
  
  
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 349 
  
 6 Weitere Angaben 6.1 Weitere Angaben 
 Die HTW Berlin ist nach den Vorgaben der Stiftung zur 
@@ -1786,7 +1847,10 @@ Computing M2W
 B7 Programmierung 2 5 B21 Programmierung 2 5 
 B8 Datenbanksysteme 5 B33 Datenbanksysteme 5 
 B9 Rechnernetze 6 B22 Rechnernetze 5 
-B10 Betriebliche Anwendungen 5 B25 Betriebliche Anwendungen 5 
+B10 Betriebliche Anwendungen 5 B25 Betriebliche
+
+----- CHUNK 92 -----
+Anwendungen 5 
 B25 Karrieremanagement 2 Einzelfallentscheidung durch den 
 PA 
  
@@ -1827,7 +1891,7 @@ PA
 B22 Praxisphase: 
 Fachpraktikum 
 24 B42 Praxisphase 25 
- 
+Nr. 17/14 Amtliches Mitteilungsblatt der HTW Berlin Seite 351 
  
 (Auswertung von Erfahrungen 
 am Praxisplatz) 
@@ -1855,6 +1919,9 @@ B32 Besondere Kapitel der Informatik 5 B41 Besondere Kapitel der Informatik 5
 B34 Existenzgründung 4 B54 BWL3: Betriebswirtschaftliches 
 Denken und Handeln 
 5 
-B35 Bachelorarbeit 12 B66 Bachelorarbeit 12 
+B35
+
+----- CHUNK 93 -----
+Bachelorarbeit 12 B66 Bachelorarbeit 12 
 B36 Bachelorseminar/Kolloquium 3 B65 Bachelorseminar/Kolloquium 3
 
