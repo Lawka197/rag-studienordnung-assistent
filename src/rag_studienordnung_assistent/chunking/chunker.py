@@ -15,13 +15,16 @@ from rag_studienordnung_assistent.chunking.strategies import (
     AppendixStrategy,
 )
 from rag_studienordnung_assistent.chunking import patterns
+from rag_studienordnung_assistent.chunking.chunking_config import ChunkingConfig, DEFAULT_CONFIG
 
 logger = logging.getLogger(__name__)
 
-# Konfigurationskonstanten
-MAX_CHUNK_LENGTH = 1800
-MAX_TABLE_CHUNK_LENGTH = 3200
-TABLE_BLOCK_LINE_LIMIT = 12
+# Default Konfiguration (kann überschrieben werden)
+_DEFAULT_CONFIG = DEFAULT_CONFIG
+
+MAX_CHUNK_LENGTH = _DEFAULT_CONFIG.max_chunk_length
+MAX_TABLE_CHUNK_LENGTH = _DEFAULT_CONFIG.max_table_chunk_length
+TABLE_BLOCK_LINE_LIMIT = _DEFAULT_CONFIG.table_block_line_limit
 
 
 def normalize_newlines(text: str) -> str:
@@ -53,7 +56,6 @@ def fix_hyphenation(text: str) -> str:
 
     Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
-    # Hyphen-Patterns aus patterns.py
     hyphenation_info = patterns.HYPHENATION_PATTERNS
 
     for key, info in hyphenation_info.items():
@@ -95,7 +97,6 @@ def is_table_like_line(line: str) -> bool:
     if not stripped:
         return False
 
-    # Table-Line-Patterns aus patterns.py
     table_patterns = patterns.get_table_line_patterns_list()
     return any(re.search(pattern, stripped) for pattern in table_patterns)
 
@@ -179,7 +180,6 @@ def split_paragraph_by_subpoints(paragraph_text: str) -> List[str]:
 
     Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
-    # Pattern für Paragraph-Header
     paragraph_header_pattern = patterns.PARAGRAPH_PATTERNS["paragraph_header_with_subpoints"]["pattern"]
 
     match = re.search(paragraph_header_pattern, paragraph_text)
@@ -190,7 +190,6 @@ def split_paragraph_by_subpoints(paragraph_text: str) -> List[str]:
         paragraph_header = ""
         body = paragraph_text.strip()
 
-    # Pattern für Subpoint-Marker
     subpoint_pattern = patterns.PARAGRAPH_PATTERNS["subpoint_marker"]["pattern"]
 
     if not re.search(subpoint_pattern, body):
@@ -469,12 +468,26 @@ def split_by_length(text: str, max_length: int) -> List[str]:
     return chunks
 
 
-def chunk_document(text: str, document_type: str) -> List[str]:
+def chunk_document(text: str, document_type: str, config: ChunkingConfig = None) -> List[str]:
     """
     Hauptfunktion: Bereitet Text vor und chunked dokumenttyp-spezifisch.
+
     """
+    if config is None:
+        config = DEFAULT_CONFIG
+
+    global MAX_CHUNK_LENGTH, MAX_TABLE_CHUNK_LENGTH, TABLE_BLOCK_LINE_LIMIT
+    MAX_CHUNK_LENGTH = config.max_chunk_length
+    MAX_TABLE_CHUNK_LENGTH = config.max_table_chunk_length
+    TABLE_BLOCK_LINE_LIMIT = config.table_block_line_limit
+
+    if config.verbose:
+        logger.info(f"Chunking mit config: max_chunk={config.max_chunk_length}, type={document_type}")
+
     cleaned_text = preprocess_text(text)
-    cleaned_text = remove_front_matter(cleaned_text, document_type)
+
+    if config.remove_front_matter:
+        cleaned_text = remove_front_matter(cleaned_text, document_type)
 
     if document_type == "studienordnung":
         chunks = split_studienordnung(cleaned_text)
@@ -483,7 +496,12 @@ def chunk_document(text: str, document_type: str) -> List[str]:
     else:
         raise ValueError(f"Unbekannter Dokumententyp: {document_type}")
 
-    return [chunk for chunk in chunks if chunk.strip()]
+    result = [chunk for chunk in chunks if chunk.strip()]
+
+    if config.verbose:
+        logger.info(f"Erstellt {len(result)} Chunks")
+
+    return result
 
 
 def save_chunks_to_file(chunks: List[str], output_path: Path) -> None:

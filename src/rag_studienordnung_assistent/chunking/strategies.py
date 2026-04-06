@@ -28,12 +28,6 @@ class ChunkingStrategy(ABC):
     def can_apply(self, text: str) -> bool:
         """
         Prüft, ob diese Strategie auf den Text anwendbar ist.
-
-        Args:
-            text: Der zu überprüfende Text
-
-        Returns:
-            True wenn Strategie anwendbar, False sonst
         """
         pass
 
@@ -41,12 +35,6 @@ class ChunkingStrategy(ABC):
     def split(self, text: str) -> List[str]:
         """
         Teilt den Text nach dieser Strategie auf.
-
-        Args:
-            text: Der zu teilende Text
-
-        Returns:
-            Liste von Chunks, oder leere Liste wenn Split nicht möglich
         """
         pass
 
@@ -55,16 +43,12 @@ class SemesterStrategy(ChunkingStrategy):
     """
     Strategie für Semester/Fachsemester-basiertes Splitting.
 
-    Erkannt Patterns wie:
+    Erkennt Patterns wie:
     - "1. Fachsemester"
     - "2. Semester"
-    etc.
-
-    Nutzt Patterns aus patterns.py.
     """
 
     def can_apply(self, text: str) -> bool:
-        """Text muss 2+ Semester-Marker enthalten"""
         semester_pattern = patterns.SEMESTER_PATTERNS["semester_marker"]["pattern"]
         threshold = patterns.SEMESTER_PATTERNS["semester_marker"]["threshold"]
 
@@ -82,24 +66,19 @@ class AppendixStrategy(ChunkingStrategy):
     """
     Strategie für Anhang/Abschnitt-basiertes Splitting.
 
-    Erkannt Patterns wie:
+    Erkennt Patterns wie:
     - "Anlage 1"
     - "Studienplanübersicht"
     - "Modulübersicht"
     - "Wahlpflichtmodule"
-    etc.
-
-    Nutzt Patterns aus patterns.py.
     """
 
     def can_apply(self, text: str) -> bool:
-        """Text muss 2+ Anhang-Marker enthalten"""
         appendix_pattern = patterns.APPENDIX_PATTERNS["appendix_marker"]["pattern"]
         parts = [part.strip() for part in re.split(appendix_pattern, text) if part.strip()]
         return len(parts) > 1
 
     def split(self, text: str) -> List[str]:
-        """Teilt Text nach Anhang-Markierungen"""
         appendix_pattern = patterns.APPENDIX_PATTERNS["appendix_marker"]["pattern"]
         parts = [part.strip() for part in re.split(appendix_pattern, text) if part.strip()]
         return parts if len(parts) > 1 else []
@@ -141,10 +120,6 @@ class TableStrategy(ChunkingStrategy):
     def split(self, text: str) -> List[str]:
         """
         Teilt tabellenartige Blöcke.
-
-        Diese Implementierung ist hier ein Placeholder,
-        da die volle split_table_like_block Logik komplexer ist.
-        Sie wird von der Hauptfunktion direkt aufgerufen.
         """
         return []
 
@@ -158,7 +133,6 @@ class LengthStrategy(ChunkingStrategy):
     """
 
     def can_apply(self, text: str) -> bool:
-        """Diese Strategie ist immer anwendbar (Fallback)"""
         return True
 
     def split(self, text: str) -> List[str]:
@@ -185,10 +159,6 @@ class StrategyChain:
     def __init__(self, strategies: List[ChunkingStrategy] = None):
         """
         Initialisiert die Strategy Chain.
-
-        Args:
-            strategies: Liste von Strategien in Anwendungsreihenfolge.
-                       Falls None, wird die Standard-Reihenfolge verwendet.
         """
         if strategies is None:
             strategies = [
@@ -202,12 +172,6 @@ class StrategyChain:
     def find_applicable_strategy(self, text: str) -> ChunkingStrategy:
         """
         Findet die erste anwendbare Strategie für den Text.
-
-        Args:
-            text: Der zu analysierende Text
-
-        Returns:
-            Die erste Strategie die can_apply(text) == True zurückgibt
         """
         for strategy in self.strategies:
             if strategy.can_apply(text):
