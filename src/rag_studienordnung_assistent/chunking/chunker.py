@@ -14,6 +14,7 @@ from rag_studienordnung_assistent.chunking.strategies import (
     SemesterStrategy,
     AppendixStrategy,
 )
+from rag_studienordnung_assistent.chunking import patterns
 
 logger = logging.getLogger(__name__)
 
@@ -22,11 +23,6 @@ MAX_CHUNK_LENGTH = 1800
 MAX_TABLE_CHUNK_LENGTH = 3200
 TABLE_BLOCK_LINE_LIMIT = 12
 
-FOOTER_PATTERNS = [
-    r"Seite\s+\d+\s+Amtliches Mitteilungsblatt der HTW Berlin Nr\.\s*\d+/\d+",
-    r"Nr\.\s*\d+/\d+\s+Amtliches Mitteilungsblatt der HTW Berlin Seite\s+\d+",
-    r"Modulhandbuch der HTW Berlin\s+\d+/\d+",
-]
 
 def normalize_newlines(text: str) -> str:
     """Vereinheitlicht Zeilenumbrüche und verschiedne Sonder-Leerzeichen."""
@@ -40,23 +36,43 @@ def normalize_newlines(text: str) -> str:
 
 
 def remove_footers(text: str) -> str:
-    """Entfernt typische Fußzeilen aus den PDFs."""
-    for pattern in FOOTER_PATTERNS:
+    """
+    Entfernt typische Fußzeilen aus den PDFs.
+
+    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
+    """
+    footer_list = patterns.get_footer_patterns_list()
+    for pattern in footer_list:
         text = re.sub(pattern, "", text)
     return text
 
 
 def fix_hyphenation(text: str) -> str:
-    """Setzt durch PDF-Zeilenumbruch getrennte Wörter wieder zusammen."""
-    text = re.sub(r"(?<=[A-Za-zÄÖÜäöüß])\-\n(?=[A-Za-zÄÖÜäöüß])", "", text)
-    text = re.sub(r"(?<=[A-Za-zÄÖÜäöüß])\s*\-\s*\n\s*(?=[A-Za-zÄÖÜäöüß])", "", text)
+    """
+    Setzt durch PDF-Zeilenumbruch getrennte Wörter wieder zusammen.
+
+    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
+    """
+    # Hyphen-Patterns aus patterns.py
+    hyphenation_info = patterns.HYPHENATION_PATTERNS
+
+    for key, info in hyphenation_info.items():
+        text = re.sub(info["pattern"], info["replacement"], text)
+
     return text
 
 
 def normalize_whitespace(text: str) -> str:
-    """Normalisiert Whitespace: mehrere Spaces/Tabs → 1 Space, 3+ Newlines → 2."""
-    text = re.sub(r"[ \t]+", " ", text)
-    text = re.sub(r"\n{3,}", "\n\n", text)
+    """
+    Normalisiert Whitespace: mehrere Spaces/Tabs → 1 Space, 3+ Newlines → 2.
+
+    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
+    """
+    whitespace_info = patterns.WHITESPACE_PATTERNS
+
+    for key, info in whitespace_info.items():
+        text = re.sub(info["pattern"], info["replacement"], text)
+
     return text.strip()
 
 
@@ -73,22 +89,15 @@ def is_table_like_line(line: str) -> bool:
     """
     Heuristik für tabellenartige Zeilen aus Studienverlaufs- oder Äquivalenzübersichten.
 
-    Erkannt Patterns wie:
-    - Modulcodes (B11, WP14)
-    - Nummern mit Text (13 Grundlegende Konzepte)
-    - Text mit mehreren numerischen Spalten
+    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
     stripped = line.strip()
     if not stripped:
         return False
 
-    patterns = [
-        r"^[A-Z]{1,3}\d{2,}[a-zA-Z]?\b",  # z. B. B11, WP14
-        r"^\d{1,2}\s+[A-ZÄÖÜa-zäöüß]",    # z. B. 13 Grundlegende Konzepte
-        r"^[A-ZÄÖÜa-zäöüß].*\b\d+\b.*\b\d+\b",  # mehrere numerische Spalten
-    ]
-
-    return any(re.search(pattern, stripped) for pattern in patterns)
+    # Table-Line-Patterns aus patterns.py
+    table_patterns = patterns.get_table_line_patterns_list()
+    return any(re.search(pattern, stripped) for pattern in table_patterns)
 
 
 def contains_table_like_structure(text: str) -> bool:
@@ -106,33 +115,32 @@ def contains_table_like_structure(text: str) -> bool:
 
 
 def contains_semester_markers(text: str) -> bool:
-    """Erkennt, ob ein Block typische Semesterüberschriften enthält (mindestens 2)."""
-    matches = re.findall(
-        r"(?mi)^\s*(?:[1-9]|1[0-2])\.\s*(?:Fachsemester|Semester)(?:\s*\([^\n]*\))?\b",
-        text
-    )
-    return len(matches) >= 2
+    """
+    Erkennt, ob ein Block typische Semesterüberschriften enthält (mindestens 2).
+
+    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
+    """
+    semester_pattern = patterns.SEMESTER_PATTERNS["semester_marker"]["pattern"]
+    threshold = patterns.SEMESTER_PATTERNS["semester_marker"]["threshold"]
+
+    matches = re.findall(semester_pattern, text)
+    return len(matches) >= threshold
 
 
 def remove_front_matter(text: str, document_type: str) -> str:
-    """Entfernt offensichtliches Front Matter wie Titelblätter oder Inhaltsverzeichnisse."""
-    if document_type == "studienordnung":
-        markers = [
-            r"\n§\s*1\b",
-            r"\n§\s*1\s+[A-ZÄÖÜa-zäöüß]",
-            r"\nPräambel\b",
-        ]
-    elif document_type == "modulhandbuch":
-        markers = [
-            r"\bMODUL ID\b",
-            r"\bZusammenfassung\b",
-            r"\bModulverantwortliche/r\b",
-        ]
-    else:
+    """
+    Entfernt offensichtliches Front Matter wie Titelblätter oder Inhaltsverzeichnisse.
+
+    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
+    """
+    if document_type not in patterns.FRONT_MATTER_PATTERNS:
         return text
 
+    markers_info = patterns.FRONT_MATTER_PATTERNS[document_type]["markers"]
+
     earliest_match = None
-    for pattern in markers:
+    for marker in markers_info:
+        pattern = marker["pattern"]
         match = re.search(pattern, text)
         if match:
             if earliest_match is None or match.start() < earliest_match:
@@ -148,8 +156,10 @@ def split_studienordnung(text: str) -> List[str]:
     """
     Zerlegt Studienordnungen zunächst nach echten Paragraphenüberschriften.
     Lange Paragraphen werden danach an Unterpunkten wie (1), (2), (3) aufgeteilt.
+
+    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
-    paragraph_pattern = r"(?m)(?=^\s*§\s*\d+[a-zA-Z](?:\s*[a-z])?\b)"
+    paragraph_pattern = patterns.PARAGRAPH_PATTERNS["paragraph_header"]["pattern"]
     paragraph_chunks = [part.strip() for part in re.split(paragraph_pattern, text) if part.strip()]
 
     final_chunks: List[str] = []
@@ -166,8 +176,13 @@ def split_paragraph_by_subpoints(paragraph_text: str) -> List[str]:
     """
     Teilt einen Paragraphen an Unterpunkten wie (1), (2), (3) ...
     Der Paragraphenkopf bleibt beim ersten Unterpunkt erhalten.
+
+    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
-    match = re.search(r"(?m)^\s*§\s*\d+[a-zA-Z]?(?:\s*[a-z])?\b.*?(?=^\s*\(1\)|\Z)", paragraph_text)
+    # Pattern für Paragraph-Header
+    paragraph_header_pattern = patterns.PARAGRAPH_PATTERNS["paragraph_header_with_subpoints"]["pattern"]
+
+    match = re.search(paragraph_header_pattern, paragraph_text)
     if match:
         paragraph_header = match.group(0).strip()
         body = paragraph_text[match.end():].strip()
@@ -175,7 +190,10 @@ def split_paragraph_by_subpoints(paragraph_text: str) -> List[str]:
         paragraph_header = ""
         body = paragraph_text.strip()
 
-    if not re.search(r"(?m)^\s*\(\d+\)", body):
+    # Pattern für Subpoint-Marker
+    subpoint_pattern = patterns.PARAGRAPH_PATTERNS["subpoint_marker"]["pattern"]
+
+    if not re.search(subpoint_pattern, body):
         return split_large_chunk(paragraph_text)
 
     subpoint_parts = [part.strip() for part in re.split(r"(?m)(?=^\s*\(\d+\))", body) if part.strip()]
@@ -201,8 +219,11 @@ def split_modulhandbuch(text: str) -> List[str]:
     """
     Zerlegt das Modulhandbuch primär nach Modulblöcken und teilt große Module
     anschließend nach typischen Unterabschnitten.
+
+    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
-    module_parts = [part.strip() for part in re.split(r"(?=\bMODUL ID\b)", text) if part.strip()]
+    module_pattern = patterns.MODULE_PATTERNS["module_id_split"]["pattern"]
+    module_parts = [part.strip() for part in re.split(module_pattern, text) if part.strip()]
 
     final_chunks: List[str] = []
     for module_part in module_parts:
@@ -215,24 +236,14 @@ def split_modulhandbuch(text: str) -> List[str]:
 
 
 def split_module_by_sections(module_text: str) -> List[str]:
-    """Teilt große Modulblöcke an typischen Abschnittsüberschriften."""
-    section_markers = [
-        "Zusammenfassung",
-        "Lernergebnisse",
-        "Inhalte",
-        "Lehr- und Lernformen",
-        "Arbeitsaufwand und Leistungspunkte",
-        "Unterrichtssprache",
-        "Teilnahmevoraussetzungen und Prüfungsformen",
-        "Prüfungsform / Art der Prüfung",
-        "Literatur",
-        "Hinweise",
-        "Anerkannte Module Verwendbarkeit",
-        "Verwendbarkeit",
-    ]
+    """
+    Teilt große Modulblöcke an typischen Abschnittsüberschriften.
 
-    pattern = r"(?m)(?=^(?:" + "|".join(re.escape(marker) for marker in section_markers) + r")\b)"
-    parts = [part.strip() for part in re.split(pattern, module_text) if part.strip()]
+    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
+    """
+    # Section-Marker aus patterns.py
+    section_pattern = patterns.get_section_markers_pattern()
+    parts = [part.strip() for part in re.split(section_pattern, module_text) if part.strip()]
 
     if len(parts) <= 1:
         return split_large_chunk(module_text)
@@ -265,27 +276,13 @@ def split_module_by_sections(module_text: str) -> List[str]:
     return final_chunks
 
 
-# ============================================================================
-# INTELLIGENT SPLITTING WITH STRATEGY PATTERN
-# ============================================================================
-
 def split_large_chunk(chunk: str, max_length: int = MAX_CHUNK_LENGTH) -> List[str]:
     """
     Teilt sehr große Chunks intelligent auf.
-
-    Nutzt Strategien in dieser Reihenfolge:
-    1. Semester-basiert (falls 2+ Semester erkannt)
-    2. Anhang-basiert (falls Anhang-Marker erkannt)
-    3. Tabellen-basiert (falls Tabellenzeilen erkannt)
-    4. Absatz-basiert + Längen-basiert (Fallback)
-
-    REFACTORING NOTE: Diese Funktion wird jetzt mit Strategy Pattern implementiert.
-    Die vorherige wiederholte Fallback-Logik wurde eliminiert.
     """
     if len(chunk) <= max_length:
         return [chunk.strip()]
 
-    # Versuche spezialisierte Strategien
     if contains_semester_markers(chunk):
         semester_strategy = SemesterStrategy()
         result = semester_strategy.split(chunk)
@@ -304,7 +301,6 @@ def split_large_chunk(chunk: str, max_length: int = MAX_CHUNK_LENGTH) -> List[st
         logger.debug("TableStrategy applied")
         return split_table_like_block(chunk)
 
-    # Fallback: Nach Absätzen + Länge teilen
     return _split_by_paragraphs_and_length(chunk, max_length)
 
 
@@ -315,10 +311,9 @@ def _split_by_paragraphs_and_length(chunk: str, max_length: int) -> List[str]:
     paragraphs = [part.strip() for part in chunk.split("\n\n") if part.strip()]
 
     if len(paragraphs) <= 1:
-        # Keine Absatzgrenzen - Split nach reiner Länge
+
         return split_by_length(chunk, max_length)
 
-    # Merge Absätze bis zur maximalen Länge
     result: List[str] = []
     current = ""
 
@@ -337,7 +332,6 @@ def _split_by_paragraphs_and_length(chunk: str, max_length: int) -> List[str]:
     if current.strip():
         result.append(current.strip())
 
-    # Rekursiv weitere zu lange Teile behandeln
     final_chunks: List[str] = []
     for part in result:
         if len(part) > max_length:
@@ -353,7 +347,6 @@ def split_table_like_block(text: str) -> List[str]:
     Teilt tabellenartige Blöcke in größere, aber begrenzte Teilblöcke.
     Zeilen sollen möglichst zusammenbleiben, ohne dass ein Monster-Chunk entsteht.
     """
-    # Versuche erst spezialisierte Strategien
     if contains_semester_markers(text):
         semester_strategy = SemesterStrategy()
         result = semester_strategy.split(text)
@@ -366,7 +359,6 @@ def split_table_like_block(text: str) -> List[str]:
         if result:
             return result
 
-    # Dann: Tabellen-basiert aufteilen
     lines = [line.rstrip() for line in text.split("\n")]
     if not lines:
         return []
@@ -455,7 +447,6 @@ def split_by_length(text: str, max_length: int) -> List[str]:
     if contains_table_like_structure(text):
         return split_table_rows_fallback(text)
 
-    # Reine Längen-basierte Aufteilung
     chunks: List[str] = []
     start = 0
 
@@ -481,16 +472,6 @@ def split_by_length(text: str, max_length: int) -> List[str]:
 def chunk_document(text: str, document_type: str) -> List[str]:
     """
     Hauptfunktion: Bereitet Text vor und chunked dokumenttyp-spezifisch.
-
-    Args:
-        text: Der zu chunkende Text
-        document_type: "studienordnung" oder "modulhandbuch"
-
-    Returns:
-        Liste von Chunks
-
-    Raises:
-        ValueError: Wenn document_type unbekannt
     """
     cleaned_text = preprocess_text(text)
     cleaned_text = remove_front_matter(cleaned_text, document_type)

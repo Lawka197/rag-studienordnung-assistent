@@ -4,11 +4,15 @@ Chunking-Strategien als abstrakte und konkrete Klassen.
 Jede Strategie kann entscheiden, ob sie auf einen Text anwendbar ist,
 und ihn dann entsprechend aufteilen. Das eliminiert die wiederholte
 Fallback-Logik aus dem ursprünglichen Code.
+
+Nutzt zentrale Patterns aus patterns.py.
 """
 
 from abc import ABC, abstractmethod
 from typing import List
 import re
+
+from rag_studienordnung_assistent.chunking import patterns
 
 
 class ChunkingStrategy(ABC):
@@ -55,21 +59,22 @@ class SemesterStrategy(ChunkingStrategy):
     - "1. Fachsemester"
     - "2. Semester"
     etc.
-    """
 
-    SEMESTER_PATTERN = r"(?mi)(?=^\s*(?:[1-9]|1[0-2])\.\s*(?:Fachsemester|Semester)(?:\s*\([^\n]*\))?\b)"
+    Nutzt Patterns aus patterns.py.
+    """
 
     def can_apply(self, text: str) -> bool:
         """Text muss 2+ Semester-Marker enthalten"""
-        matches = re.findall(
-            r"(?mi)^\s*(?:[1-9]|1[0-2])\.\s*(?:Fachsemester|Semester)(?:\s*\([^\n]*\))?\b",
-            text
-        )
-        return len(matches) >= 2
+        semester_pattern = patterns.SEMESTER_PATTERNS["semester_marker"]["pattern"]
+        threshold = patterns.SEMESTER_PATTERNS["semester_marker"]["threshold"]
+
+        matches = re.findall(semester_pattern, text)
+        return len(matches) >= threshold
 
     def split(self, text: str) -> List[str]:
         """Teilt Text nach Semester-Markierungen"""
-        parts = [part.strip() for part in re.split(self.SEMESTER_PATTERN, text) if part.strip()]
+        semester_split_pattern = patterns.SEMESTER_PATTERNS["semester_split_point"]["pattern"]
+        parts = [part.strip() for part in re.split(semester_split_pattern, text) if part.strip()]
         return parts if len(parts) > 1 else []
 
 
@@ -83,29 +88,20 @@ class AppendixStrategy(ChunkingStrategy):
     - "Modulübersicht"
     - "Wahlpflichtmodule"
     etc.
-    """
 
-    APPENDIX_PATTERN = (
-        r"(?mi)(?=^\s*(?:"
-        r"Anlage\s+\d+|"
-        r"Fachgebundene\s+Hochschulzugangsberechtigung|"
-        r"Studienplanübersicht(?:\s*\([^\n]*\))?|"
-        r"Wahlpflichtmodule|"
-        r"AWE-Module/Fremdsprachen|"
-        r"Modulübersicht|"
-        r"Lernergebnisse\s+und\s+Kompetenzen\s+für\s+jedes\s+Modul|"
-        r"Spezifika\s+des\s+Diploma\s+Supplements|"
-        r"Äquivalenztabelle)\b)"
-    )
+    Nutzt Patterns aus patterns.py.
+    """
 
     def can_apply(self, text: str) -> bool:
         """Text muss 2+ Anhang-Marker enthalten"""
-        parts = [part.strip() for part in re.split(self.APPENDIX_PATTERN, text) if part.strip()]
+        appendix_pattern = patterns.APPENDIX_PATTERNS["appendix_marker"]["pattern"]
+        parts = [part.strip() for part in re.split(appendix_pattern, text) if part.strip()]
         return len(parts) > 1
 
     def split(self, text: str) -> List[str]:
         """Teilt Text nach Anhang-Markierungen"""
-        parts = [part.strip() for part in re.split(self.APPENDIX_PATTERN, text) if part.strip()]
+        appendix_pattern = patterns.APPENDIX_PATTERNS["appendix_marker"]["pattern"]
+        parts = [part.strip() for part in re.split(appendix_pattern, text) if part.strip()]
         return parts if len(parts) > 1 else []
 
 

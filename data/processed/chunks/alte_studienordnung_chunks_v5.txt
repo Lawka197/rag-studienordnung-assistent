@@ -1,0 +1,1918 @@
+----- CHUNK 1 -----
+§ 1 Geltungsbereich 
+§ 2 Geltung der Rahmenstudien- und Prüfungsordnung (RStPO-Ba/Ma) 
+§ 3 Vergabe von Studienplätzen 
+§ 4 Fachgebundene Hochschulzugangsberechtigung 
+§ 5 Ziele des Studiums 
+§ 6 Lehrveranstaltungen in englischer Sprache 
+§ 7 Inhalt und Gliederung des Ba chelorstudiums/Regelstudienzeit 
+§ 8 Art und Umfang des Lehran gebotes, Studienorganisation 
+§ 9 Umfang und Einordnung des ergänzenden allgemeinwissenschaftlichen Lehrangebotes 
+§ 10 Modulprüfungen 
+§ 11 Praxisphase und Beurte ilung des Fachpraktikums 
+§ 12 Bachelorarbeit 
+§ 13 Kolloquium 
+§ 14 Modulgruppen und Modulnoten auf dem Bachelorzeugnis 
+§ 15 Berechnung des Gesamtprädikates 
+§ 16 Abschlussdokumente 
+§ 17 Übergangsregelungen 
+§ 18 Inkrafttreten/Veröffentlichung 
+ 
+ 
+Anlage 1 Fachgebundene Hochschulzugangsberechtigung nach § 11 Abs. 2 BerlHG 
+Anlage 2 Studienplanübersicht 
+Anlage 3 Modulübersicht 
+Anlage 4 Lernergebnisse und Kompetenzen für jedes Modul 
+Anlage 5 Spezifika des Diploma Supplements 
+Anlage 6 Äquivalenztabelle 
+ 
+ 
+ Bestätigt durch die Hochschulleitung der Hochschule für Technik und Wirtschaft Berlin am 16. Juli 2014. 
+ 
+ 
+ 
+§ 1 Geltungsbereich
+
+----- CHUNK 2 -----
+(1) Diese Studien- und Prüfungsordnung gilt für alle Studierenden, die nach Inkrafttreten dieser Ordnung am Fachbereich Informatik, Kommunikation und Wirtschaft der HTW Berlin im 
+Bachelorstudiengang Informatik und Wirtschaft in das 1. Fachsemester immatrikuliert werden.
+
+----- CHUNK 3 -----
+(2) Ferner gilt diese Studien- und Prüfungsordnung für alle Studierenden, welche nach einem 
+Hochschul- oder Studiengangwechsel aufgrund der Anrechnung von Studien- und Prüfungsleistungen zeitlich so in den Studienverlauf eingeordnet werden, dass ihr Studienstand dem 
+Personenkreis gemäß Abs. 1 entspricht.
+
+----- CHUNK 4 -----
+(3) Die im § 17 festgelegten Übergangsregelungen gelten nur für Studierende, die nach der 
+vorangegangenen Studienordnung für den Bachel orstudiengang Informat ik und Wirtschaft 
+vom 4. Februar 2009 (AMBl. HTW Berlin Nr. 42/09), zuletzt geändert am 13. April 2011 
+(AMBl. HTW Berlin Nr. 24/11), immatrikuliert wurden. 
+ 
+ 
+§ 2 Geltung der Rahmenstudien- und Prüfungsordnung (RStPO-Ba/Ma) 
+Die Grundsätze für Studien- und Prüfungsordnu ngen für Bachelor- und Masterstudiengänge 
+der Hochschule für Technik und Wirtschaft Berlin (Rahmenstudien- und -prüfungsordnung für 
+Bachelor- und Masterstudiengänge – RStPO – Ba/Ma) und die Praxisordnung der Hochschule 
+für Technik und Wirtschaft Berlin (PraxO) in ihrer jeweils gültigen Fassung sind Bestandteil 
+dieser Ordnung. 
+ 
+ 
+§ 3 Vergabe von Studienplätzen
+
+----- CHUNK 5 -----
+(1) Die Vergabe von Studienplätzen richtet sich im Falle einer Zulassungsbeschränkung nach 
+dem Berliner Hochschulgesetz, dem Berliner Hochschulzulassungsgesetz und der Berliner 
+Hochschulzulassungsverordnung in ihrer jeweils gültigen Fassung in Verbindung mit der Auswahlordnung für Bachelorstudiengänge in der jeweils gültigen Fassung.
+
+----- CHUNK 6 -----
+(2) Der Bachelorstudiengang Informatik und Wirtschaft ist ausschließlich Frauen vorbehalten. 
+ 
+ 
+§ 4 Fachgebundene Hochschulzugangsberechtigung
+
+----- CHUNK 7 -----
+(1) Für Bewerbungen auf der Grundlage von § 11 Abs. 2 BerlHG werden für den Bachelorstudiengang Informatik und Wirtschaft insbesondere die in Anlage 1 aufgeführten abgeschlossenen Berufsausbildungen als geeignet angesehen.
+
+----- CHUNK 8 -----
+(2) Über die inhaltliche Vergleichbarkeit von anderen als den in Anlage 1 aufgeführten Berufsausbildungen entscheidet der Prüfungsausschuss des Studienganges. 
+ 
+ 
+§ 5 Ziele des Studiums
+
+----- CHUNK 9 -----
+(1) Die Ausbildung im Bachelorst udiengang Informatik und Wirtsc haft erfolgt praxisorientiert. 
+Die Studierenden erwerben ein grundlegendes Verständnis für die Realisierung von komplexen Softwaresystemen in Umgebungen der Wirtschaft und des Öffentlichen Dienstes. Die Absolventinnen sind befähigt, komplexe IT-Syste me zu konzipieren, umzusetzen und weiterzuentwickeln. Wesentliches Element ist dabei die Fähigkeit, in IT-Projekten zu arbeiten und diese auch zu leiten. Grundlegende Kenntnisse der Betriebswirtschaft befähigen die Absolventinnen betriebswirtschaftliche Fragestellungen zu analysieren und in IT-Lösungen umzusetzen 
+Die Studierenden erlangen zentrale Schlüsselqualifikationen für die Arbeit in international geprägten interdisziplinären IT-Projekten.
+
+----- CHUNK 10 -----
+(2) Zur Erreichung dieser Ziele baut der Studiengang folgende Kompetenzen auf: 
+• Analyse von Systemen und Definition von An forderungen an zu entwickelnde Lösungen 
+• Verständnis von Arbeitsprozessen 
+• Modellierung von Prozess-, Informations- und Systemstrukturen unter Verwendung von 
+Modellierungstechniken 
+• Verständnis von Methoden und Technologien sowie Fähigkeiten zum Entwickeln von Anwendungssystemen, Datenbanksystemen und Verteilten Systemen 
+• Kommunikations- und Teamfähigkeit 
+• Kundenorientiertes und proaktives Projektmanagement
+
+----- CHUNK 11 -----
+(3) Der Bachelorstudiengang Informatik und Wirtschaft an der HTW Berlin konzentriert sich 
+auf die Berufsfelder Anwendungs entwicklung, Projektleitung und IT-Beratung. Es findet keine 
+Spezialisierung auf bestimmte Branchen oder Unternehmensgrößen statt.
+
+----- CHUNK 12 -----
+(4) Mögliche Einsatzbereiche der Absolventinn en sind IT-Dienstleistungsunternehmen, Software-Häuser, Unternehmen mit IT, Unternehmens beratungen und öffentliche Einrichtungen. 
+Darüber hinaus können die Absolventinnen eigene Unternehmen gründen. 
+ 
+ 
+§ 6 Lehrveranstaltungen in englischer Sprache 
+Lehrveranstaltungen oder Teile davon können in englischer Sprache durchgeführt werden. 
+ 
+ 
+§ 7 Inhalt und Gliederung des Bachelorstudium/Regelstudienzeit
+
+----- CHUNK 13 -----
+(1) Das Präsenzstudium im Bachelorstudiengang Informatik und Wirtschaft hat eine Dauer 
+von 6 Semestern (Regelstudienzeit). Das Ba chelorstudium umfasst 180 Leistungspunkte 
+(ECTS).
+
+----- CHUNK 14 -----
+(2) Das Bachelorstudium ist entsprechend Anlage 2 modularisiert. Module sind inhaltlich geschlossene Lerneinheiten des Studiums mit einem definierten Kompetenzerwerb, deren erfolgreichen Abschluss die Studierende durch eine bestandene Modulprüfung nachweisen muss.
+
+----- CHUNK 15 -----
+(3) Die Beschreibung der Lernergebnisse und Kompetenzen für jedes Modul befindet sich in 
+der Anlage 4 und ist Bestandteil dieser Ordnung. Die ausführliche Beschreibung der Module 
+erfolgt in dem Dokument „Modulbeschreibung für den Bachelorstudiengang Informatik und 
+Wirtschaft – Bachelor of Science (B.Sc.)”.
+
+----- CHUNK 16 -----
+(4) Ein Leistungspunkt (ECTS) steht für einen studentischen Arbeitsaufwand von 30 Stunden. 
+Die jährliche Workload für den Bachelorstudiengang Informatik und Wirtschaft beträgt 1.800 
+Arbeitsstunden.
+
+----- CHUNK 17 -----
+(5) Das Modul Praxisphase findet im 4. Semester statt und umfasst 25 Leistungspunkte 
+(ECTS). Das Modul Praxisphase setzt sich aus dem Fachpraktikum (Vollzeitpraktikum) im Umfang von 17 Wochen und den begleitenden Lehrveranstaltungen „Seminar zum Fachpraktikum“ und „Karrieremanagement“ zusammen. Fü r die weiteren Lehrveranstaltungen des 4. 
+Studienplansemesters werden Alternativen im Semester und in der vorlesungsfreien Zeit angeboten, so dass das Fachpraktikum als zusammenhängender Block stattfinden kann.
+
+----- CHUNK 18 -----
+(6) Das 5. Semester ist als Mobilitätsfenster für ein Hochschulsemester im In- oder Ausland 
+vorgesehen
+
+----- CHUNK 19 -----
+(7) Das Studium schließt mit dem erfolgreichen Abschluss aller Module sowie nach erfolgreicher Bachelorarbeit und erfolgreichem Kolloquium ab. Die Bachelorarbeit wird semesterbegleitend absolviert und umfasst 12 Leistungspunkte (ECTS), das abschließende Kolloquium mit 
+dem bachelorbegleitenden Seminar umfasst 3 Leistungspunkte (ECTS). 
+ 
+ 
+§ 8 Art und Umfang des Lehrangebotes, Studienorganisation
+
+----- CHUNK 20 -----
+(1) Studienbeginn im Bachelorstudiengang Inform atik und Wirtschaft is t jährlich jeweils zum 
+Wintersemester.
+
+----- CHUNK 21 -----
+(2) Das Studium wird im Einzel nen nach dem Studienplan gemäß Anlage 2 durchgeführt. Der 
+Studienplan enthält die Modulb ezeichnungen, die Niveaustufen der Module, die Form und Art 
+des Modulangebotes (Pflicht-/Wahlpflichtmodul), die Präsenzzeit der Lehrveranstaltungen (in 
+SWS), die zugrundeliegende Lernzeit in zu vergebenden Leistungspunkten (ECTS) der Module 
+sowie die notwendigen und empfohlenen Voraussetzungen.
+
+----- CHUNK 22 -----
+(3) In Anlage 2 sind die Wahlpflicht-Module und die AWE-/Fremdsprachenmodule aufgelistet. 
+Welche Module dazu angeboten werden, beschließt der Fachbereichsrat rechtzeitig vor Semesterbeginn.
+
+----- CHUNK 23 -----
+(4) In jedem Semester kann ein Modul als E-Learning-Modul angeboten werden. Welches Modul auf diese Art angeboten wird, beschließt de r Fachbereichsrat jeweils rechtzeitig vor Semesterbeginn. Als E-Learning-Module können alle Module bis auf die AWE-Module und Fremdsprachen durchgeführt werden.
+
+----- CHUNK 24 -----
+(5) In jedem Semester kann mindestens ein Modul in Form eines Kompaktkurses in der vorlesungsfreien Zeit angeboten werden.
+
+----- CHUNK 25 -----
+(6) Für schwangere Studentinnen und Studentinne n, die Kinder oder pflegebedürftige Angehörige betreuen, können auf Antrag Sonderstudienpläne durch den Prüfungsausschuss festgelegt werden.
+
+----- CHUNK 26 -----
+(7) Anstelle eines der curricular vorgesehenen Wahlpflichtmodule B41 Besondere Kapitel der 
+Informatik oder B55 Besondere Kapitel der Wi rtschaftsinformatik ist es den Studierenden 
+nach Zustimmung durch den Prüfungsausschuss und Maßgabe freier Plätze gestattet, ein interdisziplinäres (oder Makro-) Projekt des eigenen oder anderer Fachbereiche der HTW-Berlin 
+zu absolvieren. 
+ 
+ 
+§ 9 Umfang und Einordnung des ergänzen den allgemeinwissenschaftlichen Lehrangebotes
+
+----- CHUNK 27 -----
+(1) Der Umfang der allgemeinwissenschaftlichen Ergänzungsmodule (AWE-Module) beträgt 12 
+Leistungspunkte. Davon entfallen 8 Leistung spunkte auf die Ausbildung in einer Fremdsprache und 4 Leistungspunkte auf allgemeinw issenschaftliche Ergä nzungsmodule (keine 
+Fremdsprache). Die Fremdsprachenausbildung dient der Vertiefung bereits vorhandener 
+Kenntnisse in der englischen Sprache (wird au sdrücklich vom Studiengang empfohlen) oder 
+einer anderen genannten Fremdsprache entsprechend der Lernergebnisse und Kompetenzen 
+für jedes Modul (siehe Anlage 4).
+
+----- CHUNK 28 -----
+(2) Abweichend von Abs. 1 können 12 Leistungspunkte für Fremdsprachen eingesetzt werden, 
+wovon eine Fremdsprache im Umfang von 8 Le istungspunkten und eine zweite Fremdsprache 
+im Umfang von 4 Leistungspunkten zu wählen ist.
+
+----- CHUNK 29 -----
+(3) Abweichend von Abs. 1 und Abs. 2 kann de r gesamte Umfang der AWE-Module auf eine 
+vertiefende Ausbildung in der nach Abs. 1 gewählten Fremdsprache vorgesehen werden. Die 
+möglichen Varianten sind Anlage 2 zu entnehmen.
+
+----- CHUNK 30 -----
+(4) Gemäß Abs. 1 können Studierende, die ihre Hochschulzugangsberechtigung in einer anderen Sprache als Deutsch erhalten haben, 8 Le istungspunkte in Deut sch als Fremdsprache 
+(Mittelstufe 3 und Oberstufe 1) erwerben.
+
+----- CHUNK 31 -----
+(5) Die nach Abs. 1 bis 4 gewählte/n Fremdsprache/n darf/dürfen nicht mit der Muttersprache 
+des/der Studierenden identisch sein.
+
+----- CHUNK 32 -----
+(6) Die erste Fremdsprache ist als Fachsprache Technik (Englisch) oder Wirtschaft (Französisch, Russisch, Spanisch) zu erlernen. Bei Ho chschul- und Studiengangwechsel oder Spracherwerb im Mobilitätssemester wird als erste Fremdsprache auf dem jeweiligen Niveau auch die 
+jeweils andere Fachsprache Wirtschaft bzw. Gestaltung (Englisch) und Technik bzw. Gestaltung (Französisch, Russisch, Spanisch) anerka nnt. Fremdsprachenkenntnisse auf Oberstufenniveau (ab GER C1) in Allgemeinsprache oder beliebiger anderer Fachsprache werden auf die 
+Fachsprachen Wirtschaft oder Technik der Mittelstufe 3 (GER B2) angerechnet. 
+ 
+§ 10 Modulprüfungen
+
+----- CHUNK 33 -----
+(1) Alle Module mit Ausnahme der Praxisphase werden differenziert bewertet.
+
+----- CHUNK 34 -----
+(2) Die erfolgreiche Teilnahme an einem Modul wird durch das Bestehen einer einheitlichen 
+Modulprüfung nachgewiesen. Di e jeweiligen Prüfungsformen und Prüfungskomponenten für 
+jedes Modul sind in dem Dokument „Modulbeschreibung für den Bachelorstudiengang Informatik und Wirtschaft - Bachelor of Science - (B.Sc.)“ beschrieben.
+
+----- CHUNK 35 -----
+(3) Besteht eine Modulprüfung aus mehreren Prüfungskomponenten, so wird die Modulnote 
+durch die Bildung eines gewogenen Mittels der Teilnoten ermittelt, wobei die Gewichtung der 
+Teilnoten in der Modulbeschreibung festgelegt ist.
+
+----- CHUNK 36 -----
+(4) Die bestandene Modulprüfu ng ist Voraussetzung für die Vergabe von Leistungspunkten. 
+Die Anzahl der mit den einzelnen Modulen jeweils zu erwerbenden Leistungspunkte sind in der 
+Anlage 2 dieser Ordnung aufgeführt.
+
+----- CHUNK 37 -----
+(5) Wurde die Prüfung in einem Wahlpflichtmodul bestanden, kann das Wahlpflichtmodul nicht 
+mehr durch ein anderes Wahlpflichtmodul erse tzt werden. Hiervon unbenommen bleibt die 
+Möglichkeit der Ausstellung eines Leistungsnachweises durch die Dozentin/den Dozenten über 
+das zusätzlich absolvierte Wahlpflichtmodul.
+
+----- CHUNK 38 -----
+(6) Besteht die Modulprüfung nur aus einer mo dulbegleitend geprüften Studienleistung oder 
+enthält die Modulprüfung die Prüfungskomponente modulbegleitend geprüfte Studienleistung, 
+so ist bei Nichtbestehen bzw. Nichtantritt die erneute Belegung erforderlich; das gilt auch für 
+alle Fremdsprachenmodule. An sonsten ist im Wiederholungsf all nur die Prüfungsanmeldung 
+zwingend erforderlich. 
+ 
+ 
+ 
+§ 11 Praxisphase und Beurteilung des Fachpraktikums
+
+----- CHUNK 39 -----
+(1) Ausbildungsziele und -ort: 
+Die Praxisphase ist Bestandteil der praxisorientierten Informatikausbildung an der HTW Berlin. 
+Das Studium wird dabei vom Lernort Hochschule an einen externen Lernort verlegt, um die 
+Studierenden durch praktische Mitarbeit in eine m Betrieb oder einer öffentlichen Einrichtung 
+mit der Berufspraxis der Informatikerin vertraut zu machen. Sie sollen Einblicke in die technischen, organisatorischen, ökonomischen und sozialen Zusammenhänge der betrieblichen Abläufe erhalten. Das Fachpraktikum kann auch im Ausland absolviert werden.
+
+----- CHUNK 40 -----
+(2) Dauer und Lage der Praxisphase: 
+Das Modul Praxisphase hat einen Umfang von 25 Leistungspunkten bzw. 750 Arbeitsstunden. 
+Das Modul beinhaltet ein Fachpraktikum das in der Regel ab der ersten Woche des 4. Studienplansemester durchgeführt wird, sowie zwei begleitende Lehrveranstaltungen. Der Umfang 
+des Fachpraktikums beträgt 680 Stunden. Das entspricht 17 Wochen mit einer wöchentlichen 
+Arbeitszeit von 40 Stunden. Das Praktikum soll als Vollzeitpraktikum durchgeführt werden. 
+Das Fachpraktikum kann auf Antrag von Studentinnen mit Kindern oder pflegebedürftigen 
+Angehörigen auch verlängert und mit einer reduzierten Wochenarbeitszeit von minimal 30 
+Stunden absolviert werden. Das entspricht einer Praktikumszeit von 22 Wochen. Über andere 
+Regelungen als zuvor festgelegt entscheidet der oder die Praxisbeauftragte des Studienganges auf Antrag.
+
+----- CHUNK 41 -----
+(3) Teilung des Fachpraktikums: 
+In Ausnahmefällen und auf Antrag der Studierenden und mit Zustimmung des oder der Praxisbeauftragten darf das Fachpraktikum auch zeitlich in zwei Teilabschnitte in einem oder zwei 
+verschiedenen Unternehmen aufgeteilt werden, wobei ein Teilabschnitt mindestens 4 Wochen 
+zusammenhängend in Vollarbeitszeit betragen muss.
+
+----- CHUNK 42 -----
+(4) Ausbildungsbereiche und -inhalte: 
+Als Ausbildungsbereiche, die fü r die Tätigkeit von Studierenden im Rahmen eines Fachpraktikums geeignet sind, gelten Firmen, Institutione n, Ingenieurbüros, Dienstleister und Behörden 
+aus den fachspezifischen Bereichen des Studie ngangs Informatik und Wirtschaft. Die Ausbildungsinhalte ergeben sich weitgehend durch die Aufgaben der verschiedenen Betriebsbereiche der Ausbildungsstellen und die Möglichkeite n der Ausbildungsstellen. Die fachlichen Neigungen der einzelnen Studierend en innerhalb ihres Studienganges sollen bei der Auswahl der 
+Ausbildungsinhalte berücksichtigt werden. Die St udierenden können in allen Tätigkeitsfeldern 
+dieses Bachelorstudienganges eingesetzt werden. In Zweifelsfällen entscheidet der/die Praxisbeauftragte, ob eine Tätigkeit der angestrebten Berufspraxis zugeordnet werden kann.
+
+----- CHUNK 43 -----
+(5) Voraussetzungen und Beantragung: 
+Es wird für die Praxisphase im Vollzeitstudium empfohlen, alle Module des ersten bis dritten 
+Studienplansemesters bereits absolviert zu haben. Voraussetzung ist der Nachweis von 90 
+Leistungspunkten des 1. – 3. Studienplansem esters des Bachelorstudienganges Informatik 
+und Wirtschaft. Die Zulassung ist auf Antrag auch möglich, wenn Module im Gesamtumfang 
+von maximal 10 Leistungspunkten (bei max. 3 Mo dulen) noch nicht erfolgreich abgeschlossen 
+sind. Auf besonderen Antrag kann eine Studierende auch dann zugelassen werden, wenn trotz 
+fehlender Leistungspunkte die erfolgreiche Du rchführung des Fachpraktikums möglich und zu 
+erwarten ist. Über diesen Antrag entscheidet der oder die Praxisbeauftragte.
+
+----- CHUNK 44 -----
+(6) Durchführung des Fachpraktikums: 
+Der Ausbildungsplan für den einzelnen Praxisplatz soll vorsehen, dass die Studierende 
+ - in der Regel einen Arbeitsbereich kennen lernt und dabei möglichst einer Arbeitsgruppe angehört, 
+ - an der Lösung klar beschriebener ingeni eur- oder informations technischer Aufgaben 
+oder Teilaufgaben unter Anle itung beteiligt wird, wobei das im bisherigen Studium erworbene Wissen angemessen zu berücksichtigen ist, 
+ - eine Erläuterung über die Einordnung ihre s jeweiligen Arbeitsbereiches in den gesamten Betriebsablauf erhält.
+
+----- CHUNK 45 -----
+(7) Betreuung: 
+Der oder die Praxisbeauftragte bestellt eine oder mehrere hauptamtliche Lehrkräfte für die 
+Betreuung der Studierenden hinsichtlich der Vo rbereitung, Durchführung und Auswertung des 
+Fachpraktikums. Durch die Industriekontakte der Hochschule kann die Studierende bei der 
+Wahl des Praxisbetriebes unterstützt werden. Die Betreuung während des Praktikums wird 
+über einen persönlichen Kontakt mit den Stud ierenden durch Email, Telefon oder andere 
+ 
+ 
+ 
+Kommunikationsmittel sowie gegebenenfalls durch persönliche Besuche im Praxisbetrieb gewährleistet.
+
+----- CHUNK 46 -----
+(8) Nachweise und Bewertung: 
+Für die erfolgreiche Durchführung des Fachpraktikums sind folgende Nachweise erforderlich: 
+- die Bestätigung der Ausbildungsstelle über die Dauer des Fachpraktikums möglichst bis 
+eine Woche vor Ende des Fachpraktikums und unmittelbare Vorlage dieser bei der betreuenden Lehrkraft, 
+- ein Praktikumsbericht, aus dem der zeitlich e Ablauf des Praktikums, die Praxisaufgaben 
+und die Tätigkeiten zur Lösung der Aufgaben hervorgehen; der Pr aktikumsbericht ist unmittelbar zum Ende des Fachpraktikums bei der betreuenden Lehrkraft abzugeben, 
+- ein Zeugnis des Praktikumsbetriebes über eine erfolgreiche Durchführung des Praktikums 
+mit Ausweis der absolvierten Arbeitsbereiche und -aufgaben, der erbrachten Leistung 
+des/der Studierenden für das Unternehmen, der konkreten Dauer des Praktikums und der 
+tatsächlich geleisteten Gesamtarbeitsstunden (ohne Fehlzeiten); das Zeugnis ist unmittelbar nach Ende des Fachpraktikums bei der betreuenden Lehrkraft abzugeben. 
+Das Fachpraktikum wird auf der Grundlage der vorgenannten Nachweise von der jeweils betreuenden Lehrkraft undifferenziert bewertet. La utet die Bewertung „ohne Erfolg“, so ist das 
+Fachpraktikum unverzüglich zu wiederholen.
+
+----- CHUNK 47 -----
+(9) Begleitende Lehrveranstaltungen: Das Fach praktikum wird von den Lehrveranstaltungen 
+Seminar zum Fachpraktikum und Karrieremanagement begleitet. Die das Fachpraktikum begleitenden Lehrveranstaltungen werden wie folgt angeboten: 
+- Seminar zum Fachpraktikum: jeweils eine Veranstaltung nach der Hälfte und zum Ende 
+des Fachpraktikums 
+- Karrieremanagement: ein einwöchiger Kompaktkurs 
+Für das Modul B41 Besondere Kapitel der Informatik des 4. Studienplansemesters werden 
+Alternativen im Semester und in der vorlesungsfreien Zeit angeboten, so dass das Fachpraktikum als zusammenhängender Block stattfinden kann. Wird das Lehrangebot des Moduls B41 
+parallel zum Fachpraktikum gewählt, verlängert sich der Zeitraum zum Absolvieren des Praktikums um 3 auf 20 Wochen.
+
+----- CHUNK 48 -----
+(10) Anrechnung von Fachpraktika: 
+Eine Anrechnung von Fachpraktikumszeiten ist nur möglich im Rahmen von Anrechnungsprüfungen bei Immatrikulation gemäß §12 PraxO.
+
+----- CHUNK 49 -----
+(11) Zu allen Fragen, die in den Absätzen 1 bis 10 nicht geregelt sind und zu denen keine 
+einvernehmliche Klärung mit der betreuenden Lehrkraft erzielt werden kann, entscheidet 
+der/die Praxisbeauftragte des jeweiligen Studienganges abschließend.
+
+----- CHUNK 50 -----
+(12) Das Modul Praxisphase wird undifferenziert bewertet. 
+ 
+ 
+§ 12 Bachelorarbeit
+
+----- CHUNK 51 -----
+(1) Der Prüfungsausschuss des Studiengangs bestätigt durch Unterschrift des/der Vorsitzenden das von der Studierenden im Einvernehmen mit dem Erstgutachter/der Erstgutachterin 
+vorgeschlagene Thema, sofern es geeignet is t, und legt den Bearbeitungsbeginn und den Abgabetermin sowie die betreuenden Prüfer/Prüferinnen schriftlich fest.
+
+----- CHUNK 52 -----
+(2) Zur Bachelorarbeit wird zugelassen, wer Module im Umfang von mindestens 154 Leistungspunkten der ersten fünf Studienplansem ester abgeschlossen hat. Der Anmeldeschluss 
+für die Bachelorarbeit in der Prüfungsverwaltung ist das jeweils festgelegte Ende der Vorlesungszeit des 5. Studienplansemesters. Die Zulassungen durch den Prüfungsausschuss haben 
+spätestens bis zum Ende des 5. Studienplansemesters zu erfolgen. 
+Eine Kandidatin kann auch zugelassen werden, wenn: 
+- sie Module im Gesamtumfang von bis zu ze hn Leistungspunkten noch nicht erfolgreich 
+abgeschlossen hat und 
+- der erfolgreiche Abschluss sämtlicher Module im Semester, in dem die Bachelorarbeit 
+geschrieben wird, möglich und zu erwarten ist und 
+- Art und Umfang der noch fehlenden Modulprü fungen die Anfertigung der Bachelorarbeit 
+fachlich und zeitlich nicht wesentlich beeinträchtigen.
+
+----- CHUNK 53 -----
+(3) Der zeitliche Bearbeitungsaufwand der Bachelorarbeit entspricht 12 Leistungspunkten. Die 
+Bearbeitungszeit für die Bachelorarbeit umfasst 18 Wochen.
+
+----- CHUNK 54 -----
+(4) Die Bachelorarbeit befasst sich mit einem Thema aus dem Fachpraktikum oder einem frei 
+gewählten Thema. Die Bachelorarbeit kann als Gruppenarbeit mit bis zu 2 Personen durchgeführt werden. In diesem Fall müssen die Beiträge der einzelnen Prüflinge abgrenzbar und individuell zu beurteilen sein. Ein Thema darf im Laufe eines Semesters nur einmal vergeben 
+werden. Die Bachelorarbeit ist zum Ende der Bearbeitungszeit bei der Fachbereichsverwaltung 
+in schriftlicher und elektronischer Form gemäß § 23 Abs. 7 der RStPO abzugeben. 
+ 
+ 
+§ 13 Bachelorseminar/Kolloquium
+
+----- CHUNK 55 -----
+(1) Zur Prüfung im Bachelorseminar/Kolloquium wird zugelassen, wer die Bachelorarbeit erfolgreich erstellt hat und 177 Leistungspunkte im Bachelorstudiengang Informatik und Wirtschaft nachweisen kann.
+
+----- CHUNK 56 -----
+(2) Die Modulprüfung zum Bachelorseminar/Kolloquium bezieht sich auf den Gegenstand der 
+Bachelorarbeit und ordnet diesen in den Kontext des Bachelorstudienganges Informatik und 
+Wirtschaft ein. In dies er Prüfung soll die Studierende zeigen , dass sie in der Lage ist, einen 
+komplexen Sachverhalt in kurzer Zeit darzustellen und ihre Argumentation gegen Kritik zu 
+verteidigen.
+
+----- CHUNK 57 -----
+(3) Dem Kolloquium, als Teil der Bachelorprüfung, liegen folgende Bewertungskriterien zugrunde: 
+- Anwendung von Prozesswissen sowie Methoden und Technologien bei der Lösung anspruchsvoller Aufgaben im Bereich der Informatik und Wirtschaft, 
+- Fähigkeit zur Darstellung eines komplexen Th emas in freier Sprache und innerhalb eines 
+begrenzten Zeitrahmens, 
+ - Fähigkeit zum wissenschaftlichen Disput üb er die fachlichen Aspekte der Bachelorarbeit. 
+ 
+ 
+§ 14 Modulgruppen und Modulnoten auf dem Bachelorzeugnis
+
+----- CHUNK 58 -----
+(1) Folgende Modulnoten werden im Bachelorzeugnis zu einer fachspezifischen Modulgruppe 
+mit eigenem Namen zusammengefasst. Die Note dieser Modulgruppe wird durch die Bildung 
+des gewogenen Mittels aufgrund der Leistungspunkte der einzelnen Modulnoten ermittelt. 
+- BWL 1, BWL 2 und BWL 3 bilden die Modulgruppe Betriebswirtschaftslehre. Die Note 
+für die Modulgruppe Betriebswirtschaftslehre wird aus den Noten der Module BWL 2 und 
+BWL 3 berechnet. 
+- Programmierung 1 und Programmierung 2 bilden die Modulgruppe Programmierung. Die 
+Note der Modulgruppe Programmierung entspricht der Note des Moduls Programmierung 
+2. 
+- Fremdsprache 1 und Fremdsprache 2 bilden die Modulgruppe der gewählten Fremdsprache. Die Note für die Modulgruppe Fremdsprache entspricht der Note des Moduls Fremdsprache 2. Es wird die gewählte Fremdsprache auf dem Bachelorzeugnis ausgewiesen. 
+- Fremdsprache 1 und Fremdsprache 2 und Fremdsprache 3 (Variante 3) bilden die Modulgruppe Vertiefte Fremdsprache Englisch oder Vertiefte Fremdsprache Französisch 
+oder Vertiefte Fremdsprache Spanisch oder Vertiefte Fremdsprache Russisch . Die 
+Note für das Modul Fremdsprache 1 wird bei Bildung der Note für die Modulgruppe nicht 
+berücksichtigt.
+
+----- CHUNK 59 -----
+(2) Reihenfolge der Module/-modulgruppen auf dem Bachelorzeugnis: 
+(a) Pflichtmodule/-modulgruppen 
+ Rechnerarchitektur/Betriebssysteme 
+ Programmierung 
+ Grundlegende Konzepte der Informatik 
+ Datenbanksysteme 
+ Rechnernetze 
+ Datenschutz und Datensicherheit 
+ Webtechnologien 
+ Softwaretechnik 
+ Aktuelle Trends der Informations- und Kommunikationstechnik (IKT ) 
+ Betriebliche Anwendungen 
+ 
+ 
+ 
+ Verteilte Systeme 
+ Usability 
+ Betriebswirtschaftslehre 
+ Mathematik 
+ Modellierung von Informationssystemen 
+ Teamarbeit 
+ 
+(b) Fachspezifische Wahlpflichtmodule 
+Besondere Kapitel der Informatik 
+ Besondere Kapitel der Wirtschaftsinformatik 
+ Projekte in der Wirtschaft 
+ Praxis in Forschung und Entwicklung 
+ 
+(c) Allgemeinwissenschaftliche Ergänzungsmodule: 
+ (gewählte Fremdsprache) und/oder 
+ (AWE-Modul 1, ggf. gewählte vertiefende Fremdsprache, 
+ ggf. gewählte 2. Fremdsprache) 
+ (AWE-Modul 2, ggf. gewählte vertiefende Fremdsprache, 
+ ggf. gewählte 2. Fremdsprache)
+
+----- CHUNK 60 -----
+(3) Folgende Modulnoten werden auf dem Bachelorzeugnis ausgewiesen, gehen jedoch nicht 
+in die Berechnung des Gesamtprädikates ein: 
+ Rechnerarchitektur/Betriebssysteme 
+Grundlegende Konzepte der Informatik 
+ Mathematik. 
+Die Modulnoten Programmierung 1, Betriebswirtschaftslehre 1 und 1. Fremdsprache werden 
+nicht auf dem Bachelorzeugnis ausgewiesen und gehen nicht in die Berechnung des Gesamtprädikates ein. 
+ 
+ 
+§ 15 Berechnung des Gesamtprädikates
+
+----- CHUNK 61 -----
+(1) Das Gesamtprädikat des Abschlusses ergibt sich aus der Gesamtnote (X), die wiederum 
+als gewogenes arithmetisches Mittel der Teilnoten (X
+1, X 2, X 3) nach der Formel 
+X=aX1+bX2+cX3 berechnet, nach der zweiten Stelle hinter dem Komma abgeschnitten und 
+auf eine Stelle nach dem Komma gerundet wird. Die Teilnoten sind: 
+a) der gewogene Mittelwert der Modulnoten, di e in die Berechnung des Gesamtprädikates 
+Eingang finden (Größe X1); dabei wird die errechnete Note nach den ersten beiden Stellen 
+nach dem Komma abgeschnitten, 
+b) die Note der Abschlussarbeit (Größe X2) und 
+c) die Note des Kolloquiums (Größe X3). 
+ 
+Für die Gewichtungsfaktoren gilt: 
+ a = 0,75; b = 0,15; c = 0,10.
+
+----- CHUNK 62 -----
+(2) Die Berechnung der Größe X
+1 für das Gesamtprädikat erfolgt durch die Bildung eines gewogenen Mittels aller Module aufgrund der Anzahl der jeweiligen Leistungspunkte. 
+
+ 
+i
+ii
+a
+aFX )(
+1 . 
+ 
+Darin bedeuten: - Fi: Die Fachnoten der einzelnen Module, 
+ - ai: Die Gewichtungsfaktoren (Leistungspunkte) der einzelnen Module. 
+ 
+ 
+ 
+ 
+Die Gewichtungsfaktoren der Module sind im Folgenden aufgeführt: 
+Modulbezeichnung Gewichtungsfaktor 
+ai 
+Programmierung 2 5 
+Rechnernetze 6 
+Softwaretechnik 5 
+BWL 2: Externes Rechnungswesen 5 
+Betriebliche Anwendungen 5 
+Webtechnologien 5 
+Datenschutz und Datensicherheit 5 
+Datenbanksysteme 5 
+Projekte in der Wirtschaft 10 
+Teamarbeit 5 
+Besondere Kapitel der Informatik 5 
+Modellierung von Informationssystemen 5 
+Verteilte Systeme 5 
+Praxis in Forschung und Entwicklung 10 
+Besondere Kapitel der Wirtschaftsinformatik 5 
+Aktuelle Trends der Informations- und Kommunikationstechnik 
+(IKT) 
+5 
+Usability 6 
+BWL 3: Betriebswirtschaftliches Denken und Handeln 5 
+Fremdsprache 2 4 
+AWE-Modul 1 2 
+AWE-Modul 2 2 
+Summe 110 
+ 
+ 
+§ 16 Abschlussdokumente
+
+----- CHUNK 63 -----
+(1) Die Absolventin erhält die Abschlu ssdokumente gemäß Rahmenstudien- undprüfungsordnung für Bachelor- und Masterstudiengänge - RStPO – Ba/Ma in ihrer jeweils gültigen Fassung. Die Verleihung de s akademischen Grades Bachelor of Science (B.Sc) wird auf 
+der Bachelorurkunde bescheinigt. Auf den Abschlussdokumenten wird nicht gesondert ausgewiesen, dass es sich um einen mono-edukativen Studiengang handelt.
+
+----- CHUNK 64 -----
+(2) Die Spezifika des Diploma Supplements des Bachelorstudienganges Informatik und Wirtschaft werden in der Anlage 4 ausgewiesen.
+
+§ 17 Übergangsregelungen
+Studierende, welche in Studienverzug geraten sind und für die Module nach der vorangegangenen Studienordnung im Bachelorstudiengang Informatik und Wirtschaft vom 4. Februar
+2009 (AMBl. HTW Berlin Nr. 42/09), zuletzt geändert am 13. April 2011 (AMBl. HTW Berlin Nr.
+24/11), nicht mehr angeboten werden, müssen als Äquivalent die in der Äquivalenztabelle in
+Anlage 6 aufgeführten Module dieser Studien- und Prüfungsordnung absolvieren.
+
+§ 18 Inkrafttreten/Veröffentlichung
+Diese Ordnung tritt am Tage nach ihrer Veröffentlichung im Amtlichen Mitteilungsblatt der
+HTW Berlin mit Wirkung vom 1. Oktober 2014 in Kraft.
+
+
+
+
+Anlage 1 zur Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik und
+Wirtschaft
+
+Fachgebundene Hochschulzugangsberechtigung nach § 11 Abs. 2 BerlHG
+Folgende Berufsausbildungen sind insbesondere für eine Immatrikulation gem. § 11 Abs. 2
+BerlHG geeignet:
+• Datenverarbeitungskauffrau
+• Fachinformatikerin
+• Informatikkauffrau
+• IT-System-Elektronikerin
+• Informations- und Telekommunikationskauffrau
+• Industriekauffrau
+• IT-Systemkauffrau
+• Kauffrau für Bürokommunikation
+• Assistentin - Automatisierungs- und Computertechnik
+• Assistentin - Informatik
+• Kfm. Ass./Wirtschaftsassistentin – Informationsverarbeitung
+• Mathematisch-technische Assistentin (staatl. geprüft)
+• Technische Systeminformatikerin
+
+Über die inhaltliche Vergleichbarkeit von Berufsausbildungen mit anderen Bezeichnungen als
+den genannten entscheidet der Prüfungsausschu ss des Studienganges Informatik und Wirtschaft.
+
+
+Anlage 2 zur Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik und
+Wirtschaft
+
+Studienplanübersicht
+1. Semester
+Nr. Modulbezeichnung Art Form SWS LP NSt. NV EV
+B11 Programmierung 1 P SL/PCÜ 4/2 6 1a - -
+B12 Rechnerarchitektur/
+Betriebssysteme
+P SL/PCÜ 2/2 5 1a - -
+B13 Grundlegende Konzepte der
+Informatik
+P SL 4 5 1a - -
+B14 BWL 1: Grundlagen der BWL P SL 4 5 1a - -
+B15 Mathematik P SL/BÜ 2/2 5 1a - -
+B16 Fremdsprache 1 WP PÜ 4 4 1a - -
+ Summe Semester 16/10 30
+
+2. Semester
+Nr. Modulbezeichnung Art Form SWS LP NSt. NV EV
+B21 Programmierung 2 P SL/PCÜ 2/2 5 1b - B11
+B13
+B22 Rechnernetze P SL/PCÜ 2/2 6 1b - B11
+B13
+B23 Softwaretechnik P SL/PCÜ 2/2 5 1b - B11
+B13
+B24 BWL 2: Rechnungswesen P SL/PÜ 2/2 5 1b - B14
+B15
+B25 Betriebliche Anwendungen P SL/PCÜ 2/2 5 1b - B13
+B14
+B26 Fremdsprache 2 WP PÜ 4 4 1b - B16
+ Summe Semester 10/14 30
+
+3. Semester
+Nr. Modulbezeichnung Art Form SWS LP NSt. NV EV
+B31 Webtechnologien P SL/PCÜ 2/2 5 1b - B21
+B32 Datenschutz und Datensicherheit
+P SL/PCÜ 2/2 5 1b - B22
+B33 Datenbanksysteme P SL/PCÜ 2/2 5 1b - B21
+B22
+B34 Projekte in der Wirtschaft *3) WP PS 10 1b - B21
+B22
+B23
+B34.1 Projekte in der Wirtschaft 4
+B34.2 Arbeitswelt IT 2
+B35 Teamarbeit P 5 1b B25
+B35.1 Projektmanagement PÜ 2 1bB35.2 Konfliktmanagement und Mediation
+ PÜ 2 1a - -
+
+----- CHUNK 65 -----
+Summe Semester 6/16 30
+
+
+
+
+4. Semester
+Nr. Modulbezeichnung Art Form SWS LP NSt. NV EV
+B41 Besondere Kapitel der Informatik*)1
+WP PCÜ 4 5 1b - 1.-3.
+Sem
+B42 Praxisphase P 25 1b 1.-3.
+Sem
+B42.1 Fachpraktikum
+B42.2 Begleitendes Seminar zum
+Fachpraktikum
+ PS 1 -
+B42.3 Karrieremanagement PÜ 2 1b - B34
+ Summe Semester 0/7 30
+
+5. Semester (Mobilitätssemester)
+Nr. Modulbezeichnung Art Form SWS LP NSt. NV EV
+B51 Modellierung von Informationssystemen
+P SL/PCÜ 2/2 5 1b - B23
+B33
+B52 Verteilte Systeme P SL/PCÜ 2/2 5 1b - B31
+B32
+B53 Praxis in Forschung und Entwicklung
+WP PS 10 1b B34 -
+B53.1 Projekt * 3) 4
+B53.2 Wissenschaftliches Schreiben 2
+B54 BWL 3: Betriebswirtschaftliches
+Denken und Handeln
+P SL 2 5 1b - B24
+B55 Besondere Kapitel der Wirtschaftsinformatik
+WP PCÜ 4 5 1b - 1.-3.
+Sem
+
+----- CHUNK 66 -----
+B56 AWE-Modul 1 WP PÜ 2 2 1a - -
+B57 AWE-Modul 2 WP PÜ 2 2 1a - -
+ Summe Semester 6/18 34
+
+6. Semester
+Nr. Modulbezeichnung Art Form SWS LP NSt. NV EV
+B61 Aktuelle Trends der Informations- und Kommunikationstechnik (IKT)
+P SL/PCÜ 2/2 5 1b - B21
+B22
+B62 Usability P SL/PCÜ 2/2 6 1b - B54
+B23
+B63 Bachelorseminar/Kolloquium P PS 1 3 1b s. §
+13
+-
+B64 Bachelorarbeit *2) P 12 1b s. §
+12
+-
+ Summe Semester 4/5 26
+ Summe gesamt 42/70 180
+*)1 Das Modul B41 wird als Kompaktkurs in der vorlesungsfreien Zeit oder parallel zum Fachpraktikum angeboten.
+*)2 Die Bachelorarbeit ist im 6. Semester semesterbegleitend anzufertigen. Die Bearbeitungszeit beginnt mit der offiziellen Zulassung zur Bachelorarbeit. Der Workload beträgt 12 LP
+30 Stunden = 360 Stunden. Die Bearbeitungsdauer beträgt 18 Wochen.
+*)3 Zu B34.1 und B54.1 werden jeweils mindestens 4 Projekte angeboten.
+
+
+
+Erläuterungen:
+Form der Lehrveranstaltung: Art des Moduls:
+SL Seminaristischer Lehrvortrag P Pflichtmodul
+BÜ Begleitübung) WP Wahlpflichtmodul
+PS Projekt (-Seminar)
+PÜ Praktische Übung
+PCÜ PC-Übung
+LPr Laborpraktikum
+Allgemein:
+NSt Niveaustufe (1a = voraussetzungsfrei/ 1b = voraussetzungsbehaftet)
+SWS Semesterwochenstunden
+NV Notwendige Voraussetzung (Module
+mit notwendig bestandener Prüfungsleistung)
+LP Leistungspunkte (ECTS)
+EV Empfohlene Voraussetzung (Module
+mit empfohlen bestandener Prüfungsleistung)
+
+
+
+Wahlpflichtmodule:
+
+Nr. Modulbezeichnung Art Form SWS NSt NV EV
+B34 Projekte in der Wirtschaft WP PS 8 1bB21
+B22
+B22
+B53 Praxis in Forschung und
+Entwicklung WP PS 8 1b B34 -
+B41 Besondere Kapitel der
+Informatik WP PCÜ 4 1b - 1.-3. Sem.
+B55 Besondere Kapitel der
+Wirtschaftsinformatik WP PCÜ 4 1b 1.-3. Sem.
+Zu B41 und B55 werden jeweils mindestens zwei Veranstaltungen angeboten, aus denen die
+Studierenden wählen können. Jeweils eine der beiden Veranstaltungen findet semesterbegleitend, die jeweils andere Veranstaltung in der vorlesungsfreien Zeit als Blockveranstaltung
+(über 2 Wochen) statt.
+
+
+
+AWE-Module/Fremdsprachen
+
+Variante 1:
+Nr. Modulbezeichnung Art Form SWS LP NSt NV EV
+B16 English for Computing M2T
+(Mittelstufe 2/Technik, GER
+B2.1) oder Französisch/
+Russisch/Spanisch M1W
+(Mittelstufe 1/Wirtschaft, GER
+B1.2)
+WP PÜ 4 4 1a - -
+B626 English for Computing M3T
+(Mittelstufe 3/Technik, GER
+B2.2) oder Französisch/
+Russisch/ Spanisch M2W
+(Mittelstufe 2/Wirtschaft, GER
+B2.1)
+WP PÜ 4 4 1b - B16
+B56 AWE-Modul 1 WP PÜ 2 2 1a - -
+B57 AWE-Modul 2 WP PÜ 2 2 1a - -
+
+
+
+Variante 2:
+Nr. Modulbezeichnung Art Form SWS LP NSt NV EV
+B16 English for Computing M2T
+(Mittelstufe 2/Technik, GER
+B2.1) oder Französisch/
+Russisch/ Spanisch M1W
+(Mittelstufe 1/Wirtschaft, GER
+B1.2)
+WP PÜ 4 4 1a - -
+B26 English for Computing M3T
+(Mittelstufe 3/Technik, GER
+B2.2) oder Französisch/
+Russisch/ Spanisch M2W
+(Mittelstufe 2/Wirtschaft, GER
+B2.1)
+WP PÜ 4 4 1b - B16
+B56+
+B57
+2. Fremdsprache
+(nicht B16 + B26)
+WP PÜ 4 4 1a - -
+
+
+
+Variante 3:
+Nr. Modulbezeichnung Art Form SWS LP NSt NV EV
+B16 English for Computing M2T
+(Mittelstufe 2/Technik, GER
+B2.1) oder Französisch/
+Russisch/ Spanisch M1W
+(Mittelstufe 1/Wirtschaft, GER
+B1.2)
+WP PÜ 4 4 1a - -
+B26 English for Computing M3T
+(Mittelstufe 3/Technik, GER
+B2.2) oder Französisch/
+
+----- CHUNK 67 -----
+Russisch/ Spanisch M2W
+(Mittelstufe 2/Wirtschaft, GER
+WP PÜ 4 4 1b - B16
+
+
+B2.1)
+B56
++
+B57
+Advanced English
+O1A/W/T/G (Oberstufe
+1/Allgemeinsprache/Wirtschaf
+t/Technik/Gestaltung, GER
+C1) oder O2A/W/T/G (Oberstufe
+2/Allgemeinsprache/Wirtschaf
+t/Technik/Gestaltung, GER
+C2) oder
+Französisch/Russisch/
+Spanisch M3W (Mittelstufe
+3/Wirtschaft, GER B2.2)
+WP PÜ 4 4 1b - B26
+
+
+
+
+
+
+
+
+
+Anlage 3 zur Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik und
+Wirtschaft
+
+Modulübersicht
+
+ Informatik und Wirtschaft Computer Science and Business
+Administration LP
+ Modulbezeichnung deutsch Modulbezeichnung englisch
+B11 Programmierung 1 Programming 1 6
+B12 Rechnerarchitektur/Betriebssysteme Computer Architecture and Operating
+Systems
+5
+B13 Grundlegende Konzepte der
+Informatik
+Conceptual Foundations of Computer
+Science
+5
+B14 BWL 1: Grundlagen der BWL Business Administration 1: Foundations
+5
+B15 Mathematik Mathematics 5
+B16 Fremdsprache 1 Foreign Language 1 4
+B21 Programmierung 2 Programming 2 5
+B22 Rechnernetze Computer Networks 6
+B23 Softwaretechnik Software Engineering 5
+B24 BWL2: Rechnungswesen Business Administration 2: Accounting 5
+B25 Betriebliche Anwendunge n Business Applications 5
+B26 Fremdsprache 2 Foreign Language 2 4
+
+----- CHUNK 68 -----
+B31 Webtechnologien Web Technologies 5
+B32 Datenschutz und Datensicherheit Da ta Protection and Data Security 5
+B33 Datenbanksysteme Database Systems 5
+B34 Projekte in der Wirtscha ft Projects in Business 10
+B35 Teamarbeit Teamwork 5
+B41 Besondere Kapitel der Informatik Selected Computer Science Topics 5
+B42 Praxisphase Practical Phase 25
+B51 Modellierung von Informationssystemen
+Modelling of Information Systems 5
+B52 Verteilte Systeme Distributed Systems 5
+B53 Praxis in Forschung und Entwicklung Research and Development in Practice 10
+B54 BWL 3: Betriebswirtschaftliches Denken und Handeln
+Business Administration 3: Business
+in Practice
+5
+B55 Besondere Kapitel der Wirtschaftsinformatik
+Selected Business Computing Topics 5
+
+----- CHUNK 69 -----
+B56 AWE-Modul 1 Supplementary Module 1 2
+B57 AWE-Modul 2 Supplementary Module 2 2
+B61 Aktuelle Trends der Informations- und
+Kommunikationstechnik (IKT)
+Current Trends in ICT 5
+B62 Usability Usability 6
+B63 Bachelorseminar/Kolloquium Bachelor’s Thesis Seminar/Oral Examination
+3
+B64 Bachelorarbeit Bachelor’s Thesis 12
+
+
+Anlage 4 zur Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik und
+Wirtschaft
+
+Lernergebnisse und Kompetenzen für jedes Modul
+
+Modulbezeichnung B1 1 Programmierung 1
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Erlernen des algorithmischen Denkens
+• Erlernen einer Programmiersprache
+• Strukturierung und Modularisierung von Problemlösungen
+• Sicherer Umgang mit einer Entwicklungsumgebung
+• Kennenlernen relevanter Literatur und Dokumentation
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Verständnis für technologische Grundlagen
+• Praktische Problemlösungs- und Umsetzungsfähigkeit
+• Schnelle Einarbeitung in unbekannte Themen
+
+Modulbezeichnung B12 Rechnera rchitektur/Betriebssysteme
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Kenntnisse in den Grundlagen und der Funktionsweise moderner
+Computerhardware
+• Kenntnisse des Aufbaus und der Arbeitsweise von Betriebssystemen
+• Arbeiten mit verbreiteten Betriebssystemen
+Fachunabhängig:
+• Eigenständiges Lernen
+• Selbständiges Erarbeiten der Bedienung von Betriebssystemen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+
+Modulbezeichnung B13 Grundlegen de Konzepte der Informatik
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Verständnis der theoretischen Grundlagen der Informatik (Algorithmus, Datenstrukturen, Sprachen, Grammatiken)
+• Fähigkeit zur Abstraktion und zum algorithmischen Denken
+• Fähigkeit, die Grundkonzepte der digitalen Datenverarbeitung zu verstehen und anzuwenden
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Bewältigung komplexer Zusammenhänge
+• Verständnis für abstrakte/formale Modelle
+
+
+
+
+Modulbezeichnung B14 BW L 1: Grundlagen BWL
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Verständnis der grundlegenden Modelle betriebswirtschaftlichen Handelns
+• Verständnis aufbau- und ablauforganisatorischer Strukturen
+• Kenntnisse der Aufgaben des Managements
+• Einblick in Führungsstile und die sie begründenden Theorien
+• Verständnis für die Aufgaben und Methoden der Personalwirtschaft
+• Verständnis der Grundfragen der Investition
+• Verständnis der Risiken und Unsicherheiten in
+• Investitionsentscheidungen
+• Verständnis für die Grundlagen der Finanzierung
+• Einblick in moderne Finanzinstrumente
+• Verständnis der Wertschöpfungsprozesse in Produktion, Logistik und
+Dienstleistung
+• Kennenlernen der Methoden der Bedarfsvorhersage, der Planung von
+• Kapazitätsangebot und Kapazitätsbedarf
+• Verständnis für die Grundlagen des Marketing
+• Einblick in die Methoden der Marktanalyse, Marktinformation und
+Marktforschung
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+
+Modulbezeichnung B15 Mathematik
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+
+----- CHUNK 70 -----
+• Grundlegende Kenntnisse, Fähigkeiten und Fertigkeiten der formalen
+mathematischen Denkweise
+• Grundkenntnisse in wichtigen Teilgebieten (Analysis, lineare Algebra)
+• Einführung in Logik (Prädikatenlogik, Schaltalgebra)
+• Einführung in Maschinenzahlen
+• Einführung in Statistik
+Fachunabhängig:
+• Erlernen abstrakten Denkens
+• Erlernen vom Denken in Konzepten
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Verständnis für abstrakte/formale Modelle
+
+
+
+Modulbezeichnung B2 1 Programmierung 2
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Verstehen des objektorientierten Klassenkonzepts
+• Sicherer Umgang mit Vererbung, Interfaces und Polymorphismus
+• Entwurf und Realisierung von Klassen
+• Testen Objektorientierter Software
+• Implementieren grafischer Nutzeroberflächen
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Bewältigung komplexer Zusammenhänge
+• Verständnis für technologische Grundlagen
+• Praktische Problemlösungs- und Umsetzungsfähigkeit
+• Schnelle Einarbeitung in unbekannte Themen
+• Zielfindung und Zieleingrenzung
+
+Modulbezeichnung B22 Rechnernetze
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Verständnis der Grundlagen von Netzwerken
+• Befähigung zur Analyse und Synthese von Netzwerkarchitekturen
+• Kenntnisse über die Realisierung des Internets
+• Kenntnisse über die Grundlagen des WWW
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Verständnis für abstrakte/formale Modelle
+• Verständnis für technologische Grundlagen
+
+Modulbezeichnung B23 Softwaretechnik
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Verständnis für den Einsatz methodischer Konzepte im Rahmen der
+Anwendersoftwareentwicklung
+• Modellierung von komplexen Aufgabenstellungen
+• Erfassung von Arbeitsprozessen
+• Durchführung von Systemanalysen
+• Erstellung von Pflichten- und Lastenheften
+• Erwerb von Kenntnissen zum Softwareentwicklungsprozess
+• Vorgehensmodelle
+• Migration auf andere Plattformen
+• Durchführung von Kosten- und Aufwandschätzungen
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Verstehen komplexer Zusammenhänge
+• Verständnis für abstrakte/formale Modelle
+• Kommunikationsfähigkeit
+• Kooperationsfähigkeit, Teamfähigkeit, Anpassungsfähigkeit
+• Arbeitseinstellung und Erfüllen von Verhaltensanforderungen
+
+
+
+
+Modulbezeichnung B24 BW L 2: Rechnungswesen
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Kenntnisse methodischer Grundlagen und Instrumente der Abbildung
+geschäftlicher Tätigkeiten
+• Verständnis der Einordnung des externen Rechnungswesens (Bilanz,
+Gewinn- und Verlustrechnung) in die betriebswirtschaftlichen und gesetzlichen Grundlagen
+• Verständnis der Systematik der Erfassung und informativen Abbildung
+von Geschäftsvorfällen und ihrer bestandsverändernden Wirkung
+• Fähigkeit zur Analyse von Kosten- und Leistungsstrukturen, zur Anwendung von Kostenverrechnungs- und Kalkulationsverfahren und zur
+Nutzung von Methoden der Kostenplanung
+• Fähigkeit zur Kommunikation der Ergebnisse an Vertreter anderer
+Fachdisziplinen
+
+----- CHUNK 71 -----
+• Fähigkeit zur Nutzung von Controllingsystemen
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+
+Modulbezeichnung B25 Betr iebliche Anwendungen
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Überblick über Anwendungen aus der Wirtschaft und dem Öffentlichen
+Dienst
+• Umgang und Berücksichtigung von Geschäftsprozessen
+• Verständnis integrierter Informationsverarbeitung
+• Überblick über relevante Literatur und Produkte
+ Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Bewältigung komplexer Zusammenhänge
+• Informationsbeschaffung und -bewertung
+• Wissenschaftliche Neugier und Recherchefähigkeit
+• Fähigkeit zu interdisziplinärer Teamarbeit
+
+Modulbezeichnung B3 1 Webtechnologien
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Kenntnisse folgender Technologien: HTML, CSS, JavaScript
+• Beherrschen einer Skriptsprache
+• Befähigung zur Konzeption von Websites
+• Kenntnis in der XML-Technologie (XSLT, Grammatiken etc.)
+• Kenntnisse von SOA und Alternativen
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Verständnis für technologische Grundlagen
+
+
+
+Modulbezeichnung B32 Datens chutz und Datensicherheit
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Kenntnisse der Grundlagen des Datenschutzes
+• Kenntnisse der IT-Sicherheit, z. B. Grundschutzhandbuch
+• Sichern von IT-Systemen
+• Kenntnisse der Konzepte zur Erhöhung der IT-Sicherheit
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+
+Modulbezeichnung B33 Datenbanksysteme
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Verständnis der Rolle von Datenbanksystemen bei der Entwicklung
+von IT-Systemen
+• Fähigkeit, Informationsbedürfnisse von Arbeitsprozessen in
+ Datenmodelle umzusetzen
+• Fähigkeit, relationale Datenbestände auszuwerten
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Bewältigung komplexer Zusammenhänge
+• Verständnis für abstrakte/formale Modelle
+
+
+
+
+Modulbezeichnung B35 Teamarbeit
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Grundkenntnisse des Fach- und Me thodenwissen zur Projektarbeit
+• Verständnis der Bedeutung von Ziel- und Anforderungsdefinition
+• Planung von Projekten
+• Kenntnis von Methoden und Techniken zur Erhebung, Analyse,
+• Konzeptentwicklung, Realisierung
+• Schmieden eines Teams
+• Umgang mit Mitarbeitern und Kunden
+• Kenntnisse von verbreiteten Vorgehensmodellen
+• Realisierung von Qualität
+• Anwenden von Schätzmodellen
+• Kenntnis von Konfliktmodellen und Eskalationsstufen der
+Gruppenkommunikation
+• Kenntnis von Methoden der Deeskalation für typische Krisen- und
+Konfliktsituationen in Arbeitsgruppen
+• Aufbau von Sozialkompetenz für kommunikative Herausforderungen
+in Projekten
+• Praktischer Umgang mit schwi erigen Kommunikationspartnern
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Bewältigung komplexer Zusammenhänge
+• Kommunikationsfähigkeit
+• Kooperationsfähigkeit, Teamfähigkeit, Anpassungsfähigkeit
+• Konfliktfähigkeit
+
+----- CHUNK 72 -----
+• Arbeitseinstellung und Erfüllen von Verhaltensanforderungen
+• Qualitäts-, Zeit- und Kostenbewusstsein
+
+Modulbezeichnung B42 Praxisphase
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Vertraut machen mit Einsatzgebieten und Einsatzanforderungen der
+Informatik in der Praxis
+• Kennenlernen von praktischer Projektarbeit
+• Analysieren der gemachten Erfahrungen
+• Planung der eigenen Karriere
+• Selbsterkenntnis und Selbstanalyse
+• Methoden zur Überwindung eigener Schwächen
+• Aufbau und Nutzung von Netzwerken
+• Kenntnis wichtiger Fallbeispiele
+Fachunabhängig:
+• Eigenständiges Lernen
+• Systematische Arbeitsweise
+• Kommunikationsfähigkeit
+• Kooperationsfähigkeit, Teamfähigkeit, Anpassungsfähigkeit
+• Konfliktfähigkeit
+• Strukturiertes, konzeptionelles Denken
+
+
+
+Modulbezeichnung B51 Modellieru ng von Informationssystemen
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Kenntnisse der Prinzipien der Modellierung, Bedeutungsanalyse, Beschreibungslogiken und Ontologien
+• Kenntnisse sowohl der statischen, als auch der dynamischen
+Systemmodellierung
+ o Datenmodellierung
+ o Prozessmodellierung
+ o Objektorientierte Modellierung: Unified Modeling Language
+ o Dokument- und Objektmodellierung mit XML
+ o Modellierung von Interaktivität
+• Befähigung die vorgestellten Modellierungstechniken für die (Fein-)
+Konzeption von Informationssystemen einzusetzen und ihre Verwendung im Kontext eines übergeordneten Entwicklungsprozesses einzuordnen.
+Fachunabhängig:
+• Strukturiertes, konzeptionelles Denken
+• Abstraktionsvermögen
+• Systematische Arbeitsweise
+
+Modulbezeichnung B52 Verteilte Systeme
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Kenntnis methodischer Konzepte für die Entwicklung von Webportalen
+und -Anwendungen
+• Konzeption und Entwicklung verteilter Systeme
+• Erlernen von Programmiersprachen (PHP, JavaScript)
+• Erlernen und Anwenden datensicherheitsrelevanter Aspekte
+• Verschlüsselungsverfahren, Zertifikate und sichere Infrastrukturen
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Praktische Problemlösungs- und Umsetzungsfähigkeit
+• Schnelle Einarbeitung in unbekannte Themen
+
+Modulbezeichnung B54 BWL 3: Betriebs wirtschaftliches Denken und Handeln
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Unternehmensorganisation
+• Aufstellen von Geschäftsplänen
+• Durchführen von Marktanalysen und Risikoabschätzung
+• Bestimmung der optimalen Standortwahl
+• Finanzierungsmöglichkeiten
+• Finden und Ausbilden von Personal
+Fachunabhängig:
+• Eigenständiges Lernen
+• Beobachten und Analysieren
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+
+
+
+
+Modulbezeichnung B61 Aktuelle Trends der Informations- und Kommunikationstechnik
+(IKT)
+Lernergebnis und
+Kompetenzen
+Aus dem Bereich der Informatik werden aktuelle Themen behandelt, die
+sich insbesondere mit sicherheitsrelevanten Fragen auseinandersetzen.
+Fachabhängig:
+• Vertiefung von Grundlagen (Programmierung, DSDS, Rechnernetze)
+• wissenschaftliches Erarbeiten und Verstehen aktueller Themen der
+Informatik
+• Anwendung aktueller Themen in der Informatik
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+
+----- CHUNK 73 -----
+Modulbezeichnung B62 Usability
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+• Kenntnisse der Grundlagen guter Mensch/Maschine-Schnittstellen
+• Diskussion von Fallbeispielen
+• Fähigkeiten zum barrierefreien Entwurf
+• Prüfung von Konzepten und Metaphern
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Verstehen praktischer Zusammenhänge
+
+Modulbezeichnung B65 Bach elorseminar/Kolloquium
+Lernergebnis und
+Kompetenzen
+• Beherrschen der erforderlichen Techniken, die zur Anfertigung einer
+Bachelorarbeit erforderlich sind;
+• Kennen Umgang mit wissenschaftlichen Quellen und können die für
+die Erstellung einer Thesis erforderlichen Informationen bewerten und
+gewichten
+• Sind mit den Formalien einer Bachelorarbeit vertraut
+• Fähigkeit, innerhalb eines vorgegebenen Zeitraums eine konkrete
+Fragestellung unter Berücksichtigung von Schrifttum und vermitteltem
+Wissen praxisorientiert darzustellen und zu lösen
+• Fähigkeit der Darstellung des eigenen Arbeitsansatzes und der eigenen Ergebnisse
+• Fähigkeit, die Arbeitsansätze und Ergebnisse anderer zu bewerten und
+ggf. Verbesserungsvorschläge zu machen
+
+Modulbezeichnung B6 6 Bachelorarbeit
+Lernergebnis und
+Kompetenzen
+• Fähigkeit, eine klar abgegrenzte praxisbezogene Problemstellung mit
+dem erworbenen Fach- und Methodenwissen erfolgreich mit wissenschaftlichem Anspruch zu bearbeiten
+• Verfassen einer wissenschaftlichen Abschlussarbeit
+
+
+
+
+
+
+
+
+Wahlpflichtmodule
+Modulbezeichnung B34 Proj ekte in der Wirtschaft
+Lernergebnis und
+Kompetenzen
+Fachabhängig:
+Es wird mindestens ein Unternehmen oder eine Institution des
+Öffentlichen Dienstes besucht, die dortigen Aufgaben, Probleme und
+Arbeitsprozesse erfasst und diese Ergebnisse in Form einer Analyse
+dargestellt.
+• Analyse von Fallbeispielen realer Projekte
+• Konzeption von Projekten
+• Kenntnisse von Projekten des öffentlichen Dienstes
+• Probleme und deren Lösungen bei Projekten
+• Projektmanagement
+• Konfliktmanagement
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Bewältigung komplexer Zusammenhänge
+
+Modulbezeichnung B41 Besonder e Kapitel der Informatik
+Lernergebnis und
+Kompetenzen
+Aus dem Bereich der Informatik werden spezielle Themen behandelt,
+z.B. Einführung von Software, Testen von Spezifikationen, Frameworks,
+verteilte Datenbanken etc.
+Fachabhängig:
+• Vertiefung von Grundlagen
+• Konzept und Realisierung typischer Tätigkeiten in der Informatik
+• wissenschaftliches Erarbeiten und Verstehen aktueller Themen der
+Informatik
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+
+
+
+
+Modulbezeichnung B53 Praxis in Forschung und Entwicklung
+Lernergebnis und
+Kompetenzen
+Aus dem ganzen Bereich der Informatik wird in Gruppenarbeit ein komplexes Projekt durchgeführt, bei dem die Zusammenhänge der einzelnen Module des Studienganges erkennbar werden.
+Fachabhängig:
+• Erkennen des Gesamtzusammenhangs aller bisherigen Module
+• Konzeption und Realisierung von Implementierungen
+• Kennenlernen der Methoden der wissenschaftlichen Arbeit in den
+Ingenieurwissenschaften und Mathematik
+• Fallbeispiele
+
+----- CHUNK 74 -----
+• Schreiben wissenschaftl icher Veröffentlichungen
+• Techniken zur Themenfind ung und Literaturarbeit
+• Logik und Argumentieren
+• Zeit-Management
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Gruppenarbeit
+• Kommunikationsfähigkeit
+
+Modulbezeichnung B55 Be sondere Kapitel der Wirtschaftsinformatik
+Lernergebnis und
+Kompetenzen
+Aus dem Bereich der Wirtschaftsinformatik werden spezielle Themen
+behandelt, z. B. Einführung von Enterprise-Ressource-System, Geschäftsprozessoptimierung, Berichtswesen, Workflow-Management,
+Dokumenten-Management etc.
+Fachabhängig:
+• Vertiefung von Grundlagen
+• Konzept und Realisierung typischer Projekte in der Wirtschaftsinformatik
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Praktische Problemlösungs- und Umsetzungsfähigkeit
+• Schnelle Einarbeitung in unbekannte Themen
+
+
+
+AWE-Module/Fremdsprachen
+
+Variante1:
+Modulbezeichnung Fremdsprache 1:
+English for Computing M2T
+oder Le français des affaires M1W
+oder Español para los negocios M1W
+oder Russisch für die Wirtschaft M1W
+oder Deutsch als Fremdsprache/Wirtschaft M3W*
+Lernergebnis und
+Kompetenzen
+Das Modul dient der Einführung in die Fachsprache der Informatik oder
+Wirtschaft. Alle Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben)
+werden auf Grundlage bereits er worbener allgemeinsprachlicher
+Kenntnisse mit folgender Zielstellung weiterentwickelt:
+Englisch: Mittelstufe 2/ Technik (B2.1)
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit
+konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Französisch/Spanisch/Russisch: Mittelstufe 1 (B1.2)
+- Verständnis des wesentlichen Inhalts klar standardisierter Informationen zu vertrauten Themen aus den Bereichen Arbeit, Schule, Studium
+usw.
+- Kommunikationsfähigkeit in anzunehmenden Gesprächssituationen in
+Ländern, in denen die Sprache gesprochen wird
+- einfache Textproduktion zu vertrauten Fachthemen oder Themen von
+persönlichem Interesse
+- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen
+und Zielen
+- kurze Erklärung und Begründung von Meinungen und Plänen
+DaF: Mittelstufe 3/Wirtschaft (B2.2)*
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+unter Benennung der Vor- und Nachteile unterschiedlicher Ansätze
+* gilt nur für Studierende mit Hochschulzugangsberechtigung in einer
+anderen Sprache als Deutsch
+
+
+
+
+Modulbezeichnung Fremdsprache 2:
+English for Computing M3T
+oder Le français des affaires M2W
+oder Español para los negocios M2W
+oder Russisch für die Wirtschaft M2W
+oder Deutsch als Fremdsprache/Wirtschaft O1W*
+Lernergebnis und
+Kompetenzen
+
+----- CHUNK 75 -----
+Das Modul dient der Erlangung weiterer (M2W) bzw. hoher (M3T) und
+sehr hoher (O1W) fachsprachlicher Kompetenz auf dem Gebiet der Informatik oder Wirtschaft. Alle Sprachfertigkeiten (Hören, Sprechen,
+Lesen, Schreiben) werden aufbauend auf dem Sprachmodul Fremdsprache 1 mit folgender Zielstellung weiterentwickelt:
+Englisch: Mittelstufe 3/Technik (B2.2)
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+unter Benennung der Vor- und Nachteile unterschiedlicher Ansätze
+Französisch/Spanisch/Russisch: Mittelstufe 2/Wirtschaft (B2.1)
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit
+konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+DaF: Oberstufe1/Wirtschaft (C1)*
+- Verständnis verschiedenartiger umfangreicher Texte und Identifikation
+impliziter Bedeutung
+- flüssige und spontane Ausdrucksweise ohne größeres Suchen nach
+adäquaten Wendungen
+- flexibler und effektiver Sprachgebrauch im sozialen, akademischen
+und beruflichen Kontext
+- klare, gut strukturierte und detaillierte Textproduktion zu anspruchsvollen Themen unter Verwendung usueller Informationsstrukturen
+* gilt nur für Studierende mit Hochschulzugangsberechtigung in einer
+anderen Sprache als Deutsch
+
+Modulbezeichnung AWE-Modul 1 / AWE-Modul 2
+Lernergebnis und
+Kompetenzen
+Die Studierenden
+- haben ihre Sekundärqualifikationen (z. B. Rhetorik, Präsentation, Konfliktmanagement) vertieft oder
+- Kenntnisse in einem studienfernen Fachgebiet erworben (z. B. interkulturelle Zusammenarbeit, genderspezifische Technikgestaltung, Soziologie, Ethik)
+
+
+
+
+Variante 2:
+
+Modulbezeichnung Fremdsprache 1:
+English for Computing M2T
+oder Le français des affaires M1W
+oder Español para los negocios M1W
+oder Russisch für die Wirtschaft M1W
+oder Deutsch als Fremdsprache/Wirtschaft M3W*
+Lernergebnis und
+Kompetenzen
+Das Modul dient der Einführung in die Fachsprache der Informatik oder
+Wirtschaft. Alle Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben)
+werden auf Grundlage bereits er worbener allgemeinsprachlicher
+Kenntnisse mit folgender Zielstellung weiterentwickelt:
+Englisch: Mittelstufe 2/ Technik (B2.1)
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit
+konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Französisch/Spanisch/Russisch: Mittelstufe 1 (B1.2)
+- Verständnis des wesentlichen Inhalts klar standardisierter Informationen zu vertrauten Themen aus den Bereichen Arbeit, Schule, Studium
+usw.
+- Kommunikationsfähigkeit in anzunehmenden Gesprächssituationen in
+Ländern, in denen die Sprache gesprochen wird
+
+----- CHUNK 76 -----
+- einfache Textproduktion zu vertrauten Fachthemen oder Themen von
+persönlichem Interesse
+- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen
+und Zielen
+- kurze Erklärung und Begründung von Meinungen und Plänen
+DaF: Mittelstufe 3/Wirtschaft (B2.2)*
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+unter Benennung der Vor- und Nachteile unterschiedlicher Ansätze
+* gilt nur für Studierende mit Hochschulzugangsberechtigung in einer
+anderen Sprache als Deutsch
+
+
+
+
+
+
+Modulbezeichnung Fremdsprache 2:
+English for Computing M3T
+oder Le français des affaires M2W
+oder Español para los negocios M2W
+oder Russisch für die Wirtschaft M2W
+oder Deutsch als Fremdsprache/Wirtschaft O1W*
+Lernergebnis und
+Kompetenzen
+Das Modul dient der Erlangung weiterer (M2W) bzw. hoher (M3T) und
+sehr hoher (O1W) fachsprachlicher Kompetenz auf dem Gebiet der Informatik oder Wirtschaft. Alle Sprachfertigkeiten (Hören, Sprechen,
+Lesen, Schreiben) werden aufbauend auf dem Sprachmodul Fremdsprache 1 mit folgender Zielstellung weiterentwickelt:
+Englisch: Mittelstufe 3/Technik (B2.2)
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+unter Benennung der Vor- und Nachteile unterschiedlicher Ansätze
+Französisch/Spanisch/Russisch: Mittelstufe 2/Wirtschaft (B2.1)
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit
+konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+DaF: Oberstufe1/Wirtschaft (C1)*
+- Verständnis verschiedenartiger umfangreicher Texte und Identifikation
+impliziter Bedeutung
+- flüssige und spontane Ausdrucksweise ohne größeres Suchen nach
+adäquaten Wendungen
+- flexibler und effektiver Sprachgebrauch im sozialen, akademischen
+und beruflichen Kontext
+- klare, gut strukturierte und detaillierte Textproduktion zu anspruchsvollen Themen unter Verwendung usueller Informationsstrukturen
+* gilt nur für Studierende mit Hoch schulzugangsberechtigung in einer
+
+anderen Sprache als Deutsch
+
+Modulbezeichnung Zweite Fremdsprache
+Lernergebnis und
+Kompetenzen
+Das Modul ist aus dem Angebot der ZE Fremdsprachen frei wählbar.
+Lernergebnis und Kompetenzen richten sich nach der gewählten Fremdsprache und der Niveaustufe.
+
+
+
+Variante 3
+Modulbezeichnung Fremdsprache 1:
+English for Computing M2T
+oder Le français des affaires M1W
+oder Español para los negocios M1W
+oder Russisch für die Wirtschaft M1W
+Lernergebnis und
+Kompetenzen
+
+----- CHUNK 77 -----
+Das Modul dient der Einführung in die Fachsprache der Informatik oder
+Wirtschaft. Alle Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben)
+werden auf Grundlage bereits er worbener allgemeinsprachlicher
+Kenntnisse mit folgender Zielstellung weiterentwickelt:
+Englisch: Mittelstufe 2/Technik (B2.1)
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit
+konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Französisch/Spanisch/Russisch: Mittelstufe 1/Wirtschaft (B1.2)
+- Verständnis des wesentlichen Inhalts klar standardisierter Informationen zu vertrauten Themen aus den Bereichen Arbeit, Schule, Studium
+usw.
+- Kommunikationsfähigkeit in anzunehmenden Gesprächssituationen in
+Ländern, in denen die Sprache gesprochen wird
+- einfache Textproduktion zu vertrauten Fachthemen oder Themen von
+persönlichem Interesse
+- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen
+und Zielen
+- kurze Erklärung und Begründung von Meinungen und Plänen
+
+Modulbezeichnung Fremdsprache 2:
+English for Computing M3W
+oder Le français des affaires M2W
+oder Español para los negocios M2W
+oder Russisch für die Wirtschaft M2W
+Lernergebnis und
+Kompetenzen
+Das Modul dient der Erlangung weiterer (M2W) bzw. hoher (M3T) fachsprachlicher Kompetenz auf dem Gebiet der Informatik oder Wirtschaft.
+Alle Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden
+aufbauend auf dem Sprachmodul Fremdsprache 1 mit folgender Zielstellung weiterentwickelt:
+Englisch: Mittelstufe 3/Technik (B2.2)
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+unter Benennung der Vor- und Nachteile unterschiedlicher Ansätze
+Französisch/Spanisch/Russisch: Mittelstufe 2/Wirtschaft (B2.1) -
+Verständnis der wesentlichen Gedanken sowohl von Texten mit
+konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+
+
+
+
+Modulbezeichnung Vertiefende Fremdsprache:
+Advanced English O1A/W/T/G oder O2A/W/T/G
+oder Le français des affaires M3W
+oder Español para los negocios M3W
+oder Russisch für die Wirtschaft M3W
+Lernergebnis und
+Kompetenzen
+Das Modul dient der Erlangung hoher (M3W) bzw. sehr hoher (O1 oder
+O2) fachsprachlicher und/oder allgemeinsprachlicher Kompetenz. Alle
+Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden
+aufbauend auf dem Sprachmodul Fremdsprache 2 mit folgender
+Zielstellung weiterentwickelt:
+Englisch: Oberstufe 1 oder 2/ Allgemeinsprache, Wirtschaft, Technik
+oder Gestaltung (C1 oder C2)
+- Verständnis verschiedenartiger umfangreicher Texte und Identifikation
+impliziter Bedeutung
+
+----- CHUNK 78 -----
+- flüssige und spontane Ausdrucksweise ohne größeres Suchen nach
+adäquaten Wendungen
+- flexibler und effektiver Sprachgebrauch im sozialen, akademischen
+und beruflichen Kontext
+- klare, gut strukturierte und detaillierte Textproduktion zu anspruchsvollen Themen unter Verwendung usueller Informationsstrukturen
+Französisch/Russisch/Spanisch: Mittelstufe 3/Wirtschaft (B2.2)
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+unter Benennung der Vor- und Nachteile unterschiedlicher Ansätze
+
+
+
+Anlage 5 zur Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik und
+Wirtschaft
+
+Spezifika des Diploma Supplements
+- Bachelor Informatik und Wirtschaft -
+
+
+2 Qualifikation
+
+2.1 Bezeichnung der Qualifikation ausgeschrieben
+Bachelor of Science
+
+Qualifikation abgekürzt
+B. Sc.
+
+2.2 Hauptstudienfach oder -fächer für die Qualifikation
+Informatik und Wirtschaft
+
+2.3 Name der Einrichtung, die die Qualifikation verliehen hat
+Hochschule für Technik und Wirtschaft Berlin
+
+Fachbereich
+Informatik, Kommunikation und Wirtschaft
+
+Status Typ/Trägerschaft)
+Fachhochschule
+University of Applied Sciences (s. Abschnitt 8)
+
+Status Trägerschaft
+staatlich
+
+2.4 Name der Einrichtung, die den Studiengang durchgeführt hat
+siehe 2.3
+
+2.5 Im Unterricht / in der Prüfung verwendete Sprache(n)
+Deutsch und Englisch
+
+3 Ebene der
+Qualifikation
+
+3.1 Ebene der Qualifikation
+Erster berufsqualifizierender Hochschulabschluss an einer
+Fachhochschule (siehe Abschnitte 8.1 und 8.4.1) inklusive einer
+Bachelorarbeit
+
+3.2 Dauer des Studiums (Regelstudienzeit)
+Regelstudienzeit: 6 Semester (3 Jahre)
+Workload: 5400 Stunden
+Leistungspunkte nach ECTS: 180 LP
+davon Praxisphase: Fachpraktikum 25 LP und
+Bachelorarbeit 12 LP
+
+3.3 Zugangsvoraussetzung(en)
+allgemeine Hochschulreife oder Fachhochschulreife oder
+Hochschulzugangsberechtigung nach § 11 Abs. 1 oder 2 Berliner
+Hochschulgesetz (s. Abschnitt 8.7)
+
+4 Inhalte und
+erzielte Ergebnisse
+
+4.1 Studienform
+Vollzeitstudium, Präsenzstudium, ggf. mit E-Learning-Anteilen
+
+4.2 Anforderungen des Studienganges/Qualifikationsprofil des Absolventen/der
+Absolventin
+Die Absolventin verfügt über solide Kenntnisse aus den
+Informatik-Bereichen Softwareentwicklung, Datenbanken/
+Datenmodellierung, Betriebliche Anwendungen und Verteilte
+
+
+
+Systeme. Ergänzt wird dies durch betriebswirtschaftliche und
+mathematische Grundkenntnisse sowie soziale Kompetenz und
+Teamfähigkeit, besonders für die Durchführung von ITProjekten.
+Die Absolventin ist in der Lage, basierend auf dem Verständnis
+von Arbeitsprozessen auf betriebswirtschaftlicher Ebene, ITSysteme zu konzipieren, Anforderungen an zu entwickelnde
+Lösungen zu definieren und innerhalb von Projekten zu
+realisieren. Sie beherrscht die Modellierung von Prozess-,
+Informations- und Systemstrukturen unter Verwendung von
+Modellierungstechniken und kennt die Methoden und
+Technologien in den oben genannten Bereichen. sowie aus den
+
+----- CHUNK 79 -----
+Bereichen Datenschutz und Informationssicherheit sowie
+Usability.
+
+Die Absolventin ist geeignet für folgende Einsatzfelder in der beruflichen Praxis:
+- Anwendungsentwicklung,
+- Beratung,
+- Informationsmanagement,
+- Anwendungsbetreuung,
+- Projektdurchführung,
+- sowie Projektleitung
+in IT-Dienstleistungsunternehmen, Software-Häusern,
+Unternehmen, Unternehmensberatungen und öffentlichen
+Einrichtungen.
+
+Studienzusammensetzung:
+- Pflichtmodule: 101 LP
+- Wahlpflichtmodule (ohne Fremdsprachen): 34 LP
+- minimale Fremdsprachenausbildung: 8 LP
+- Fachpraktikum: 25 LP
+- Bachelorarbeit: 12 LP
+
+4.3 Einzelheiten zum Studiengang
+Siehe „Bachelorzeugnis“ für weitere Details zu den absolvierten
+Schwerpunktmodulen und dem Thema der Bachelorarbeit
+inklusive ihrer Benotungen.
+
+4.4 Notensystem und Hinweise zur Vergabe von Noten
+
+Zusammensetzung des Gesamtprädikats:
+75 % Modulnoten
+15 % Bachelorarbeit
+10 % mündliche Abschlussprüfung
+
+4.5 Gesamtnote
+- Abschlussprädikat (ungerundete Abschlussnote) –
+
+
+5 Status der
+Qualifikation
+
+5.1 Zugang zu weiterführenden Studien
+Der Abschluss berechtigt zur Aufnahme eines Masterstudiums;
+die jeweilige Zulassungsordnung kann zusätzliche
+Voraussetzungen festlegen. (s. Abschnitt 8)
+
+5.2 Beruflicher Status
+
+
+
+
+6 Weitere Angaben 6.1 Weitere Angaben
+Die HTW Berlin ist nach den Vorgaben der Stiftung zur
+Akkreditierung von Studiengängen in Deutschland
+systemakkreditiert (www.akkreditierungsrat.de). Die
+Systemakkreditierung bescheinigt der Hochschule, dass ihr
+Qualitätsmanagement im Bereich Studium und Lehre eine hohe
+Qualität ihrer Studiengänge gewährleistet.
+
+6.2 Informationsquellen für ergänzende Angaben
+HTW Berlin: http://www.HTW-berlin.de
+Studiengang: http://fiw.htw-berlin.de/
+
+
+
+
+
+Anlage 6 zur Studien- und Prüfungsordnung für den Bachelorstudiengang Informatik und
+Wirtschaft
+
+Äquivalenztabelle
+
+ModulNr.
+Modulname gemäß Studienordnung vom 4. Februar
+2009 (AMBl. HTW Berlin Nr.
+42/09) zuletzt geändert am
+13. April 2011 (AMBl. HTW
+Berlin Nr. 24/11)
+LP ModulNr.
+Modulname gemäß dieser
+Studien- und Prüfungsordnung
+LP
+B1 Rechnerarchitektur/ Betriebssysteme
+5 B12 Rechnerarchitektur/ Betriebssysteme
+5
+B2 Programmierung 1 6 B11 Programmierung 1 6
+B3 Wissenschaftliches
+Arbeiten
+2 Einzelfallentscheidung durch den
+PA
+
+B11 Präsentationstechnik 2 Einzelfallentscheidung durch den
+PA
+
+B4 Grundlagen der BWL 5 B14 BWL 1: Grundlagen der BWL 5
+B5 Mathematik 5 B15 Mathematik 5
+B6 English for Business
+Computing M2W
+4 B16 Englisch M2W 4
+B7 Programmierung 2 5 B21 Programmierung 2 5
+B8 Datenbanksysteme 5 B33 Datenbanksysteme 5
+B9 Rechnernetze 6 B22 Rechnernetze 5
+B10 Betriebliche Anwendungen 5 B25 Betriebliche Anwendungen 5
+B25 Karrieremanagement 2 Einzelfallentscheidung durch den
+PA
+
+B12 Rechnungswesen 5 B24 BWL 2: Rechnungswesen 5
+B13 English for Business
+Computing M3W
+4 B26 Englisch M3W 4
+B14 Datenschutz und Datensicherheit 5 B32 Datenschutz und Datensicherheit 5
+B15 Software-Engineering 6 B23 Softwaretechnik 5
+B18 Firmenbesuche/Exkursion 4 B34 Projekte in der Wirtschaft für
+B16+B18 zusammen
+B16 bzw. B18 Einzelfallentscheidung durch den PA
+10
+B16 Projekte in der Wirtschaft 5
+B17 Projektmanagement 5 B35 Teamarbeit 5
+B29 AWE 1 oder
+Advanced English oder
+
+----- CHUNK 80 -----
+2. Fremdsprache
+2 B63 AWE-Modul 1 oder
+Advanced English oder
+2. Fremdsprache
+2
+B30 AWE 2 oder
+Advanced English oder
+2. Fremdsprache
+2 B64 AWE-Modul 2 oder
+Advanced English oder
+2. Fremdsprache
+2
+B21 Besondere Kapitel der Wirtschaftsinformatik
+5 B55 Besondere Kapitel der Wirtschaftsinformatik
+5
+B26 Konfliktmanagement und
+Mediation
+2 Einzelfallentscheidung durch den
+PA
+
+B22 Praxisphase:
+Fachpraktikum
+24 B42 Praxisphase 25
+
+
+(Auswertung von Erfahrungen
+am Praxisplatz)
+B20 Webtechnologien 6 B31 Webtechnologien 5
+B23 Projekt 6 Einzelfallentscheidung durch den
+PA
+
+B24 E-Commerce 5 Einzelfallentscheidung durch den
+PA
+
+B28 Wirtschaftsrecht 2 Einzelfallentscheidung durch den
+PA
+
+B33 Vertragsverhandlungen 2 Einzelfallentscheidung durch den
+PA
+
+B37 Kommunikation ssysteme 5 Einzelfallentscheidung durch den
+PA
+
+B38 Modellierung von Informationssystemen
+5 B51 Modellierung von Informationssystemen
+5
+B31 Usability/Accessability 5 B62 Usability 6
+B32 Besondere Kapitel der Informatik 5 B41 Besondere Kapitel der Informatik 5
+B34 Existenzgründung 4 B54 BWL3: Betriebswirtschaftliches
+Denken und Handeln
+5
+B35 Bachelorarbeit 12 B66 Bachelorarbeit 12
+B36 Bachelorseminar/Kolloquium 3 B65 Bachelorseminar/Kolloquium 3
+
