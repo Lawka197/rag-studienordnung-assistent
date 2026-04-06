@@ -1,0 +1,3948 @@
+----- CHUNK 1 -----
+MODUL ID
+Rechnerarchitektur/Betriebssysteme 1110
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 1111 Rechnerarchitektur/ Betriebssysteme (SL), 1112 Rechnerarchitektur/ 
+Betriebssysteme (PCÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG1 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+• Klausur am PC, ca. 90min; 100% der 
+Note 
+• semesterbegleitende 
+Übungsaufgaben werden 
+nicht bewertet; Abgaben 
+sind Voraussetzung, um zur Klausur 
+zugelassen zu werden
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Kenntnisse in den Grundlagen und der Funktionsweise moderner Computerhardware
+• Kenntnisse des Aufbaus und der Arbeitsweise von Betriebssystemen
+• Arbeiten mit verbreiteten Betriebssystemen
+Fachunabhängig :
+• Eigenständiges Lernen
+• Selbständiges Erarbeiten der Bedienung von Betriebssystemen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+Modulverantwortliche/r
+Prof. Dr.-Ing. Jörn Freiheit
+Tel. 5019-3381 Fax 5019-48-3381 Joern.Freiheit@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Rechnerarchitektur/ Betriebssysteme (SL) 1111
+ 1 Modul(s) zugeordnete: 1110 Rechnerarchitektur/Betriebssysteme,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Modulhandbuch der HTW Berlin 5/112
+Inhalte
+• Grundlagen digitaler Information und Kommunikation: Digitale Daten, Repräsentation digitaler 
+Informationen, moderne Computer und Einsatzgebiete
+• Aufbau und Funktionsweise von Computern: Wesentliche Hardwarekomponenten, Schnittstellen,
+
+----- CHUNK 2 -----
+Programmausführung, Datenspeicherung
+• Booleasche Algebra, Digitale Logik, CMOS-Schaltungen, Sequentielle Logik
+• RISC-Architekturen, UNIX, Terminalbefehle
+Literatur
+• Gumm, Heinz-Peter, and Manfred Sommer. Einführung in Die Informatik. vollständig überarbeitete 
+Auflage. Oldenbourg Wissenschaftsverlag, 2012.
+• Mandl, Peter. Grundkurs Betriebssysteme: Architekturen, Betriebsmittelverwaltung, Synchronisation, 
+Prozesskommunikation. 2., überarb. und akt. Aufl. 2010. Vieweg+Teubner Verlag, 2009.
+• Tanenbaum, Andrew S. Computerarchitektur. Strukturen - Konzepte - Grundlagen. 5., überarbeitete 
+Auflage. Addison-Wesley Verlag, 2005.
+• Tanenbaum, Andrew S. Moderne Betriebssysteme. 3., aktualisierte Auflage. Addison-Wesley Verlag, 
+2009.
+• Gumm, Heinz-Peter: Rechnerarchitektur, Betriebssysteme, Rechnernetze. De Gruyter Studium, 2017.
+• Hellmann, Roland: Rechnerarchitektur: Einführung in den Aufbau moderner Computer. De Gruyter 
+Studium. 2021
+UNIT 1111 Rechnerarchitektur/ Betriebssysteme (SL)
+UNIT ID
+Rechnerarchitektur/ Betriebssysteme (PCÜ) 1112
+ 1 Modul(s) zugeordnete: 1110 Rechnerarchitektur/Betriebssysteme
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Kenngrößen und Funktionsweise von Computerkomponenten
+• Arbeiten mit verbreiteten Betriebssystemen, z.B. Windows, MacOS und Linux
+• Umgang mit der Kommandozeile
+• Systemmonitoring und Administration verschiedener Betriebssysteme
+Literatur
+• Gumm, Heinz-Peter, and Manfred Sommer. Einführung in Die Informatik. vollständig überarbeitete 
+Auflage. Oldenbourg Wissenschaftsverlag, 2012.
+• Mandl, Peter. Grundkurs Betriebssysteme: Architekturen, Betriebsmittelverwaltung, Synchronisation, 
+Prozesskommunikation. 2., überarb. und akt. Aufl. 2010. Vieweg+Teubner Verlag, 2009.
+• Tan
+
+----- CHUNK 3 -----
+enbaum, Andrew S. Computerarchitektur. Strukturen - Konzepte - Grundlagen. 5., überarbeitete 
+Auflage. Addison-Wesley Verlag, 2005.
+• Tanenbaum, Andrew S. Moderne Betriebssysteme. 3., aktualisierte Auflage. Addison-Wesley Verlag, 
+2009.
+• Gumm, Heinz-Peter: Rechnerarchitektur, Betriebssysteme, Rechnernetze. De Gruyter Studium, 2017.
+• Hellmann, Roland: Rechnerarchitektur: Einführung in den Aufbau moderner Computer. De Gruyter 
+Studium. 2021.
+UNIT 1112 Rechnerarchitektur/ Betriebssysteme (PCÜ)
+
+----- CHUNK 4 -----
+MODUL ID
+Grundlegende Konzepte der Informatik 1310
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 1 Unit(s) zugeordnete: 1311 Grundlegende Konzepte der Informatik (SL)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+Modulhandbuch der HTW Berlin 6/112
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG1 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Abgabe semesterbegleitender Übungen 
+(unbewertet) ist Prüfungsvorausetzung
+schriftliche Abschlussprüfung, Dauer: 90 
+min
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Verständnis der theoretischen Grundlagen der Informatik (Algorithmus, Datenstrukturen, Sprachen, Grammatiken)
+• Fähigkeit zur Abstraktion und zum algorithmischen Denken
+• Fähigkeit, die Grundkonzepte der digitalen Datenverarbeitung zu verstehen und anzuwenden
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Bewältigung komplexer Zusammenhänge
+• Verständnis für abstrakte/formale Modelle
+Modulverantwortliche/r
+Prof. Dr. Juliane Siegeris
+Tel. 5019-3317 Fax 5019-48-3317 Juliane.Siegeris@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Grundlegende Konzepte der Informatik (SL) 1311
+ 1 Modul(s) zugeordnete: 1310 Grundlegende Konzepte der Informatik
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 4 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 100% SPRACHE Deutsch
+Inhalte
+ 
+• Algorithmusbegriff
+• Aussagenlogik
+• Graphen
+• formale Sprachen / Grammatiken
+Literatur
+• Rolf Socher: Theoretische Grundlagen der Informatik. Informatik interaktiv. Lehrbücher zur Informatik, 
+Hanser, 2008, ISBN 3446412603, 9783446412606.
+•
+
+----- CHUNK 5 -----
+Uwe Schöning: Ideen der Informatik: grundlegende Modelle und Konzepte. Oldenbourg, 2006, ISBN 
+3486578332, 9783486578331
+UNIT 1311 Grundlegende Konzepte der Informatik (SL)
+Modulhandbuch der HTW Berlin 7/112
+
+----- CHUNK 6 -----
+MODUL ID
+Verteilte Systeme 1410
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 1411 Verteilte Systeme (SL), 1412 Verteilte Systeme (PCÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG5 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Datenschutz und Datensicherheit
+Webtechnologien
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+• semesterbegelitende Übungen 
+(unbewertet)
+• Klausur: 100% der Note; Dauer 
+90-120 Minuten
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Kenntnis methodischer Konzepte für die Entwicklung von Webportalen und -Anwendungen
+• Konzeption und Entwicklung verteilter Systeme
+• Erlernen von Programmiersprachen (PHP, JavaScript)
+• Erlernen und Anwenden datensicherheitsrelevanter Aspekte
+• Verschlüsselungsverfahren, Zertifikate und sichere Infrastrukturen
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Praktische Problemlösungs- und Umsetzungsfähigkeit
+• Schnelle Einarbeitung in unbekannte Themen
+Modulverantwortliche/r
+Prof. Dr. Helena Mihaljevic
+Tel. 5019-3852 Fax 5019-48-3852 Helena.Mihaljevic@HTW-Berlin.de Raum WH C 649
+UNIT ID
+Verteilte Systeme (SL) 1411
+ 1 Modul(s) zugeordnete: 1410 Verteilte Systeme,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Kenntnis methodischer Konzepte für die Entwicklung von Webportalen und -Anwendungen
+• Konzeption und Entwicklung verteilter Systeme
+• Erlernen von Programmiersprachen (PHP, JavaScript)
+• Erlernen und Anwenden datensicherheitsrel
+
+----- CHUNK 7 -----
+evanter Aspekte
+• Verschlüsselungsverfahren, Zertifikate und sichere Infrastrukturen
+Literatur
+Veröffentlichung aktueller Literaturempfehlungen zu Vorlesungsbeginn
+Modulhandbuch der HTW Berlin 8/112
+Auswahl:
+• Alexander Schill, Thomas Springer: Verteilte Systeme, Springer Berlin Heidelberg, 2012. ISBN 
+3642257968, 9783642257964
+• Kenneth P. Birman: Reliable Distributed Systems. Technologies, Web Services, and Applications. 
+Springer, 2005, ISBN-13-978-0-387-21509-9
+UNIT 1411 Verteilte Systeme (SL)
+UNIT ID
+Verteilte Systeme (PCÜ) 1412
+ 1 Modul(s) zugeordnete: 1410 Verteilte Systeme
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Lösen von Ãbungsaufgaben
+• Anwendung der Inhalte aus dem SL
+• Programme und Anwendungen erstellen
+Literatur
+Veröffentlichung aktueller Literaturempfehlungen zu Vorlesungsbeginn
+Auswahl:
+• Alexander Schill, Thomas Springer: Verteilte Systeme, Springer Berlin Heidelberg, 2012. ISBN 
+3642257968, 9783642257964
+• Kenneth P. Birman: Reliable Distributed Systems. Technologies, Web Services, and Applications. 
+Springer, 2005, ISBN-13-978-0-387-21509-9
+HINWEISE
+Keine Hinweise
+UNIT 1412 Verteilte Systeme (PCÜ)
+
+----- CHUNK 8 -----
+MODUL ID
+Mathematik 1610
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 1611 Mathematik (SL), 1612 Mathematik (BÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG1 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur: 90 Minuten HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Studierenden sind vertraut mit grundlegenden mathematischen Begriffe wie Mengen, Funktionen, Zahlen und 
+logischen Operatoren. Sie sind geübt im Lesen und Verstehen von mathematischen Definitionen, Aussagen und 
+Beweisen. Des Weiteren kennen sie die verschiedenen Beweiskonzepte der Mathematik (direkt, indirekt, Induktion) und 
+sind in der Lage, ein intuitives Argument in einen rigorosen Beweis zu übersetzen.
+Modulhandbuch der HTW Berlin 9/112
+Die Studierenden beherrschen die Grundlagen der Zahlentheorie, insbesondere den Umgang mit natürlichen und 
+rationalen Zahlen, Primzahlen, Modulo-Rechnung, und sie kennen die wichtigsten Theoreme und Algorithmen (z.B. den 
+Euklidischen Algorithmus). Sie sind vertraut mit der historischen Entwicklung im Bereich der Kryptographie und haben 
+gelernt, wie man Konzepte und Theoreme der Zahlentheorie für moderne Verschlüsselung anwenden kann, z.B. bei der 
+asymmetrischen RSA-Verschlüsselung.
+Im Bereich der Linearen Algebra verfügen die Studierenden über grundlegende Kenntnisse der zentralen Objekte und 
+Verfahren wie Körper, Vektorräume, lineare Abbildungen, lineare Gleichungssysteme, Matrizen und Determinanten. 
+Anwendungen linearer Gleichungssysteme mit Informatik-Bezug wie beispielsweise in de
+
+----- CHUNK 9 -----
+r Codierungstheorie oder dem 
+Data Mining sind ihnen bekannt.
+Modulverantwortliche/r
+Prof. Dr. Helena Mihaljevic
+Tel. 5019-3852 Fax 5019-48-3852 Helena.Mihaljevic@HTW-Berlin.de Raum WH C 649
+UNIT ID
+Mathematik (SL) 1611
+ 1 Modul(s) zugeordnete: 1610 Mathematik,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Aussagenlogik, Prädikatenlogik
+• Mengenlehre
+• Beweistechniken
+• Zahlendarstellung, Maschinenzahlen, Grundlagen Zahlentheorie
+• Lineare Gleichungssysteme
+• Matrizen, Determinanten
+• Körper, Vektorräume
+Literatur
+• P. Hartmann, Mathematik für Informatiker. Ein praxisbezogenes Lehrbuch. Springer (2019)
+• D. Hachenberger: Mathematik für Informatiker. 2. Auflage. Pearson Studium (2008). 
+ISBN: 978-3-86326-649-3
+• C. Meinel / M. Mundhenk: Mathematische Grundlagen der Informatik. Teubner 
+• J. Schwarze: Mathematik für Wirtschaftswissenschaftler. NWB Studienbücher 
+Wirtschaftswissenschaften
+• J. Tietze: Einführung in die angewandte Wirtschaftsmathematik. Vieweg
+• W. Preuß / G. Wenisch: Lehr- und Übungsbuch Mathematik für Informatiker. Fachbuchverlag Leipzig im 
+Carl Hanser Verlag
+• W. Preuß / G. Wenisch: Lehr- und Übungsbuch Mathematik in Wirtschaft und Finanzwesen. 
+Fachbuchverlag Leipzig im Carl Hanser Verlag
+UNIT 1611 Mathematik (SL)
+UNIT ID
+Mathematik (BÜ) 1612
+ 1 Modul(s) zugeordnete: 1610 Mathematik
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Begleitübung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Lösen von Übungsaufgaben
+• Anwenden der Lerninhalte aus dem SL
+Modulhandbuch der HTW Berlin 10/112
+Literatur
+• P. Hartmann, Mathematik für Informatiker. Ein praxisbezogenes Lehrbuch. Springer (2019)
+• D. Hachenberger: Mathematik für Informatiker. 2. Auflage. Pearson Studium (2008). 
+ISBN:
+
+----- CHUNK 10 -----
+978-3-86326-649-3
+• C. Meinel / M. Mundhenk: Mathematische Grundlagen der Informatik. Teubner 
+• J. Schwarze: Mathematik für Wirtschaftswissenschaftler. NWB Studienbücher 
+Wirtschaftswissenschaften
+• J. Tietze: Einführung in die angewandte Wirtschaftsmathematik. Vieweg
+• W. Preuß / G. Wenisch: Lehr- und Übungsbuch Mathematik für Informatiker. Fachbuchverlag Leipzig im 
+Carl Hanser Verlag
+• W. Preuß / G. Wenisch: Lehr- und Übungsbuch Mathematik in Wirtschaft und Finanzwesen. 
+Fachbuchverlag Leipzig im Carl Hanser Verlag
+UNIT 1612 Mathematik (BÜ)
+
+----- CHUNK 11 -----
+MODUL ID
+Aktuelle Trends der Informations- und 
+Kommunikationstechnik (IKT)
+1710
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 1711 Aktuelle Trends der Informations- und Kommunikationstechnik (IKT) (SL), 1712 
+Aktuelle Trends der Informations- und Kommunikationstechnik (IKT) (PCÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG6 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Programmierung 2
+Rechnernetze
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+• Abgabe einer Progressive Web App 
+(PWA)
+• Präsentation der PWA und Gespräch 
+über die Implementierung (ca. 25min)
+• Bewertung der PWA ergibt die Note 
+des Moduls (100%)
+• die PWA wird semesterbegleitend 
+erstellt
+• der Anforderungskatalog wird zu 
+Semesterbeginn bekanntgegeben 
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Aus dem Bereich der Informatik werden aktuelle Themen behandelt, die sich insbesondere mit sicherheitsrelevanten 
+Fragen auseinandersetzen.
+Fachabhängig:
+• Vertiefung von Grundlagen (Programmierung, DSDS, Rechnernetze)
+• wissenschaftliches Erarbeiten und Verstehen aktueller Themen der Informatik
+• Anwendung aktueller Themen in der Informatik
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+Modulverantwortliche/r
+Modulhandbuch der HTW Berlin 11/112
+Prof. Dr.-Ing. Jörn Freiheit
+Tel. 5019-3381 Fax 5019-48-3381 Joern.Freiheit@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Aktuelle Trends der Informations- und 
+Kommunikationstechnik (IKT) (SL)
+1711
+ 1 Modul(s) zugeordnete: 1710 Aktuelle Trends der Informations- und Kommunikationstec
+
+----- CHUNK 12 -----
+hnik (IKT),
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+Auswahl aktueller Themen aus den Bereichen
+• Webtechnologien
+• Mobile Anwendungen
+• Datenschutz/Datensicherheit
+• Programmierung
+• Rechnernetze
+• Theoretische Informatik und Mathematik
+Literatur
+ 
+• Christian Liebel: "Progressive Web Apps. Das Praxisbuch", Rheinwerk 
+Computing, ISBN 978-3-8362-6494-5, 2018
+• Philip Ackermann: "Webentwicklung. Das Handbuch für Fullstack-Entwickler", Rheinwerk 
+Computing, ISBN 978-3-8362-6882-0, 2021
+• Eine erweiterte Literaturliste wird zu Beginn der Lehrveranstaltung bereitgestellt.
+UNIT 1711 Aktuelle Trends der Informations- und Kommunikationstechnik (IKT) (SL)
+UNIT ID
+Aktuelle Trends der Informations- und 
+Kommunikationstechnik (IKT) (PCÜ)
+1712
+ 1 Modul(s) zugeordnete: 1710 Aktuelle Trends der Informations- und Kommunikationstechnik (IKT)
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Praktische Ãbungen zur Anwendung aktueller Themen der Informatik (im Labor; am Rechner)
+Literatur
+• Christian Liebel: "Progressive Web Apps. Das Praxisbuch", Rheinwerk 
+Computing, ISBN 978-3-8362-6494-5, 2018
+• Philip Ackermann: "Webentwicklung. Das Handbuch für Fullstack-Entwickler", Rheinwerk 
+Computing, ISBN 978-3-8362-6882-0, 2021
+• Eine erweiterte Literaturliste wird zu Beginn der Lehrveranstaltung bereitgestellt.
+UNIT 1712 Aktuelle Trends der Informations- und Kommunikationstechnik (IKT) (PCÜ)
+
+----- CHUNK 13 -----
+MODUL ID
+Datenbanksysteme 1810
+Modulhandbuch der HTW Berlin 12/112
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 1811 Datenbanksysteme (SL), 1812 Datenbanksysteme (PCÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG3 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Programmierung 2
+Rechnernetze
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Abgabe semesterbegleitender Übungen 
+ist Prüfungsvoraussetzung,
+schriftliche Abschlussprüfung (Klausur), 
+Dauer: 90 min
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Verständnis der Rolle von Datenbanksystemen bei der Entwicklung von IT-Systemen
+• Fähigkeit, Informationsbedürfnisse von Arbeitsprozessen in
+• Datenmodelle umzusetzen
+• Fähigkeit, relationale Datenbestände auszuwerten
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Bewältigung komplexer Zusammenhänge
+• Verständnis für abstrakte/formale Modelle
+Modulverantwortliche/r
+Prof. Dr. Juliane Siegeris
+Tel. 5019-3317 Fax 5019-48-3317 Juliane.Siegeris@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Datenbanksysteme (SL) 1811
+ 1 Modul(s) zugeordnete: 1810 Datenbanksysteme,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Datenbanksysteme als Diensterbringer
+• Relationales Datenmodell
+• Normalisierung
+• Entity-Relationship-Modell
+• Transformation Entity-Relationship-Modell in relationales Datenmodell
+• Anfragen an Datenbanksysteme, SQL
+Literatur
+• Kemper, Alfons und Eickler, André: Datenbanksysteme. Eine Einführung.
+
+----- CHUNK 14 -----
+7., aktualisierte und 
+erweiterte Auflage, Oldenbourg Verlag, 2013. (Standardwerk)
+• Kleuker, Stephan: Grundkurs Datenbankentwicklung - Von der Anforderungsanalyse zur komplexen 
+Datenbankanfrage. Vieweg+Teubner Verlag 2016.
+Modulhandbuch der HTW Berlin 13/112
+UNIT 1811 Datenbanksysteme (SL)
+UNIT ID
+Datenbanksysteme (PCÜ) 1812
+ 1 Modul(s) zugeordnete: 1810 Datenbanksysteme
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+In der PCÜ werden die Inhalte der SL an Beispielen geübt.
+• Relationales Datenmodell
+• Normalisierung
+• Entity-Relationship-Modell
+• Transformation Entity-Relationship-Modell in relationales Datenmodell
+• Anfragen an Datenbanksysteme, SQL
+Literatur
+• Kemper, Alfons und Eickler, André: Datenbanksysteme. Eine Einführung. 7., aktualisierte und 
+erweiterte Auflage, Oldenbourg Verlag, 2013. (Standardwerk)
+• Kleuker, Stephan: Grundkurs Datenbankentwicklung - Von der Anforderungsanalyse zur komplexen 
+Datenbankanfrage. Vieweg+Teubner Verlag 2016.
+UNIT 1812 Datenbanksysteme (PCÜ)
+
+----- CHUNK 15 -----
+MODUL ID
+Rechnernetze 1910
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 1911 Rechnernetze (SL), 1912 Rechnernetze (PCÜ)
+Zusammenfassung
+ECTS-PKT. 6 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG2 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Programmierung 1
+Grundlegende Konzepte der Informatik
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+• Regelmäßige Abgabe von 
+Übungsaufgaben, unbewertet, 
+wird ggf. für Zulasung zur Klausur 
+herangezogen
+• Klausur: 90 Minuten, 100% der Note 
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Verständnis der Grundlagen von Netzwerken
+• Befähigung zur Analyse und Synthese von Netzwerkarchitekturen
+• Kenntnisse über die Realisierung des Internets
+• Kenntnisse über die Grundlagen des WWW
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+Modulhandbuch der HTW Berlin 14/112
+• Verständnis für abstrakte/formale Modelle
+• Verständnis für technologische Grundlagen
+Modulverantwortliche/r
+Prof. Dr.-Ing. Jörn Freiheit
+Tel. 5019-3381 Fax 5019-48-3381 Joern.Freiheit@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Rechnernetze (SL) 1911
+ 1 Modul(s) zugeordnete: 1910 Rechnernetze,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Schichtarchitektur von IT-Netzen
+• Ãberblick über Onlinedienste und das Web
+• Kommunikationsprotokolle auf Anwendungsschicht
+• Grundlagen der TCP/IP Protokollfamilie
+• Ethernet, DSL und weitere Technologien
+• Einführung in die Netzwerksicherheit
+Literatur
+• Kurose, James F., and Keith W. R
+
+----- CHUNK 16 -----
+oss. Computernetzwerke: Der Top-Down-Ansatz. 4., aktualisierte 
+Auflage. Addison-Wesley Verlag, 2008.
+• Scherff, Jürgen. Grundkurs Computernetzwerke: Eine Kompakte Einführung in Netzwerk- Und Internet-
+Technologien. Mit Online- Service. 2., überarb. und erw. Aufl. 2010. Vieweg+Teubner Verlag, 2010.
+• Schreiner, Rüdiger. Computernetzwerke: Von Den Grundlagen Zur Funktion Und Anwendung. 3., 
+überarbeitete Auflage. Carl Hanser Verlag GmbH & CO. KG, 2009.
+• Tanenbaum, Andrew S., and Prof David J. Wetherall. Computernetzwerke. 5., aktualisierte Auflage. 
+Pearson Studium, 2012.
+UNIT 1911 Rechnernetze (SL)
+UNIT ID
+Rechnernetze (PCÜ) 1912
+ 1 Modul(s) zugeordnete: 1910 Rechnernetze
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+Praktischer Umgang mit:
+• Protokollen der Anwendungsschicht: z.B. http, ftp, pop3/imap/smtp, Verschlüsselung
+• Protokolle der unterliegenden Schichten: z.B. Tcp, Ip, Ethernet
+• Netzmonitoring: Systemdienste und Anwendungsdienste
+• Netztopologien und Netzplänen
+• Adressierung in Netzwerken
+Literatur
+• Kurose, James F., and Keith W. Ross. Computernetzwerke: Der Top-Down-Ansatz. 4., aktualisierte 
+Auflage. Addison-Wesley Verlag, 2008.
+• Scherff, Jürgen. Grundkurs Computernetzwerke: Eine Kompakte Einführung in Netzwerk- Und Internet-
+Technologien. Mit Online- Service. 2., überarb. und erw. Aufl. 2010. Vieweg+Teubner Verlag, 2010.
+• Schreiner, Rüdiger. Computernetzwerke: Von Den Grundlagen Zur Funktion Und Anwendung. 3., 
+überarbeitete Auflage. Carl Hanser Verlag GmbH & CO. KG, 2009.
+Modulhandbuch der HTW Berlin 15/112
+• Tanenbaum, Andrew S., and Prof David J. Wetherall. Computernetzwerke. 5., aktualisierte Auflage. 
+Pearson Studium, 2012.
+UNIT 1912 Rechnernetze (PCÜ)
+
+----- CHUNK 17 -----
+MODUL ID
+Datenschutz und Datensicherheit 1920
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 1921 Datenschutz und Datensicherheit (SL), 1922 Datenschutz und Datensicherheit 
+(PCÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG3 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Rechnernetze
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+• semesterbegleitende 
+Übungen, unbewertet; 8 abgegebene 
+Übungsaufgaben werden benötigt, 
+um zur Prüfung zugelassen zu 
+werden
+• Klausur: (schriftlich), bewertet (100% 
+der Modulnote); Dauer. 90-120 min
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Kenntnisse der Grundlagen des Datenschutzes
+• Kenntnisse der IT-Sicherheit, z. B. Grundschutzhandbuch
+• Sichern von IT-Systemen
+• Kenntnisse der Konzepte zur Erhöhung der IT-Sicherheit
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+Modulverantwortliche/r
+Prof. Dr. Helena Mihaljevic
+Tel. 5019-3852 Fax 5019-48-3852 Helena.Mihaljevic@HTW-Berlin.de Raum WH C 649
+UNIT ID
+Datenschutz und Datensicherheit (SL) 1921
+ 1 Modul(s) zugeordnete: 1920 Datenschutz und Datensicherheit,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Grundlagen des Datenschutzes und Datenschutzgesetze
+• Grundlagen Datensicherheit: Vertraulichkeit, Integrität, Verfügbarkeit
+• IT-Sicherheitsmanagement, z. B. Grundschutzhandbuch
+Modulhandbuch der HTW Berlin 16/112
+• Kryptografische Methoden
+• Grundlagen Schadsoftware
+• Maßnahmen zur Erhöhung der IT-Siche
+
+----- CHUNK 18 -----
+rheit
+Literatur
+• Eckert, Claudia. 2000. IT-Sicherheit: Konzepte - Verfahren - Protokolle. Oldenbourg 
+Wissenschaftsverlag.
+• Ross Anderson. Security Engineering: A Guide to Building Dependable Distributed Systems. 3rd 
+Edition. ISBN: 978-1-119-64278-7. Wiley (2020)
+• Kersten, Heinrich, Jürgen Reuter, and Klaus-Werner Schröder. IT-Sicherheitsmanagement Nach ISO 
+27001 Und Grundschutz: Der Weg Zur Zertifizierung: Der Weg Zur Zertifizierung. Mit Online-Service. 
+3., akt. und erw. Aufl. Vieweg+Teubner Verlag. (2011)
+• Hans-Peter Fröschle (Hrsg.). IT-Sicherheit & Datenschutz: HMD - Praxis Der Wirtschaftsinformatik. 1st 
+ed. Dpunkt Verlag. (2011)
+UNIT 1921 Datenschutz und Datensicherheit (SL)
+UNIT ID
+Datenschutz und Datensicherheit (PCÜ) 1922
+ 1 Modul(s) zugeordnete: 1920 Datenschutz und Datensicherheit
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+Praktische Kenntnisse
+• Systemmonitoring
+• Methoden der Zugangs- und Zugriffskontrolle
+• Verschlüsselung und hashkeys
+• Sicherung von IT-Systemen: Firewalls, Antivirensoftware, Browsereinstellungen, Systemeinstellungen.
+• Angriffsmethoden auf Webserver und Maßnahmen dagegen
+Literatur
+• Eckert, Claudia. 2000. IT-Sicherheit: Konzepte - Verfahren - Protokolle. Oldenbourg 
+Wissenschaftsverlag.
+• Ross Anderson. Security Engineering: A Guide to Building Dependable Distributed Systems. 3rd 
+Edition. ISBN: 978-1-119-64278-7. Wiley (2020)
+• Kersten, Heinrich, Jürgen Reuter, und Klaus-Werner Schröder. IT-Sicherheitsmanagement Nach ISO 
+27001 Und Grundschutz: Der Weg Zur Zertifizierung: Der Weg Zur Zertifizierung. Mit Online-Service. 
+3., akt. und erw. Aufl. Vieweg+Teubner Verlag. (2011)
+• Hans-Peter Fröschle (Hrsg.). IT-Sicherheit & Datenschutz: HMD - Praxis Der Wirtschaftsinformatik.
+
+----- CHUNK 19 -----
+1st 
+ed. Dpunkt Verlag. (2011)
+UNIT 1922 Datenschutz und Datensicherheit (PCÜ)
+
+----- CHUNK 20 -----
+MODUL ID
+Webtechnologien 1930
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 1931 Webtechnologien (SL), 1932 Webtechnologien (PCÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG3 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Programmierung 2
+Modulhandbuch der HTW Berlin 17/112
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+• Abgabe einer selbständig 
+programmierten Webanwendung 
+bestehend aus Frontend, Backend 
+und Datenbank
+• Präsentation der Webanwendung und 
+Gespräch über die Implementierung 
+(ca. 25min)
+• Bewertung der Webanwendung ergibt 
+die Note des Moduls (100%)
+• die Webanwendung wird 
+semesterbegleitend erstellt
+• der Anforderungskatalog wird zu 
+Semesterbeginn bekanntgegeben 
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Kenntnisse folgender Technologien: HTML, CSS, JavaScript
+• Beherrschen einer Skriptsprache
+• Befähigung zur Konzeption von Websites
+• Kenntnis in der XML-Technologie (XSLT, Grammatiken etc.)
+• Kenntnisse von SOA und Alternativen
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Verständnis für technologische Grundlagen
+Modulverantwortliche/r
+Prof. Dr.-Ing. Jörn Freiheit
+Tel. 5019-3381 Fax 5019-48-3381 Joern.Freiheit@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Webtechnologien (SL) 1931
+ 1 Modul(s) zugeordnete: 1930 Webtechnologien,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• HTML, CSS, JavaScript, TypeScript
+• Verwendung eines Frontend-Frameworks, z.B. Angular
+• Verwe
+
+----- CHUNK 21 -----
+ndung eines Backend-Frameworks, z.B. Node JS
+• Anbindung an eine Datenbank, z.B. MongoDB, MySQL, PostgresQL, MariaDB
+• Responsive Webseitengestaltung
+• Grundlagen der Web-Usability
+• Administration von Websites
+• Deployment
+Literatur
+Da diese Veranstaltung stark von Technologie geprägt ist, die sich recht schnell ändert, wird die Literatur 
+am Anfang der Veranstaltung bekannt gegeben.
+• Peter Müller: Einstieg in HTML und CSS: Webseiten erstellen mit HTML und CSS – ganz ohne 
+Vorwissen. Rheinwerk Computing, ISBN 978-3836290890, 2022.
+Modulhandbuch der HTW Berlin 18/112
+• Philp Ackermann: Das Handbuch für Fullstack-Entwickler. Rheinwerk Computing, ISBN 
+978-3836290845, 2022.
+• Christoph Höller: Angular: Das große Handbuch zum JavaScript-Framework. Einführung und 
+fortgeschrittene TypeScript-Techniken. Rheinwerk Computing, ISBN 978-3836282437, 2022.
+• Ferdinand Malcher, Johannes Hoppe und Danny Koppenhagen: Angular. Grundlagen, fortgeschrittene 
+Themen und Best Practices. dpunkt.verlag, ISBN 978-3864907791, 2020.
+• Sebastian Springer: Node.js. Das umfassende Handbuch. Rheinwerk 
+Computing, ISBN 978-3-8362-8765-4, 2021.
+• Philip Ackermann: Node.js - Rezepte und Lösungen. Rheinwerk Computing, ISBN 978-3-8362-6453-2, 
+2020.
+• Tobias Trelle: MongoDB: Der praktische Einstieg. dpunkt.verlag, ISBN 978-3-864901539, 2014.
+UNIT 1931 Webtechnologien (SL)
+UNIT ID
+Webtechnologien (PCÜ) 1932
+ 1 Modul(s) zugeordnete: 1930 Webtechnologien
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• HTML, CSS, JavaScript, TypeScript
+• Verwendung eines Frontend-Frameworks, z.B. Angular
+• Verwendung eines Backend-Frameworks, z.B. Node JS
+• Anbindung an eine Datenbank, z.B. MongoDB, MySQL, PostgresQL, MariaDB
+• Responsive Webseitengestaltung
+• Grund
+
+----- CHUNK 22 -----
+lagen der Web-Usability
+• Administration von Websites
+• Deployment
+• Anwenden der im SL präsentierten Themen; üben im PC-Labor am Rechner
+• Umsetzung der eigenen Webanwendung in den Übungen
+Literatur
+Da diese Veranstaltung stark von Technologie geprägt ist, die sich recht schnell ändert, wird die Literatur 
+am Anfang der Veranstaltung bekannt gegeben.
+• Peter Müller: Einstieg in HTML und CSS: Webseiten erstellen mit HTML und CSS – ganz ohne 
+Vorwissen. Rheinwerk Computing, ISBN 978-3836290890, 2022.
+• Philp Ackermann: Das Handbuch für Fullstack-Entwickler. Rheinwerk Computing, ISBN 
+978-3836290845, 2022.
+• Christoph Höller: Angular: Das große Handbuch zum JavaScript-Framework. Einführung und 
+fortgeschrittene TypeScript-Techniken. Rheinwerk Computing, ISBN 978-3836282437, 2022.
+• Ferdinand Malcher, Johannes Hoppe und Danny Koppenhagen: Angular. Grundlagen, fortgeschrittene 
+Themen und Best Practices. dpunkt.verlag, ISBN 978-3864907791, 2020.
+• Sebastian Springer: Node.js. Das umfassende Handbuch. Rheinwerk 
+Computing, ISBN 978-3-8362-8765-4, 2021.
+• Philip Ackermann: Node.js - Rezepte und Lösungen. Rheinwerk Computing, ISBN 978-3-8362-6453-2, 
+2020.
+• Tobias Trelle: MongoDB: Der praktische Einstieg. dpunkt.verlag, ISBN 978-3-864901539, 2014.
+UNIT 1932 Webtechnologien (PCÜ)
+
+----- CHUNK 23 -----
+MODUL ID
+Betriebliche Anwendungen 2010
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 2011 Betriebliche Anwendungen (SL), 2012 Betriebliche Anwendungen (PCÜ)
+Zusammenfassung
+Modulhandbuch der HTW Berlin 19/112
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG2 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Grundlegende Konzepte der Informatik
+BWL 1: Grundlagen der BWL
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur, Ãbungsleistungen HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Ãberblick über Anwendungen aus der Wirtschaft und dem Ãffentlichen Dienst
+• Umgang und Berücksichtigung von Geschäftsprozessen
+• Verständnis integrierter Informationsverarbeitung
+• Ãberblick über relevante Literatur und Produkte
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Bewältigung komplexer Zusammenhänge
+• Informationsbeschaffung und -bewertung
+• Wissenschaftliche Neugier und Recherchefähigkeit
+• Fähigkeit zu interdisziplinärer Teamarbeit
+Modulverantwortliche/r
+Prof. Dr. Helena Mihaljevic
+Tel. 5019-3852 Fax 5019-48-3852 Helena.Mihaljevic@HTW-Berlin.de Raum WH C 649
+UNIT ID
+Betriebliche Anwendungen (SL) 2011
+ 1 Modul(s) zugeordnete: 2010 Betriebliche Anwendungen,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Ãberblick zu betrieblichen Anwendungen der Informationsverarbeitung
+• Stand, Historie und Trends der Entwicklung betrieblicher Anwendungen
+• Grundlagen der Modellierung betrieblicher Anwendungssysteme
+• Auswahl und
+
+----- CHUNK 24 -----
+Einführung betrieblicher Anwendungen
+• Referenzmodelle für Geschäftsprozesse der Logistik (Vertriebs-, Produktions- und 
+Beschaffungslogistik) als Beispiel für Dispositions- und Administrationssysteme (Prozessüberblick, 
+Planungsphilosophien, Hauptfunktionen, ausgewählte Methoden)
+• Branchenspezifische Referenzmodelle (Handel, Dienstleister)
+• Branchenneutrale Referenzmodelle (Rechnungswesen, Controlling und Personalwesen)
+• Bürokommunikation und Workflow
+• Planungs- und Kontrollsysteme
+Literatur
+• Mertens: Integrierte Informationsverarbeitung
+• Administrations- und Dispositionssysteme in der Industrie, 2000 (2004)
+• Mertens, Griese: Integrierte Informationsverarbeitung 2.Planungs- und Kontrollsysteme in der Industrie, 
+2000
+• Scheer: Wirtschaftsinformatik. Referenzmodelle für industrielle Geschäftsprozesse, 1998
+Modulhandbuch der HTW Berlin 20/112
+• Gronau: Enterprise Resource Planning und Supply Chain Management, 2004
+• Alpar, Grob, Weimann, Winter: Anwendungsorientierte Wirtschaftsinformatik, 2002
+• Holey, Welter, Wiedemann: Wirtschaftsinformatik, 2004
+• Stahlknecht, Hasenkamp: Einführung in die Wirtschaftsinformatik, 1997 (2004)
+• Speth; Hug; Sailer; Hartmann; Härter; Kerber: Betriebswirtschaftliche Geschäftsprozesse - Industrie, 
+2004
+• Forndron; Liebermann u.a.: mySAP ERP, 2006
+• Körsgen: SAP R/3 Arbeitsbuch. Grundkurs mit Fallstudien, 2005
+UNIT 2011 Betriebliche Anwendungen (SL)
+UNIT ID
+Betriebliche Anwendungen (PCÜ) 2012
+ 1 Modul(s) zugeordnete: 2010 Betriebliche Anwendungen
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Lösen von Ãbungsaufgaben
+• Anwendung der Inhalte aus dem SU
+• Anwendung von ERP-Systemen
+Literatur
+Veröffentlichung aktueller Literaturempfehlungen zu Vorlesungsbeginn in Abhängigkeit von
+
+----- CHUNK 25 -----
+den 
+konkreten Themen Auswahl:
+• Mertens: Integrierte Informationsverarbeitung Administrations- und Dispositionssysteme in der 
+Industrie, 2000 (2004)
+• Mertens, Griese: Integrierte Informationsverarbeitung 2. Planungs- und Kontrollsysteme in der 
+Industrie, 2000
+• Scheer: Wirtschaftsinformatik. Referenzmodelle für industrielle Geschäftsprozesse, 1998
+UNIT 2012 Betriebliche Anwendungen (PCÜ)
+
+----- CHUNK 26 -----
+MODUL ID
+Mathematik 2 2110
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 2111 Mathematik 2 (SL), 2112 Mathematik 2 (BÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG2 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Mathematik
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+• Klausur: 90min, 100% der Modulnote HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Studierenden sind vertraut mit grundlegenden Konzepten der Kombinatorik und Wahrscheinlichkeitstheorie. Sie 
+können Begriffe wie Zufallsvariable, Stichprobenraum, Erwartungswert und Varianz erklären. Sie kennen die wichtigsten 
+Wahrscheinlichkeitsverteilungen und sind mit dem Konzept der bedingten Wahrscheinlichkeiten vertraut. Sie können den 
+Satz von Bayes erklären und kennen Informatik-bezogene Anwendungen, z.B. im Bereich des Überwachten Lernens. 
+Modulhandbuch der HTW Berlin 21/112
+Des Weiteren haben die Studierenden ein grundlegendes Verständnis über die Vorgehensweise der deskriptiven 
+Statistik. Sie haben eine Übersicht über Methoden der Datenerhebung und sind in der Lage, Software (z.B. Python oder 
+R) zur Erhebung, Aufbereitung, und Visualisierung von Daten anzuwenden. 
+Die Studierenden sind mit Grundlagen der Graphentheorie vertraut. Sie kennen einige zentrale Konzepte (z.B. 
+Zusammenhang, Clique, Färbung) sowie verschiedene Typen von Graphen. Sie haben gelernt, wie Graphen in der 
+Informatik eingesetzt werden können, beispielsweise bei der Modellierung von Datenstrukturen oder dem Auffinden von 
+Communities in sozialen Netzwerken.
+Modulverantwortliche/r
+Prof. Dr. Helena Mihalje
+
+----- CHUNK 27 -----
+vic
+Tel. 5019-3852 Fax 5019-48-3852 Helena.Mihaljevic@HTW-Berlin.de Raum WH C 649
+UNIT ID
+Mathematik 2 (SL) 2111
+ 1 Modul(s) zugeordnete: 2110 Mathematik 2,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+Grundlegende Konzepte der Kombinatorik und Wahrscheinlichkeitstheorie
+• Zufallsvariablen
+• Stichprobenraum
+• Erwartungswert, Varianz
+• Wahrscheinlichkeitsverteilungen
+• bedingte Wahrscheinlichkeiten
+• Satz von Bayes
+• Anwendungen, z.B. beim überwachten Lernen
+Deskriptive Statistik
+• Methoden der Datenerhebung
+• Verwendung von Python oder R zur Erhebung, Aufbereitung und Visualisierung von Daten
+Grundlagen der Graphentheorie
+• zusammenhänge Graphen
+• Clique
+• Färbung
+• Anwendungen, z.B. Graph-basierte Datenstrukturen
+Literatur
+• Noemi Kurt, Stochastik für Informatiker. Eine Einführung in einheitlich strukturierten 
+Lerneinheiten. Springer Vieweg (2020). https://link.springer.com/content/
+pdf/10.1007%2F978-3-662-60516-5.pdf
+• P. Hartmann, Mathematik für Informatiker. Ein praxisbezogenes Lehrbuch. Springer Vieweg (2012).
+• Erhard Cramer und Udo Kamps: Grundlagen der Wahrscheinlichkeitsrechnung und Statistik: Eine 
+Einführung für Studierende der Informatik, der Ingenieur- und Wirtschaftswissenschaften. Springer 
+Spektrum, ISBN 978-3662605516, 2020.
+• Ulrich Krengel: Einführung in die Wahrscheinlichkeitstheorie und Statistik (vieweg studium; Aufbaukurs 
+Mathematik) (German Edition): Für Studium, Berufspraxis und Lehramt. vieweg studium, ISBN 
+978-38348000633, 2007.
+• F. M. Dekking et al., A Modern Introduction to Probability and Statistics. Understanding Why and How. 
+Springer (2005). Frei verfügbare Version: https://cis.temple.edu/~latecki/Courses/CIS2033-Spring13/
+Modern_intro_probability_statistic
+
+----- CHUNK 28 -----
+s_Dekking05.pdf
+•
+UNIT 2111 Mathematik 2 (SL)
+UNIT ID
+Modulhandbuch der HTW Berlin 22/112
+Mathematik 2 (BÜ) 2112
+ 1 Modul(s) zugeordnete: 2110 Mathematik 2
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Begleitübung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+Grundlegende Konzepte der Kombinatorik und Wahrscheinlichkeitstheorie
+• Zufallsvariablen
+• Stichprobenraum
+• Erwartungswert, Varianz
+• Wahrscheinlichkeitsverteilungen
+• bedingte Wahrscheinlichkeiten
+• Satz von Bayes
+• überwachtes Lernen
+Deskriptive Statistik
+• Methoden der Datenerhebung
+• verwendung von Python und R zur Erhebung, Aufbereitung und Visualisierung von Daten
+Grundlagen der Graphentheorie
+• zusammenhänge Graphen
+• Clique
+• Färbung
+• Anwendung von Graphen in der Informatik (Datenstrukturen)
+Üben der im SL präsentierten Themen im Labor, am Rechner
+Literatur
+• Erhard Cramer und Udo Kamps: Grundlagen der Wahrscheinlichkeitsrechnung und Statistik: Eine 
+Einführung für Studierende der Informatik, der Ingenieur- und Wirtschaftswissenschaften. Springer 
+Spektrum, ISBN 978-3662605516, 2020.
+• Ulrich Krengel: Einführung in die Wahrscheinlichkeitstheorie und Statistik (vieweg studium; Aufbaukurs 
+Mathematik) (German Edition): Für Studium, Berufspraxis und Lehramt. vieweg studium, ISBN 
+978-38348000633, 2007.
+• Johannes Ernesti und Peter Kaiser: Python 3: Das umfassende Handbuch: Über 1.000 Seiten 
+Sprachgrundlagen, Objektorientierte Programmierung und Beispielprogramme. Rheinwerk Computing, 
+ISBN 978-3836279260, 2020.
+• Jörg Frochte: Maschinelles Lernen: Grundlagen und Algorithmen in Python, Hanser Verlag, ISBN 
+978-3446461444, 2020.
+UNIT 2112 Mathematik 2 (BÜ)
+
+----- CHUNK 29 -----
+MODUL ID
+Softwaretechnik 2210
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 2211 Softwaretechnik (SL), 2212 Softwaretechnik (PCÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG2 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Programmierung 1
+Grundlegende Konzepte der Informatik
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Abgabe semesterbegleitender Übungen 
+ist Prüfungsvoraussetzung,
+HINWEISE
+Modulhandbuch der HTW Berlin 23/112
+schriftliche Abschlussprüfung (Klausur), 
+Dauer 90 min
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Verständnis für den Einsatz methodischer Konzepte im Rahmen der Anwendersoftwareentwicklung
+• Modellierung von komplexen Aufgabenstellungen
+• Erfassung von Arbeitsprozessen
+• Durchführung von Systemanalysen
+• Erstellung von Pflichten- und Lastenheften
+• Erwerb von Kenntnissen zum Softwareentwicklungsprozess
+• Vorgehensmodelle
+• Migration auf andere Plattformen
+• Durchführung von Kosten- und Aufwandschätzungen
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Verstehen komplexer Zusammenhänge
+• Verständnis für abstrakte/formale Modelle
+• Kommunikationsfähigkeit
+• Kooperationsfähigkeit, Teamfähigkeit, Anpassungsfähigkeit
+• Arbeitseinstellung und Erfüllen von Verhaltensanforderungen
+Modulverantwortliche/r
+Prof. Dr. Juliane Siegeris
+Tel. 5019-3317 Fax 5019-48-3317 Juliane.Siegeris@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Softwaretechnik (SL) 2211
+ 1 Modul(s) zugeordnete: 2210 Softwaretechnik,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer
+
+----- CHUNK 30 -----
+Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+Nachdem sie das Modul erfolgreich absolviert haben, kennen/wissen die Studierenden:
+• den Lebenszyklus von Software und grundlegenden Prinzipien des Software Engineerings,
+• Methoden des Software Engineerings in den Bereichen
+Analyse (Vision, Stakeholder, Ziele, Typen von Anforderungen, Prototyping) und Design (Grob-und 
+Feinentwurf, wesentliche Eigenschaften von Softwarearchitekturen),
+• zentrale Prozessmodelle (verwendete Methoden, Rollen, Artefakte)
+• Qualitätsmerkmale von Softwaresystemen,
+• Zielkonflikte in der Softwareentwicklung.
+ 
+Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden:
+ 
+• die Eignung von Prozessmodellen beurteilen um diese einzusetzen,
+• Anforderungen erheben, validieren und formalisieren,
+• statische und dynamische Modelle erstellen,
+• grundlegende Designprinzipien und Entwurfsmuster erkennen und deren Einsatzgebiete erläutern
+• Subsysteme/Komponente/Module entwerfen
+Modulhandbuch der HTW Berlin 24/112
+ 
+Literatur
+Literatur:
+• Kleuker, Stephan:Grundkurs Software-Engineering mit UML, Der pragmatische Weg zu erfolgreichen 
+Software-Projekten , Vieweg+Teubner Verlag, 2016
+• Karl-Heinz-Rau, Agile objektorientierte Software-Entwicklung, Springer Vieweg, 2016
+• Balzert, Helmut: Lehrbuch der Software-Technik, Basiskonzepte und Requirements Engineering, 
+Spektrum Akademischer Verlag, 2009
+• Ian Sommerville, Modernes Software-Engineering, Entwurf und Entwicklung von Softwareprodukten, 
+2020, Pearson Studium
+UNIT 2211 Softwaretechnik (SL)
+UNIT ID
+Softwaretechnik (PCÜ) 2212
+ 1 Modul(s) zugeordnete: 2210 Softwaretechnik
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+In der PCÜ werden die Inhalte der SL an Beispielen geübt
+L
+
+----- CHUNK 31 -----
+iteratur
+Literatur:
+• Kleuker, Stephan:Grundkurs Software-Engineering mit UML, Der pragmatische Weg zu erfolgreichen 
+Software-Projekten , Vieweg+Teubner Verlag, 2016
+• Karl-Heinz-Rau, Agile objektorientierte Software-Entwicklung, Springer Vieweg, 2016
+• Balzert, Helmut: Lehrbuch der Software-Technik, Basiskonzepte und Requirements Engineering, 
+Spektrum Akademischer Verlag, 2009
+• Ian Sommerville, Modernes Software-Engineering, Entwurf und Entwicklung von Softwareprodukten, 
+2020, Pearson Studium
+UNIT 2212 Softwaretechnik (PCÜ)
+
+----- CHUNK 32 -----
+MODUL ID
+Teamarbeit 2230
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 2231 Projektmanagement (PÜ), 2232 Konfliktmanagement und Mediaction (PÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG3 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Betriebliche Anwendungen
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Teamarbeit: schriftliche Abschlussarbeit 
+(Klausur), Dauer 90 min
+Konfliktmanagement und Mediation: 
+unbewertet
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Modulhandbuch der HTW Berlin 25/112
+Lernergebnisse
+Fachabhängig:
+• Grundkenntnisse des Fach- und Methodenwissen zur Projektarbeit
+• Verständnis der Bedeutung von Ziel- und Anforderungsdefinition
+• Planung von Projekten
+• Kenntnis von Methoden und Techniken zur Erhebung, Analyse, Konzeptentwicklung, Realisierung
+• Schmieden eines Teams
+• Umgang mit Mitarbeitern und Kunden
+• Kenntnisse von verbreiteten Vorgehensmodellen
+• Realisierung von Qualität
+• Anwenden von Schätzmodellen
+• Kenntnis von Konfliktmodellen und Eskalationsstufen der Gruppenkommunikation
+• Kenntnis von Methoden der Deeskalation für typische Krisen- und Konfliktsituationen in Arbeitsgruppen
+• Aufbau von Sozialkompetenz für kommunikative Herausforderungen in Projekten
+• Praktischer Umgang mit schwierigen Kommunikationspartnern
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Bewältigung komplexer Zusammenhänge
+• Kommunikationsfähigkeit
+• Kooperationsfähigkeit, Teamfähigkeit, Anpassungsfähigkeit
+• Konfliktfähigkeit
+• Arbeitseinstellung und Erfüllen von Verhaltensanforderung
+
+----- CHUNK 33 -----
+en
+• Qualitäts-, Zeit- und Kostenbewusstsein
+Modulverantwortliche/r
+Prof. Dr. Juliane Siegeris
+Tel. 5019-3317 Fax 5019-48-3317 Juliane.Siegeris@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Projektmanagement (PÜ) 2231
+ 1 Modul(s) zugeordnete: 2230 Teamarbeit,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Praktische Übung
+ANTEIL WORKLOAD 60% SPRACHE Deutsch
+Inhalte
+Durchlaufen eines agilen Projektlifecycles:
+• Grundlagen der Projektarbeit
+• Projektstart / Projektplanung / Projektorganisation
+• Projektbeteiligte und ihre Rollen am Beispiel von SCRUM
+• Projektdurchführung: Sprints und Meetingstruktur am Beispiel von SCRUM
+• Kommunizieren im Projekt
+• Projektabschluss
+Literatur
+Literatur:
+• Wirdemann, Ralf; Ritscher, Astrid; Mainusch, Johannes: Scrum mit User Stories, Hanser, 2022 (eBook 
+HTW)
+• Drews, Günter: Praxishandbuch Projektmanagement; Freiburg, München, Stuttgart; Haufe Group, 2021
+ 
+Eine erweiterte Literaturliste wird zu Beginn der Lehrveranstaltung bereitgestellt.
+Modulhandbuch der HTW Berlin 26/112
+ 
+ 
+UNIT 2231 Projektmanagement (PÜ)
+UNIT ID
+Konfliktmanagement und Mediaction (PÜ) 2232
+ 1 Modul(s) zugeordnete: 2230 Teamarbeit
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Praktische Übung
+ANTEIL WORKLOAD 40% SPRACHE Deutsch
+Inhalte
+• Kommunikationswissenschaftliche und sozialpsychologische Grundlagen
+• Kommunikations- und Feedbackregeln
+• Durchführung von Retrospektiven im agilen Vorgehen
+• Verfahren und Einsetzbarkeit von Mediation
+Literatur
+Literatur:
+• Andresen, Judith: Retrospektiven in agilen Projekten: Ablauf, Regeln und Methodenbausteine, Carl 
+Hanser Verlag, 2017 (2023)
+• Dräther, Rolf: retrospektiven - Kurz & Gut; O'Reilly, 2014
+Eine erweiterte Literaturliste wird zu Beginn der Lehrveranstaltung bereitgestellt.
+UNIT 2232 Konfliktmanagement und Mediaction (
+
+----- CHUNK 34 -----
+PÜ)
+
+----- CHUNK 35 -----
+MODUL ID
+Usability 2240
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 2241 Usability (SL), 2242 Usability (PCÜ)
+Zusammenfassung
+ECTS-PKT. 6 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG6 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+BWL 3: Betriebswirtschaftliches Denken 
+und Handeln
+Softwaretechnik
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+semesterbegleitende Teilleistung als 
+Belegarbeit (im Team) + schriftliche 
+Abschlussprüfung (Klausur), Dauer: 90 
+min
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Kenntnisse der Grundlagen guter Mensch/Maschine-Schnittstellen
+• Diskussion von Fallbeispielen
+• Fähigkeiten zum barrierefreien Entwurf
+• Prüfung von Konzepten und Metaphern
+Modulhandbuch der HTW Berlin 27/112
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Verstehen praktischer Zusammenhänge
+Modulverantwortliche/r
+Prof. Dr. Juliane Siegeris
+Tel. 5019-3317 Fax 5019-48-3317 Juliane.Siegeris@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Usability (SL) 2241
+ 1 Modul(s) zugeordnete: 2240 Usability,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Grundlagen guter Mensch/Maschine-Schnittstellen
+• Diskussion von Fallbeispielen
+• Barrierefreie Realisierung von Schnittstellen
+• Kenntnis von Normungen
+• Prüfung von Konzepten und Metaphern
+• Vorgehen bei empirischen Untersuchungen/Usability-Tests
+Literatur
+$stringUtil.decodeString($value)
+UNIT 2241 Usability (SL)
+UNIT ID
+Usability (PCÜ) 2242
+ 1 Modul(s) zugeordnete: 2240 Usability
+
+----- CHUNK 36 -----
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Grundlagen guter Mensch/Maschine-Schnittstellen
+• Diskussion von Fallbeispielen
+• Barrierefreie Realisierung von Schnittstellen
+• Kenntnis von Normungen
+• Prüfung von Konzepten und Metaphern
+• Anwenden verschiedener Techniken zur Durchführung von Usabilitytests
+Literatur
+• Jakob Nielsen, Designing Web Usability, Pearson, 2004
+• Jakob Nielsen, Robert L. Mack. Usability Inspection Methods;2000
+• Michael Richter und Markus Flückiger. Usability Engineering kompakt: Benutzbare Software gezielt 
+entwickeln, Spektrum, 2010
+• Florian Sarodnick und Henning Brau. Methoden der Usability Evaluation - Wissenschaftliche 
+Grundlagen und praktische Anwendung. Verlag Hans Huber, 2007
+• B. Preim und R. Dachselt; Interaktive Systeme: Grundlagen, Graphical User Interfaces, 
+Informationsvisualisierung; Gabler Wissenschaftsverlage, 2010
+Modulhandbuch der HTW Berlin 28/112
+Veröffentlichung aktueller Literaturempfehlungen zu Vorlesungsbeginn in Abhängigkeit von den 
+Fallbeispielen
+UNIT 2242 Usability (PCÜ)
+
+----- CHUNK 37 -----
+MODUL ID
+Modellierung von Informationssystemen 2910
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 2911 Modellierung von Informationssystemen (SL), 2912 Modellierung von 
+Informationssystemen (PCÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG5 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Datenbanksysteme
+Softwaretechnik
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+semesterbegleitende Übungen 
+(unbewertet) als Voraussetzung für die 
+Klausur
+Belegarbeit (im Team) + schriftliche 
+Abschlussprüfung (Klausur), Dauer: 90 
+min
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Kenntnisse der Prinzipien der Modellierung, Bedeutungsanalyse, Beschreibungslogiken und Ontologien
+• Kenntnisse sowohl der statischen, als auch der dynamischen
+• Systemmodellierung
+• Datenmodellierung
+• Prozessmodellierung
+• Objektorientierte Modellierung: Unified Modeling Language
+• Dokument- und Objektmodellierung mit XML
+• Modellierung von Interaktivität
+• Befähigung die vorgestellten Modellierungstechniken für die (Fein-) Konzeption von Informationssystemen 
+einzusetzen und ihre Verwendung im Kontext eines übergeordneten Entwicklungsprozesses einzuordnen.
+Fachunabhängig:
+• Strukturiertes, konzeptionelles Denken
+• Abstraktionsvermögen
+• Systematische Arbeitsweise
+Modulverantwortliche/r
+Prof. Dr. Juliane Siegeris
+Tel. 5019-3317 Fax 5019-48-3317 Juliane.Siegeris@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Modellierung von Informationssystemen (SL) 2911
+ 1 Modul(s) zugeordnete: 2910 Modellierung von Informationssystemen,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM
+
+----- CHUNK 38 -----
+Seminaristischer Lehrvortrag
+Modulhandbuch der HTW Berlin 29/112
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+Verschiedene Modellierungstechniken, einschließlich Notationen, Werkzeugen, Methoden und Hilfsmittel
+Einsatzszenarien für die verschiedenen Techniken mit Bezug zu Entwicklungsprozess von 
+Informationssystemen, als auch der vorbereitenden Unternehmensanalyse (Prozesse, 
+Organisationsarchitektur, Rollenmodelle, Dokumenten- und Systemlandschaft)
+Durchführung von praktischen Übungen unter Verwendung ausgewählter Methoden und Werkzeuge.
+ 
+Literatur
+Literatur:
+• Rupp, Christine; Queins, Stefan, die Sophisten: UML 2 glasklar: Praxiswissen für die UML-
+Modellierung; Carl Hanser Verlag 2012
+• Weske, Mathias: Business Process Management: Concepts, Languages, Architectures, Springer 
+Gabler; 2021
+• Debevoie,T.; Taylor, J.: Prozess-und Entscheidungsmodellierung in BPMN/DMN
+• Freund, Jakob / Rücker, Bernd: Praxishandbuch BPMN 2.0, Hanser Fachbuchverlag, 2010
+UNIT 2911 Modellierung von Informationssystemen (SL)
+UNIT ID
+Modellierung von Informationssystemen (PCÜ) 2912
+ 1 Modul(s) zugeordnete: 2910 Modellierung von Informationssystemen
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+Verschiedene Modellierungstechniken, einschließlich Notationen, Werkzeugen, Methoden und Hilfsmittel
+Einsatzszenarien für die verschiedenen Techniken mit Bezug zu Entwicklungsprozess von 
+Informationssystemen, als auch der vorbereitenden Unternehmensanalyse (Prozesse, 
+Organisationsarchitektur, Rollenmodelle, Dokumenten- und Systemlandschaft)
+Durchführung von praktischen Übungen unter Verwendung ausgewählter Methoden und Tools
+• Prozessmodellierung auf der Basis der Business Process Model and Notation (BPMN 2.0)
+• Entscheidungsmodellierung mit D
+
+----- CHUNK 39 -----
+MN 1.1
+ 
+Literatur
+Literatur siehe SL
+UNIT 2912 Modellierung von Informationssystemen (PCÜ)
+
+----- CHUNK 40 -----
+MODUL ID
+Besondere Kapitel der Wirtschaftsinformatik 3010
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 1 Unit(s) zugeordnete: 3011 Besondere Kapitel der Wirtschaftsinformatik (PCÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG5 
+Modulhandbuch der HTW Berlin 30/112
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+• die genaue Prüfungsform wird am 
+Anfang des Semesters bekannt 
+gegeben
+• pro Wintersemester werden 2 
+Veranstaltungen für Besondere 
+Kapitel der Informatik angeboten
+• Sie haben die Wahl zwischen 
+diesen beiden Veranstaltungen und 
+entscheiden sich für eine
+• es sind jeweils unterschiedliche 
+Prüfungsformen möglich, z.B. Klausur 
+oder Hausarbeit
+• es wird jedoch § 9 A. 1 S. 
+5 RStPO beachtet: "Eine 
+Modulprüfung darf nicht mehr als drei 
+Prüfungsleistungen umfassen."
+• die Prüfungsform (und deren Umfang) 
+muss am Anfang des Semesters 
+bekannt gegeben werden; besteht die 
+Prüfung aus meherern Teilleistungen, 
+muss die Gewichtung der einzelnen 
+Teilleistungen angegeben werden
+HINWEISE Empfohlene Voraussetzungen: 1.-3. 
+Semester
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Aus dem Bereich der Wirtschaftsinformatik werden spezielle Themen behandelt, z. B. Einführung von Enterprise-
+Ressource-System, Geschäftsprozessoptimierung, Berichtswesen, Workflow-Management, Dokumenten-Management 
+etc.
+Fachabhängig:
+• Vertiefung von Grundlagen
+• Konzept und Realisierung typischer Projekte in der Wirtschaftsinformatik
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Pr
+
+----- CHUNK 41 -----
+aktische Problemlösungs- und Umsetzungsfähigkeit
+• Schnelle Einarbeitung in unbekannte Themen
+Modulverantwortliche/r
+Prof. Dr.-Ing. Jörn Freiheit
+Tel. 5019-3381 Fax 5019-48-3381 Joern.Freiheit@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Besondere Kapitel der Wirtschaftsinformatik (PCÜ) 3011
+ 1 Modul(s) zugeordnete: 3010 Besondere Kapitel der Wirtschaftsinformatik
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 4 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 100% SPRACHE Deutsch
+Modulhandbuch der HTW Berlin 31/112
+Inhalte
+• Lösen von Ãbungsaufgaben
+• Implementierungen, Realisierungen, Berechnungen, Auswertungen, Modellierungen
+Literatur
+Generell
+• Kenneth C. Laudon, Jane P. Laudon, Detlef Schoder: Wirtschaftsinformatik. Eine Einführung. Pearson 
+Studium, ISBN 978-3868942699, 2015.
+• Hans Robert Hansen, Jan Mendling, Gustaf neumann: Wirtschaftsinformatik. De Gruyter Studium, 
+ISBN 978-3110587340, 2019.
+Speziell
+• es kann hier keine spezielle Literatur angegeben werden, da die angebotenen Themen vielfältig sind 
+und sich stark unterscheiden können
+• Veröffentlichung aktueller Literaturempfehlungen zu Vorlesungsbeginn in Abhängigkeit von den 
+Themen
+UNIT 3011 Besondere Kapitel der Wirtschaftsinformatik (PCÜ)
+
+----- CHUNK 42 -----
+MODUL ID
+Projekte in der Wirtschaft 3020
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 3021 Projekte in der Wirtschaft (PS), 3022 Arbeitswelt IT (PS)
+Zusammenfassung
+ECTS-PKT. 10 PRÄSENZZEIT 6 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG3 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Programmierung 2
+Rechnernetze
+Softwaretechnik
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Das Modul setzt sich aus 2 Teilleistungen 
+zusammen:
+• Arbeitswelt IT
+• Projekte in der Wirtschaft
+• Die Note des Moduls ergibt sich zu 
+100% aus der Note des Teilmoduls 
+"Projekte in der Wirtschaft".
+• Das Bestehen des Teilmoduls 
+"Arbeitswelt IT" ist für das Betshen 
+des Moduls notwendig.
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+Es wird mindestens ein Unternehmen oder eine Institution des Ãffentlichen Dienstes besucht, die dortigen Aufgaben, 
+Probleme und Arbeitsprozesse erfasst und diese Ergebnisse in Form einer Analyse dargestellt.
+• Analyse von Fallbeispielen realer Projekte
+• Konzeption von Projekten
+• Kenntnisse von Projekten des öffentlichen Dienstes
+• Probleme und deren Lösungen bei Projekten
+• Projektmanagement
+• Konfliktmanagement
+Modulhandbuch der HTW Berlin 32/112
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Bewältigung komplexer Zusammenhänge
+Modulverantwortliche/r
+Prof. Dr.-Ing. Jörn Freiheit
+Tel. 5019-3381 Fax 5019-48-3381 Joern.Freiheit@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Projekte in der Wirtschaft (PS) 3021
+ 1 Modul(s) zugeordnete: 3020 Projekte in der Wirtschaft,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 4 SWS
+
+----- CHUNK 43 -----
+LERNFORM (Projekt -)Seminar
+ANTEIL WORKLOAD 80% SPRACHE Deutsch
+Inhalte
+• Durchführung eines Projektes, d.h. Implementierung einer Anwendung (Webanwendung, mobile App, 
+Datenanalyse, Maschine Learning, ...)
+• selbständiges Arbeiten in einem Team aus 6-8 Studentinnen
+• Planung, Konzeption, Umsetzung und Testen
+• Projektmanagement; agiles Vorgehen
+• Projektdokumentation und Ergebnispräsentation
+Literatur
+• David Heyn: Agiles Proketmanagement - Der Schlüssel zum Erfolg: Wie Sie durch die richtige Planung 
+und effektives Zeitmanagement schnell an Ihr Ziel kommen und zu einer produktiven Führungskraft 
+werden. ISBN 979-8840710388, 2022
+• Walter Jakoby: Projektmanagement für Ingenieure: Ein praxisnahes Lehrbuch für den systematischen 
+Projekterfolg. Springer Vieweg, ISBN 978-3658327903, 2021
+• Helga Meyer und Heinz-Josef Reher: Projektmanagement: Von der Definition über die Projektplanung 
+zum erfolgreichen Abschluss. Springer Gabler, ISBN 978-3658287627, 2020.
+• Eigenständige Recherche ist Teil der Projektarbeit
+UNIT 3021 Projekte in der Wirtschaft (PS)
+UNIT ID
+Arbeitswelt IT (PS) 3022
+ 1 Modul(s) zugeordnete: 3020 Projekte in der Wirtschaft
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM (Projekt -)Seminar
+ANTEIL WORKLOAD 20% SPRACHE Deutsch
+Inhalte
+• Kennenlernen realer IT-Unternehmen (Geschäftsfelder, aktuelle Projekte, Organisationstruktur, 
+Arbeitsumfeld)
+• Untersuchung und Vergleich der eingesetzten IT-Infrastruktur
+• Untersuchung und Vergleich verschiedener Vorgehensmodelle in der SW-Entwicklung
+• Untersuchung und Vergleich realer IT-Projekte (Aufwand, Kosten, Durchführung)
+Literatur
+• Jürgen Gratzke: IT-Berufe: Wirtschafts- und Geschäftsprozesse. Westermann Schulbuch, ISBN 
+978-3142254265, 2018.
+• Veröffentlichung aktueller Literaturempfehlungen zu Vorlesungsbegin
+
+----- CHUNK 44 -----
+n in Abhängigkeit von den 
+Themen bzw. besuchten Firmen/öffentlichen Institutionen
+Modulhandbuch der HTW Berlin 33/112
+UNIT 3022 Arbeitswelt IT (PS)
+
+----- CHUNK 45 -----
+MODUL ID
+Besondere Kapitel der Informatik 3030
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 1 Unit(s) zugeordnete: 3031 Besondere Kapitel der Informatik (PCÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG4 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+• die genaue Prüfungsform wird am 
+Anfang des Semesters bekannt 
+gegeben
+• pro Sommersemester werden 2 
+Veranstaltungen für Besondere 
+Kapitel der Informatik angeboten
+• Sie haben die Wahl zwischen 
+diesen beiden Veranstaltungen und 
+entscheiden sich für eine
+• es sind jeweils unterschiedliche 
+Prüfungsformen möglich, z.B. Klausur 
+oder Hausarbeit
+• es wird jedoch § 9 A. 1 S. 
+5 RStPO beachtet: "Eine 
+Modulprüfung darf nicht mehr als drei 
+Prüfungsleistungen umfassen."
+• die Prüfungsform (und deren Umfang) 
+muss am Anfang des Semesters 
+bekannt gegeben werden; besteht die 
+Prüfung aus meherern Teilleistungen, 
+muss die Gewichtung der einzelnen 
+Teilleistungen angegeben werden
+HINWEISE Empfohlene Voraussetzungen: 1.-3. 
+Semester
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Aus dem Bereich der Informatik werden spezielle Themen behandelt, z. B. Einführung von Software, Testen von 
+Spezifikationen, Frameworks, verteilte Datenbanken etc.
+Fachabhängig:
+• Vertiefung von Grundlagen
+• Konzept und Realisierung typischer Tätigkeiten in der Informatik
+• wissenschaftliches Erarbeiten und Verstehen aktueller Themen der Informatik
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+Modulverantwortliche/r
+Prof. Dr.-Ing. Jörn Freih
+
+----- CHUNK 46 -----
+eit
+Modulhandbuch der HTW Berlin 34/112
+Tel. 5019-3381 Fax 5019-48-3381 Joern.Freiheit@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Besondere Kapitel der Informatik (PCÜ) 3031
+ 1 Modul(s) zugeordnete: 3030 Besondere Kapitel der Informatik
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 4 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 100% SPRACHE Deutsch
+Inhalte
+• Lösen von Ãbungsaufgaben
+• Implementierungen, Realisierungen, Berechnungen, Auswertungen
+Literatur
+Generell
+• Helmut Herold, Bruno Lurz, Jürgen Wohlrab und Matthias Hopf: Grundlagen der Informatik, Pearson 
+Studium - IT, ISBN 978-3868943160, 2017
+• Rainer Hattenhauer: Informatik: Praxislehrbuch für Schule, Ausbildung und Studium. Pearson Studium 
+- Informatik Schule, ISBN 978-3868949124, 2020.
+Speziell
+• es kann hier keine spezielle Literatur angegeben werden, da die angebotenen Themen vielfältig sind 
+und sich stark unterscheiden können
+• Veröffentlichung aktueller Literaturempfehlungen zu Vorlesungsbeginn in Abhängigkeit von den 
+Themen
+UNIT 3031 Besondere Kapitel der Informatik (PCÜ)
+
+----- CHUNK 47 -----
+MODUL ID
+Praxis in Forschung und Entwicklung 3040
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 3041 Projekt (PS), 3042 Wissenschaftliches Schreiben (PS)
+Zusammenfassung
+ECTS-PKT. 10 PRÄSENZZEIT 6 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG5 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+Projekte in der Wirtschaft EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Projektbewertung HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Aus dem ganzen Bereich der Informatik wird in Gruppenarbeit ein komplexes Projekt durchgeführt, bei dem die 
+Zusammenhänge der einzelnen Module des Studienganges erkennbar werden.
+Fachabhängig:
+• Erkennen des Gesamtzusammenhangs aller bisherigen Module
+• Konzeption und Realisierung von Implementierungen
+• Kennenlernen der Methoden der wissenschaftlichen Arbeit in den Ingenieurwissenschaften und Mathematik
+• Fallbeispiele
+• Schreiben wissenschaftlicher Veröffentlichungen
+• Techniken zur Themenfindung und Literaturarbeit
+Modulhandbuch der HTW Berlin 35/112
+• Logik und Argumentieren
+• Zeit-Management
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Gruppenarbeit
+• Kommunikationsfähigkeit
+Modulverantwortliche/r
+Prof. Dr. Juliane Siegeris
+Tel. 5019-3317 Fax 5019-48-3317 Juliane.Siegeris@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Projekt (PS) 3041
+ 1 Modul(s) zugeordnete: 3040 Praxis in Forschung und Entwicklung,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 4 SWS LERNFORM (Projekt -)Seminar
+ANTEIL WORKLOAD 80% SPRACHE Deutsch
+Inhalte
+Aus dem Bereich der Informatik wird in Gruppenarbeit ein komplexes Projekt durchgeführt
+
+----- CHUNK 48 -----
+, bei dem die 
+Zusammenhänge der einzelnen Module des Studienganges erkennbar werden.
+Fachabhängig:
+• Erkennen des Gesamtzusammenhangs aller bisherigen Module
+• Konzeption und Realisierung von Implementierungen
+Literatur
+Veröffentlichung aktueller Literaturempfehlungen zu Vorlesungsbeginn entsprechend den Projektthemen
+UNIT 3041 Projekt (PS)
+UNIT ID
+Wissenschaftliches Schreiben (PS) 3042
+ 1 Modul(s) zugeordnete: 3040 Praxis in Forschung und Entwicklung
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM (Projekt -)Seminar
+ANTEIL WORKLOAD 20% SPRACHE Deutsch
+Inhalte
+Fachabhängig:
+• Kennenlernen der Methoden der wissenschaftlichen Arbeit in den Ingenieurwissenschaften und 
+Mathematik
+• Fallbeispiele
+• Schreiben wissenschaftlicher Veröffentlichungen
+• Techniken zur Themenfindung und Literaturarbeit
+• Logik und Argumentieren
+• Zeit-Management
+Literatur
+• Franck, Norbert; Stary, Joachim: Die Technik wissenschaftlichen Arbeitens. 13. Auflage, UTB, 2006
+• Andermann, Ulrich et al.: Wie verfasst man wissenschaftliche Arbeiten? 3. Auflage, Dudenverlag, 2006
+• Rechenberg, Peter: Technisches Schreiben. Hanser, 2002
+Modulhandbuch der HTW Berlin 36/112
+• Kruse, Otto: Keine Angst vor dem leeren Blatt. 4. Auflage, Reihe Campus, Studium, 1995
+• Hülshoff, Friedhelm; Kaldewey, Rüdiger: Training Rationeller lernen und arbeiten. 5. Auflage, Klett, 
+1980
+• Balzert, H. et al.: Wissenschaftliches Arbeiten. W3L, 2008
+UNIT 3042 Wissenschaftliches Schreiben (PS)
+
+----- CHUNK 49 -----
+MODUL ID
+Fachpraktikum 3900
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 3 Unit(s) zugeordnete: 3901 Fachpraktikum (PÜ), 3902 Begleitendes Seminar zum Fachpraktikum (PS), 
+3903 Karrieremanagement (PÜ)
+Zusammenfassung
+ECTS-PKT. 25 PRÄSENZZEIT 3 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG4 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGUndifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+• Bewertung ist undifferenziert, d.h. 
+ohne Note
+• zum Bestehen des Moduls 
+müssen das Praktikum und 
+Karrieremanagement erfolgreich 
+absolviert werden
+HINWEISE Empfohlene Voraussetzungen:
+• 1.-3. Semester
+• Für B42.3 Karrieremanagement: B34 
+Projekte in der Wirtschaft
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Vertraut machen mit Einsatzgebieten und Einsatzanforderungen der Informatik in der Praxis
+• Kennenlernen von praktischer Projektarbeit
+• Analysieren der gemachten Erfahrungen
+• Planung der eigenen Karriere
+• Selbsterkenntnis und Selbstanalyse
+• Methoden zur Ãberwindung eigener Schwächen
+• Aufbau und Nutzung von Netzwerken
+• Kenntnis wichtiger Fallbeispiele
+Fachunabhängig:
+• Eigenständiges Lernen
+• Systematische Arbeitsweise
+• Kommunikationsfähigkeit
+• Kooperationsfähigkeit, Teamfähigkeit, Anpassungsfähigkeit
+• Konfliktfähigkeit
+• Strukturiertes, konzeptionelles Denken
+Modulverantwortliche/r
+Prof. Dr. Juliane Siegeris
+Tel. 5019-3317 Fax 5019-48-3317 Juliane.Siegeris@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Fachpraktikum (PÜ) 3901
+ 1 Modul(s) zugeordnete: 3900 Fachpraktikum,
+Modulhandbuch der HTW Berlin 37/112
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 0 SWS LERNFORM
+ANTEIL WORKLOAD 77% SPRACHE Deutsch
+Inhalte
+• IT-Praktik
+
+----- CHUNK 50 -----
+um in einer Firma oder einer Institution der öffentlichen Verwaltung
+• Anwendung, Ãbertragung und Ãberprüfung des im bisherigen Studium erworbenen Methodenwissens 
+auf die Praxis
+• Bearbeitung von Praxisprojekten im Team oder alleine
+UNIT 3901 Fachpraktikum (PÜ)
+UNIT ID
+Begleitendes Seminar zum Fachpraktikum (PS) 3902
+ 1 Modul(s) zugeordnete: 3900 Fachpraktikum,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 1 SWS LERNFORM (Projekt -)Seminar
+ANTEIL WORKLOAD 3% SPRACHE Deutsch
+Inhalte
+• Erstellen eines qualifizierten Abschlussberichtes über das Praktikum
+• Zwischen- und Endpräsentation über das Praktikum
+Literatur
+• Norbert Frank: Technik des wissenschaftlichen Arbeitens
+• Georg E. Thaller: Software-Projektmanagement. Projekte erfolgreich umsetzen
+• Ralph Brugger : IT-Projekte strukturiert realisieren
+• Fachliteratur zu den zu bearbeitenden Themen im Praktikum
+UNIT 3902 Begleitendes Seminar zum Fachpraktikum (PS)
+UNIT ID
+Karrieremanagement (PÜ) 3903
+ 1 Modul(s) zugeordnete: 3900 Fachpraktikum
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Praktische Übung
+ANTEIL WORKLOAD 20% SPRACHE Deutsch
+Inhalte
+Karriereplanung, Netzwerk, Stärken und Schwächenanalyse, Rollenbilder erkennen und suchen, 
+Kommunikation entwickeln und ausbauen, Bewerbungen
+Literatur
+Die Seminarliteratur orientiert sich an den jeweils neusten einschlägigen Veröffentlichungen. Eine 
+detaillierte Liste wird den Studierenden zu Beginn der Vorlesungszeit bekannt gemacht.
+UNIT 3903 Karrieremanagement (PÜ)
+
+----- CHUNK 51 -----
+MODUL ID
+Bachelorarbeit 8200
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 12 PRÄSENZZEIT 0 SWS
+Modulhandbuch der HTW Berlin 38/112
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG6 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Selbständige Arbeit mit zwei Betreuern HINWEISE Notwendige Voraussetzungen: Siehe 
+Â§12 Prüfungsordnung
+Literatur:
+Praxis des wissenschaftlichen 
+Arbeitens:
+Eine anwendungsorientierte Einführung; 
+reden, schreiben, lesen, recherchieren, 
+Grundlagen; Burchert, Heiko, u. 
+a.;http://ilmopc4.bibliothek.tu-
+ilmenau.de:8080/DB=1/SET=1/TTL=6/
+MAT=/NOMAT=T/CLK?IKT=1008&TRM=
+%3C&cvtour1%3E
+München: Oldenbourg, 2005
+Studienarbeiten interaktiv:
+Erfolgreich wissenschaftlich denken, 
+schreiben, präsentieren; Waldemar 
+Kropp; Berlin: Schmidt, 2006
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+• Fähigkeit, eine klar abgegrenzte praxisbezogene Problemstellung mit dem erworbenen Fach- und Methodenwissen 
+erfolgreich mit wissenschaftlichem Anspruch zu bearbeiten
+• Verfassen einer wissenschaftlichen Abschlussarbeit
+Modulverantwortliche/r
+Prof. Dr.-Ing. Jörn Freiheit
+Tel. 5019-3381 Fax 5019-48-3381 Joern.Freiheit@HTW-Berlin.de Raum WH C 648
+
+----- CHUNK 52 -----
+MODUL ID
+Bachelorseminar/Kolloquium 8300
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 1 Unit(s) zugeordnete: 8301 Bachelorseminar/ Kolloquium (PS)
+Zusammenfassung
+ECTS-PKT. 3 PRÄSENZZEIT 1 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG6 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Protokollierte mündliche Prüfung HINWEISE Notwendige Voraussetzungen: Siehe 
+Â§13 der Prüfungsordnung
+ANERKANNTE MODULE VERWENDBARKEIT
+Modulhandbuch der HTW Berlin 39/112
+Lernergebnisse
+• Beherrschen der erforderlichen Techniken, die zur Anfertigung einer Bachelorarbeit erforderlich sind;
+• Kennen Umgang mit wissenschaftlichen Quellen und können die für die Erstellung einer Thesis erforderlichen 
+Informationen bewerten und gewichten
+• Sind mit den Formalien einer Bachelorarbeit vertraut
+• Fähigkeit, innerhalb eines vorgegebenen Zeitraums eine konkrete Fragestellung unter Berücksichtigung von 
+Schrifttum und vermitteltem Wissen praxisorientiert darzustellen und zu lösen
+• Fähigkeit der Darstellung des eigenen Arbeitsansatzes und der eigenen Ergebnisse
+• Fähigkeit, die Arbeitsansätze und Ergebnisse anderer zu bewerten und ggf. Verbesserungsvorschläge zu machen
+Modulverantwortliche/r
+Prof. Dr.-Ing. Jörn Freiheit
+Tel. 5019-3381 Fax 5019-48-3381 Joern.Freiheit@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Bachelorseminar/ Kolloquium (PS) 8301
+ 1 Modul(s) zugeordnete: 8300 Bachelorseminar/Kolloquium
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 1 SWS LERNFORM (Projekt -)Seminar
+ANTEIL WORKLOAD 100% SPRACHE Deutsch
+Inhalte
+• Vorgehensweise und Methoden bei der Bearbeitung einer Aufgabe
+• Erstellung einer praktisch orie
+
+----- CHUNK 53 -----
+ntierten fachwissenschaftlichen Arbeit.
+UNIT 8301 Bachelorseminar/ Kolloquium (PS)
+
+----- CHUNK 54 -----
+MODUL ID
+Programmierung 1 1210
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 1211 Programmierung 1 (SL), 1212 Programmierung 1 (PCÜ)
+Zusammenfassung
+ECTS-PKT. 6 PRÄSENZZEIT 6 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG1 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+• semesterbegleitende Übungen, 
+unbewertet, Abgaben sind 
+Prüfungsvoraussetzung
+• Klausur (Programmieren am 
+Rechner), bewertet (100% der Note 
+für Prog1)
+• Dauer der Klausur. 90-120 min
+• Anzahl der abzugebenden Übungen 
+(Abgabe ist Voraussetzung zur 
+Klausurteilnehme): 8-10
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Erlernen des algorithmischen Denkens
+Modulhandbuch der HTW Berlin 40/112
+• Erlernen einer Programmiersprache
+• Strukturierung und Modularisierung von Problemlösungen
+• Sicherer Umgang mit einer Entwicklungsumgebung
+• Kennenlernen relevanter Literatur und Dokumentation
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Verständnis für technologische Grundlagen
+• Praktische Problemlösungs- und Umsetzungsfähigkeit
+• Schnelle Einarbeitung in unbekannte Themen
+Modulverantwortliche/r
+Prof. Dr.-Ing. Jörn Freiheit
+Tel. 5019-3381 Fax 5019-48-3381 Joern.Freiheit@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Programmierung 1 (SL) 1211
+ 1 Modul(s) zugeordnete: 1210 Programmierung 1,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 4 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+Vom Problem zum Programm
+• Abstraktion
+• Modellbildung
+• Problemlösung
+• Implementierung
+Aufbau von Progra
+
+----- CHUNK 55 -----
+mmen
+• Syntax
+• Elementare Datentypen
+• Operatoren und Ausdrücke
+• Kontrollstrukturen
+• Ein- und Ausgabe
+Grundlagen der Objektorientierung
+• Klassen und Objekte
+• Methoden
+• Konstruktoren
+• Datenkapselung
+• Benutzung von Standardklassen, z.B. für Strings und Arrays
+• Ausnahme- und Fehlerbehandlung
+Literatur
+• Guido Krüger, Heiko Hansen. Handbuch der Java-Programmierung: Standard Edition 7 (Programmer's 
+Choice), Addison-Wesley Verlag; 7. Auflage, ISBN-13: 978-3827327512
+• Dietmar Ratz, Jens Scheffler, Detlef Seese, Jan Wiesenberger. Grundkurs Programmieren in Java, Carl 
+Hanser Verlag GmbH & CO. KG; 6. Auflage; ISBN-13: 978-3446426634
+• Thomas Künneth, Yvonne Wolf, Einstieg in Eclipse 3.7: Aktuell zu Indigo und Java 7. Galileo 
+Computing, 4. Auflage, ISBN-13: 978-3836216685
+HINWEISE
+• die Programmierkonzepte werden unter Verwendung der Programmiersprache Java vermittelt
+• die Programmierbeispiele werden unter Verwendung der Entwicklungsumgebung Eclipse vorgestellt
+• es kann aber auch IntelliJ, Visual Studio Code oder eine andere IDE verwendet werden
+Modulhandbuch der HTW Berlin 41/112
+UNIT 1211 Programmierung 1 (SL)
+UNIT ID
+Programmierung 1 (PCÜ) 1212
+ 1 Modul(s) zugeordnete: 1210 Programmierung 1
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Lösen von Ãbungsaufgaben
+• Programmierung in Java
+• Anwendung der Lerninhalte aus dem SU
+Literatur
+• Guido Krüger, Heiko Hansen. Handbuch der Java-Programmierung: Standard Edition 7 (Programmer's 
+Choice), Addison-Wesley Verlag; 7. Auflage, ISBN-13: 978-3827327512
+• Dietmar Ratz, Jens Scheffler, Detlef Seese, Jan Wiesenberger.Grundkurs Programmieren in Java, Carl 
+Hanser Verlag GmbH & CO. KG; 6. Auflage; ISBN-13: 978-3446426634
+• Thomas Künneth, Yvonne Wolf, Einstieg in Ecl
+
+----- CHUNK 56 -----
+ipse 3.7: Aktuell zu Indigo und Java 7. Galileo 
+Computing, 4. Auflage, ISBN-13: 978-3836216685
+HINWEISE
+• die Übungen erfolgen an den Laborrechnern
+• es können aber auch eigene Notebooks verwendet werden
+UNIT 1212 Programmierung 1 (PCÜ)
+Modul 1210 Programmierung 1
+Modulhandbuch der HTW Berlin 42/112
+
+----- CHUNK 57 -----
+MODUL ID
+Programmierung 2 1220
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 1221 Programmierung 2 (SL), 1222 Programmierung 2 (PCÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG2 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+Programmierung 1
+Grundlegende Konzepte der Informatik
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+• semesterbegleitende Übungen, 
+unbewertet, Abgaben sind 
+Prüfungsvoraussetzung
+• Klausur (Programmieren am 
+Rechner), bewertet (100% der Note 
+für Prog2)
+• Dauer der Klausur. 90-120 min
+• Anzahl der abzugebenden Übungen 
+(Abgabe ist Voraussetzung zur 
+Klausurteilnehme): 8-10
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Verstehen des objektorientierten Klassenkonzepts
+• Sicherer Umgang mit Vererbung, Interfaces und Polymorphismus
+• Entwurf und Realisierung von Klassen
+• Testen Objektorientierter Software
+• Implementieren grafischer Nutzeroberflächen
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+• Bewältigung komplexer Zusammenhänge
+• Verständnis für technologische Grundlagen
+• Praktische Problemlösungs- und Umsetzungsfähigkeit
+• Schnelle Einarbeitung in unbekannte Themen
+• Zielfindung und Zieleingrenzung
+Modulverantwortliche/r
+Prof. Dr.-Ing. Jörn Freiheit
+Tel. 5019-3381 Fax 5019-48-3381 Joern.Freiheit@HTW-Berlin.de Raum WH C 648
+UNIT ID
+Programmierung 2 (SL) 1221
+ 1 Modul(s) zugeordnete: 1220 Programmierung 2,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Modulhandbuch der
+
+----- CHUNK 58 -----
+HTW Berlin 43/112
+Inhalte
+Vertiefung der Objektorientierung:
+• Vererbung, Schnittstellen, Polymorphismus
+• Abstrakte Klassen, Interfaces, Innere Klassen Exemplarische Nutzung von Klassenbibliotheken z.B. für
+• Dateien
+• Listen, Maps, Sets
+• Streams
+Programmierung in ausgewählten Gebieten :
+• Gestaltung grafischer Oberflächen
+ o Model-View-Controller-Entwurfsmuster
+ o Ereignisbehandlung
+• Gestaltung grafischer Oberflächen
+ o Model-View-Controller-Entwurfsmuster
+ o Ereignisbehandlung
+• Einführung in die Parallele Programmierung (Threads)
+• Anbindung von Datenbanken
+Literatur
+• Guido Krüger, Heiko Hansen. Handbuch der Java- Programmierung: Standard Edition 7 (Programmer's 
+Choice), Addison-Wesley Verlag; 7. Auflage, ISBN-13: 978-3827327512
+• Christian Ullenboom, Java ist auch eine Insel: Das umfassende Handbuch, Galileo Computing, 10. 
+Auflage, ISBN-13: 978-3836218023
+• Donald E. Knuth, The Art of Computer Programming, Volumes 1-4, Addison-Wesley, 2011, 3rd Edition, 
+ISBN-13: 978-0321751041
+UNIT 1221 Programmierung 2 (SL)
+UNIT ID
+Programmierung 2 (PCÜ) 1222
+ 1 Modul(s) zugeordnete: 1220 Programmierung 2
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM PC-Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Lösen von Ãbungsaufgaben
+• Programmierung in Java
+• Anwendung der Lerninhalte aus dem SU
+Literatur
+• Guido Krüger, Heiko Hansen. Handbuch der Java- Programmierung: Standard Edition 7 (Programmer's 
+Choice), Addison-Wesley Verlag; 7. Auflage, ISBN-13: 978-3827327512
+• Christian Ullenboom, Java ist auch eine Insel: Das umfassende Handbuch, Galileo Computing, 10. 
+Auflage, ISBN-13: 978-3836218023
+• Donald E. Knuth, The Art of Computer Programming, Volumes 1-4, Addison-Wesley, 2011, 3rd Edition, 
+ISBN-13: 978-0321751041
+UNIT 1222 Programmierung 2 (PCÜ)
+Modul 1220 Programmie
+
+----- CHUNK 59 -----
+rung 2
+Modulhandbuch der HTW Berlin 44/112
+
+----- CHUNK 60 -----
+MODUL ID
+BWL 1: Grundlagen der BWL 1510
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 1 Unit(s) zugeordnete: 1511 BWL 1: Grundlagen der BWL (SL)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG1 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+schriftliche Abschlussprüfung, Dauer: 90 
+min
+oder Hausarbeit
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Verständnis der grundlegenden Modelle betriebswirtschaftlichen Handelns
+• Verständnis aufbau- und ablauforganisatorischer Strukturen
+• Kenntnisse der Aufgaben des Managements
+• Einblick in Führungsstile und die sie begründenden Theorien
+• Verständnis für die Aufgaben und Methoden der Personalwirtschaft
+• Verständnis der Grundfragen der Investition
+• Verständnis der Risiken und Unsicherheiten in
+• Investitionsentscheidungen
+• Verständnis für die Grundlagen der Finanzierung
+• Einblick in moderne Finanzinstrumente
+• Verständnis der Wertschöpfungsprozesse in Produktion, Logistik und Dienstleistung
+• Kennenlernen der Methoden der Bedarfsvorhersage, der Planung von Kapazitätsangebot und Kapazitätsbedarf
+• Verständnis für die Grundlagen des Marketing
+• Einblick in die Methoden der Marktanalyse, Marktinformation und Marktforschung
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+Modulverantwortliche/r
+Prof. Dr. Juliane Siegeris
+Tel. 5019-3317 Fax 5019-48-3317 Juliane.Siegeris@HTW-Berlin.de Raum WH C 648
+UNIT ID
+BWL 1: Grundlagen der BWL (SL) 1511
+ 1 Modul(s) zugeordnete: 1510 BWL 1: Grundlagen der BWL
+Zusammenfassun
+
+----- CHUNK 61 -----
+g
+ANTEIL PRÄSENZZEIT 4 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 100% SPRACHE Deutsch
+Inhalte
+• Grundbegriffe der Betriebswirtschaftslehre
+• Zusammenhänge und Wechselwirkungen zwischen betriebswirtschaftlichen und volkswirtschaftlichen 
+Entscheidungen
+Modulhandbuch der HTW Berlin 45/112
+• Grundlegende Methoden der Betriebswirtschaftslehre (u.a. Bewertungsmöglichkeiten betrieblichen 
+Handelns)
+• Unternehmensformen
+• Einführung in die Funktionen des Managements
+• Grundlagen der Arbeitsorganisation
+• Einblick in Unternehmensstrukturen, -prozesse und -Projekte
+• Einblick in Personalplanung, Personalauswahl, Personalbeurteilung und - Entwicklung
+• Einblick in die Grundfragen der Personalvergütung
+Literatur
+• Weber, W.: Einführung in die Betriebswirtschaftslehre, 4. Aufl., Wiesbaden.
+• Bea, F.X.; Dichtl, E. u. a.: Allgemeine Betriebswirtschaftslehre, Band 1: Grundlagen, Stuttgart.
+• Wöhe, G., Einführung in die Allgemeine Betriebswirtschaftslehre, München.
+• Bofinger, P.: Grundzüge der Volkswirtschaftslehre, München.
+• Steinmann, H.; Schreyögg, G.: Management. 6. Aufl., Wiesbaden.
+• Steinbuch, P. A.: Organisation, Ludwigshafen.
+UNIT 1511 BWL 1: Grundlagen der BWL (SL)
+Modul 1510 BWL 1: Grundlagen der BWL
+Modulhandbuch der HTW Berlin 46/112
+
+----- CHUNK 62 -----
+MODUL ID
+BWL 2: Rechnungswesen 1520
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Unit(s) zugeordnete: 1521 BWL 2: Rechnungswesen (SL), 1522 BWL 2: Rechnungswesen (PÜ)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG2 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+BWL 1: Grundlagen der BWL
+Mathematik
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+schriftliche Abschlussprüfung, Dauer: 90 
+min
+oder Hausarbeit
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Kenntnisse methodischer Grundlagen und Instrumente der Abbildung geschäftlicher Tätigkeiten
+• Verständnis der Einordnung des externen Rechnungswesens (Bilanz, Gewinn- und Verlustrechnung) in die 
+betriebswirtschaftlichen und gesetzlichen Grundlagen
+• Verständnis der Systematik der Erfassung und informativen Abbildung von Geschäftsvorfällen und ihrer 
+bestandsverändernden Wirkung
+• Fähigkeit zur Analyse von Kosten- und Leistungsstrukturen, zur Anwendung von Kostenverrechnungs- und 
+Kalkulationsverfahren und zur Nutzung von Methoden der Kostenplanung
+• Fähigkeit zur Kommunikation der Ergebnisse an Vertreter anderer Fachdisziplinen
+• Fähigkeit zur Nutzung von Controllingsystemen
+Fachunabhängig:
+• Eigenständiges Lernen
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+Modulverantwortliche/r
+Prof. Dr. Juliane Siegeris
+Tel. 5019-3317 Fax 5019-48-3317 Juliane.Siegeris@HTW-Berlin.de Raum WH C 648
+UNIT ID
+BWL 2: Rechnungswesen (SL) 1521
+ 1 Modul(s) zugeordnete: 1520 BWL 2: Rechnungswesen,
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 50% SPRA
+
+----- CHUNK 63 -----
+CHE Deutsch
+Inhalte
+• Das Rechnungswesen als Kernstück unternehmerischer Informationsversorgung (Unternehmen und 
+Betrieb, Informationsversorgung durch das externe und das interne Rechnungswesen)
+• Informationsausweis zu unternehmerischen Beständen und ihren Veränderungen (Grundsätzliches 
+zur Bilanz als Informationsinstrument; Bilanzveränderungen durch Geschäftsvorfälle; die acht 
+Strömungsgrößen)
+• Doppelte Buchführung als Methode der Informationserfassung und -strukturierung (Buchung auf 
+Bestandskonten; Buchung auf erfolgswirksamen und erfolgsneutralen Unterkonten des Eigenkapitals; 
+die USt und ihre Buchung)
+Modulhandbuch der HTW Berlin 47/112
+• Grundsätzliches zur Rechnungslegung (handels- und steuerrechtliche Buchführungspflicht; die GoB; 
+handelsrechtliche Vorschriften zur Bilanz, Bilanzierung von Vermögen und Kapital; die Gewinn- und 
+Verlustrechnung; sonstige Bestandteile der Rechnungslegung; Grundzüge der Erfolgsbesteuerung; 
+Grundzüge internationaler Rechnungslegung)
+Literatur
+• Handelsgesetzbuch in der aktuellsten Ausgabe. München.
+• Weber, J.; Weißenberger, B. E.: Einführung in das Rechnungswesen, Stuttgart.
+• Schmolke, S.; Deitermann, M.: Industriebuchführung mit Kosten- und Leistungsrechnung. Darmstadt.
+• Wöhe, G: Einführung in die Allgemeine Betriebswirtschaftslehre. München.
+UNIT 1521 BWL 2: Rechnungswesen (SL)
+UNIT ID
+BWL 2: Rechnungswesen (PÜ) 1522
+ 1 Modul(s) zugeordnete: 1520 BWL 2: Rechnungswesen
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Praktische Übung
+ANTEIL WORKLOAD 50% SPRACHE Deutsch
+Inhalte
+• Gewinn. Und Verlustrechnungen
+• Bilanzieren
+• Jahresabschlussrechnungen
+• Kenntnisse über Kostenkategorien
+• Kenntnisse über Kostenarten-, Kostenstellen- und Kostenträgerrechnung
+• Fähigkeiten zur Kostenbeitragsrechnung
+• Kenntnisse über neuere
+
+----- CHUNK 64 -----
+Verfahren der Kostenrechnung
+Literatur
+• Handelsgesetzbuch in der aktuellsten Ausgabe. München.
+• Weber, J.; Weißenberger, B. E.: Einführung in das Rechnungswesen, Stuttgart.
+• Schmolke, S.; Deitermann, M.: Industriebuchführung mit Kosten- und Leistungsrechnung. Darmstadt.
+• Wöhe, G: Einführung in die Allgemeine Betriebswirtschaftslehre. München.
+UNIT 1522 BWL 2: Rechnungswesen (PÜ)
+Modul 1520 BWL 2: Rechnungswesen
+Modulhandbuch der HTW Berlin 48/112
+
+----- CHUNK 65 -----
+MODUL ID
+BWL 3: Betriebswirtschaftliches Denken und Handeln 1530
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 1 Unit(s) zugeordnete: 1531 BWL 3: Betriebswirtschaftliches Denken und Handeln (SL)
+Zusammenfassung
+ECTS-PKT. 5 PRÄSENZZEIT 2 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG5 
+STATUS DES MODULS Pflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+BWL 2: Rechnungswesen
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Hausarbeit/Referat ergibt zu 100% die 
+Note für BWL3
+HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Fachabhängig:
+• Unternehmensorganisation
+• Unternehmensarten
+• Aufstellen von Geschäftsplänen
+• Durchführen von Marktanalysen und Risikoabschätzung
+• Bestimmen des optimalen Standortwahl
+• Kenntnisse der Möglichkeiten zur Finanzierung
+• Umgang mit Banken und Börsen
+• Einwerben von Geldmitteln
+• Kenntnis der wichtigsten Fördermöglichkeiten
+• Finden und Ausbilden von Personal
+Fachunabhängig:
+• Eigenständiges Lernen
+• Beobachten und Analysieren
+• Strukturiertes, konzeptionelles Denken
+• Systematische Arbeitsweise
+Modulverantwortliche/r
+Prof. Dr. Juliane Siegeris
+Tel. 5019-3317 Fax 5019-48-3317 Juliane.Siegeris@HTW-Berlin.de Raum WH C 648
+UNIT ID
+BWL 3: Betriebswirtschaftliches Denken und Handeln 
+(SL)
+1531
+ 1 Modul(s) zugeordnete: 1530 BWL 3: Betriebswirtschaftliches Denken und Handeln
+Zusammenfassung
+ANTEIL PRÄSENZZEIT 2 SWS LERNFORM Seminaristischer Lehrvortrag
+ANTEIL WORKLOAD 100% SPRACHE Deutsch
+Inhalte
+• Praktisches Marketing
+• Umgang mit Banken und Börsen
+• Einwerben von Geldmitteln
+• Kenntnis der wichtigsten Fördermöglichkeiten
+• Finden und Ausbilden von Personal
+• Grundkenntnisse rechtlicher Randbedingungen
+Mod
+
+----- CHUNK 66 -----
+ulhandbuch der HTW Berlin 49/112
+• Realistischer Business Plan
+Literatur
+Die Seminarliteratur orientiert sich an den jeweils neusten einschlägigen Veröffentlichungen. Eine 
+detaillierte Liste wird den Studierenden zu Beginn der Vorlesungszeit bekannt gemacht.
+UNIT 1531 BWL 3: Betriebswirtschaftliches Denken und Handeln (SL)
+Modul 1530 BWL 3: Betriebswirtschaftliches Denken und Handeln
+Modulhandbuch der HTW Berlin 50/112
+Modul 100 Studienplanübersicht / Prüfungsangebot
+Modulhandbuch der HTW Berlin 51/112
+ ID
+AWE Variantenauswahl - ACHTUNG - bewusst 
+auswählen
+7005
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 3 Modul(s) zugeordnete: 7500 Variante 1: AWE und eine Fremdsprache, 7600 Variante 2: Fremdsprache mit 
+Fachsprachenniveau und eine 2. Fremdsprache, 7900 Variante 3: eine Fremdsprache mit zusätzlicher Vertiefung
+ ID
+Variante 1: AWE und eine Fremdsprache 7500
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 6 Modul(s) zugeordnete: 7000 AWE Module, 7510 1. Fremdsprache: Englisch, 7520 1. Fremdsprache: 
+Französisch, 7530 1. Fremdsprache: Spanisch, 7540 1. Fremdsprache: Russisch, 7550 1. Fremdsprache: 
+Deutsch als Fremdsprache
+ ID
+AWE Module 7000
+Die allgemeinwissenschaftlichen Ergänzungsfächer (AWE-Fächer), zu denen auch die Fremdsprachenangebote der 
+Zentraleinrichtung Fremdsprachen zählen, dienen der Vermittlung überfachlicher Kompetenzen. Generell wird das 
+Allgemeinwissenschaftliche Ergänzungsstudium in der Studienordnung eines Studiengangs geregelt. Die aktuellen 
+Angebote der HTW Berlin im Bereich AWE-Fächer finden Sie online im Vorlesungsverzeichnis.
+Modul 7000 AWE Module
+Modulhandbuch der HTW Berlin 52/112
+ ID
+1. Fremdsprache: Englisch 7510
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Modul(s) zugeordnete: 7511 Englisch: Mi
+
+----- CHUNK 67 -----
+ttelstufe 2/Technik, 7512 Englisch: Mittelstufe 3/Technik
+Modul 7510 1. Fremdsprache: Englisch
+Modulhandbuch der HTW Berlin 53/112
+
+----- CHUNK 68 -----
+MODUL ID
+Englisch: Mittelstufe 2/Technik 7511
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur und mündliche Prüfung HINWEISE Empfohlene Voraussetzungen: Englisch: 
+Abitur- /Fachabiturniveau (GER B1.2)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Einführung in die Fachsprache der Wirtschaft/ Fachsprache der Technik/ Fachsprache der 
+Gestaltung. Alle Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener 
+allgemeinsprachlicher Kenntnisse mit folgender Zielstellung weiterentwickelt:
+Mittelstufe 2/Wirtschaft/Technik/Gestaltung:
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Modul 7511 Englisch: Mittelstufe 2/Technik
+Modulhandbuch der HTW Berlin 54/112
+
+----- CHUNK 69 -----
+MODUL ID
+Englisch: Mittelstufe 3/Technik 7512
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur und mündliche Prüfung/
+Präsentation
+HINWEISE Empfohlene Voraussetzungen:English 
+for Computer Science and Business 
+Administration M2Ts
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Erlangung hoher allgemeinsprachlicher/ fachsprachlicher Kompetenz auf dem Gebiet der 
+Wirtschaft/ Technik/Gestaltung. Alle Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden aufbauend auf den 
+Sprachmodulen der Mittelstufe 2 mit folgender Zielstellung weiterentwickelt:
+Mittelstufe 3/ Allgemeinsprache/Wirtschaft/ Technik/Gestaltung:
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema unter Benennung der Vor- und Nachteile 
+unterschiedlicher Ansätze
+Modul 7512 Englisch: Mittelstufe 3/Technik
+Modulhandbuch der HTW Berlin 55/112
+ ID
+1. Fremdsprache: Französisch 7520
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Modul(s) zugeordnete: 7521 Französisch: Mittelstufe 1/Wirtschaft, 7522 Französisch: Mittelstufe 2/
+Wirtschaft
+Modul 7520 1. Fremdsprache: Französisch
+Modulhandbuch der HTW Berlin 56/112
+
+----- CHUNK 70 -----
+MODUL ID
+Französisch: Mittelstufe 1/Wirtschaft 7521
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE Empfohlene Voraussetzungen: 
+Modul Französisch Grundstufe 3As, 
+Französisch Reaktivierungskurs/
+Intensivkurs oder ca. 3-4 Jahre 
+Schulfranzösisch (GER B1.1)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Einführung in die Allgemeinsprache oder Fachsprache der Wirtschaft. Alle Sprachfertigkeiten 
+(Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener allgemeinsprachlicher Kenntnisse mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 1/Allgemeinsprache/Wirtschaft:
+- Verständnis des wesentlichen Inhalts klar standardisierter Informationen zu vertrauten Themen aus den Bereichen 
+Arbeit, Schule, Freizeit usw.
+- Kommunikationsfähigkeit in anzunehmenden Gesprächssituationen in Ländern, in denen die Sprache gesprochen wird
+- einfache Textproduktion zu vertrauten Fachthemen oder Themen von persönlichem Interesse
+- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen und Zielen
+- kurze Erklärung und Begründung von Meinungen und Plänen
+Modul 7521 Französisch: Mittelstufe 1/Wirtschaft
+Modulhandbuch der HTW Berlin 57/112
+
+----- CHUNK 71 -----
+MODUL ID
+Französisch: Mittelstufe 2/Wirtschaft 7522
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE Empfohlene Voraussetzungen: Modul 
+Französisch Mittelstufe 1 Wirtschaft 
+oder ca. 5 Jahre Unterricht, Abitur-/
+Fachabiturniveau (GER B 1.2)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Erlangung hoher allgemein-/fachsprachlicher Kompetenz auf dem Gebiet der Wirtschaft. Alle 
+Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden aufbauend auf den Sprachmodulen der Mittelstufe 1 mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 2/Allgemeinsprache oder Wirtschaft:
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Modul 7522 Französisch: Mittelstufe 2/Wirtschaft
+Modulhandbuch der HTW Berlin 58/112
+ ID
+1. Fremdsprache: Spanisch 7530
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Modul(s) zugeordnete: 7531 Spanisch: Mittelstufe 1/Wirtschaft, 7532 Spanisch: Mittelstufe 2/Wirtschaft
+Modul 7530 1. Fremdsprache: Spanisch
+Modulhandbuch der HTW Berlin 59/112
+
+----- CHUNK 72 -----
+MODUL ID
+Spanisch: Mittelstufe 1/Wirtschaft 7531
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE Empfohlene Voraussetzungen:
+Modul Spanisch Grundstufe 3As oder ca. 
+3-4 Jahre Unterricht
+(GER B1.1)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Einführung in die Allgemeinsprache oder Fachsprache der Wirtschaft. Alle Sprachfertigkeiten 
+(Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener allgemeinsprachlicher Kenntnisse mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 1/Allgemeinsprache/Wirtschaft:
+- Verständnis des wesentlichen Inhalts klar standardisierter Informationen zu vertrauten Themen aus den Bereichen 
+Arbeit, Schule, Freizeit usw.
+- Kommunikationsfähigkeit in anzunehmenden Gesprächssituationen in Ländern, in denen die Sprache gesprochen wird
+- einfache Textproduktion zu vertrauten Fachthemen oder Themen von persönlichem Interesse
+- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen und Zielen
+- kurze Erklärung und Begründung von Meinungen und Plänen
+Modul 7531 Spanisch: Mittelstufe 1/Wirtschaft
+Modulhandbuch der HTW Berlin 60/112
+
+----- CHUNK 73 -----
+MODUL ID
+Spanisch: Mittelstufe 2/Wirtschaft 7532
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur und mündliche Prüfung/
+Präsentation
+HINWEISE Empfohlene Voraussetzungen: Modul 
+Spanisch Mittelstufe 1 Wirtschaft oder 
+ca. 5 Jahre Unterricht (GER B1.2)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Erlangung hoher allgemein-/fachsprachlicher Kompetenz auf dem Gebiet der Wirtschaft. Alle 
+Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden aufbauend auf den Sprachmodulen der Mittelstufe 1 mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 2/Allgemeinsprache oder Wirtschaft:
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Modul 7532 Spanisch: Mittelstufe 2/Wirtschaft
+Modulhandbuch der HTW Berlin 61/112
+ ID
+1. Fremdsprache: Russisch 7540
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Modul(s) zugeordnete: 7541 Russisch: Mittelstufe 1/Wirtschaft, 7542 Russisch: Mittelstufe 2/Wirtschaft
+Modul 7540 1. Fremdsprache: Russisch
+Modulhandbuch der HTW Berlin 62/112
+
+----- CHUNK 74 -----
+MODUL ID
+Russisch: Mittelstufe 1/Wirtschaft 7541
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur + mündlicher Prüfungsteil HINWEISE Empfohlene Voraussetzungen: Modul 
+Russisch Grundstufe 3 (GER B1.1) oder 
+3-4 Schuljahre
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Einführung in die Allgemeinsprache oder Fachsprache der Wirtschaft. Alle Sprachfertigkeiten 
+(Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener allgemeinsprachlicher Kenntnisse mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 1/Allgemeinsprache/Wirtschaft:
+- Verständnis des wesentlichen Inhalts klar standardisierter Informationen zu vertrauten Themen aus den Bereichen 
+Arbeit, Schule, Freizeit usw.
+- Kommunikationsfähigkeit in anzunehmenden Gesprächssituationen in Ländern, in denen die Sprache gesprochen wird
+- einfache Textproduktion zu vertrauten Fachthemen oder Themen von persönlichem Interesse
+- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen und Zielen
+- kurze Erklärung und Begründung von Meinungen und Plänen
+Modul 7541 Russisch: Mittelstufe 1/Wirtschaft
+Modulhandbuch der HTW Berlin 63/112
+
+----- CHUNK 75 -----
+MODUL ID
+Russisch: Mittelstufe 2/Wirtschaft 7542
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur + mündlicher Prüfungsteil HINWEISE Empfohlene Voraussetzungen: Modul 
+Russisch Mittelstufe 1/Wirtschaft (GER 
+B1.2) oder Abitur-/ Fachabiturniveau
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Erlangung hoher allgemein-/fachsprachlicher Kompetenz auf dem Gebiet der Wirtschaft. Alle 
+Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden aufbauend auf den Sprachmodulen der Mittelstufe 1 mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 2/Allgemeinsprache oder Wirtschaft:
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Modul 7542 Russisch: Mittelstufe 2/Wirtschaft
+Modulhandbuch der HTW Berlin 64/112
+ ID
+1. Fremdsprache: Deutsch als Fremdsprache 7550
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Modul(s) zugeordnete: 7551 Deutsch als Fremdsprache: Mittelstufe 3/Wirtschaft, 7552 Deutsch als 
+Fremdsprache: Oberstufe 1/Wirtschaft
+Modul 7550 1. Fremdsprache: Deutsch als Fremdsprache
+Modulhandbuch der HTW Berlin 65/112
+
+----- CHUNK 76 -----
+MODUL ID
+Deutsch als Fremdsprache: Mittelstufe 3/Wirtschaft 7551
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur + Präsentation HINWEISE Empfohlene Voraussetzungen: Bachelor: 
+Modul Wirtschaftsdeutsch Mittelstufe 2 
+(GER B2.1)
+Master: Kenntnisse lt. GER B2.1.
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Mittelstufe 3/ Wirtschaft (GER B2)
+Das Modul dient unter Berücksichtigung aller Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) der weiteren 
+Vertiefung der zuvor erlangten Sprachkompetenz mit folgender Zielstellung:
+Mittelstufe 3/ Wirtschaft:
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema unter Benennung der Vor- und Nachteile 
+unterschiedlicher Ansätze
+Modul 7551 Deutsch als Fremdsprache: Mittelstufe 3/Wirtschaft
+Modulhandbuch der HTW Berlin 66/112
+
+----- CHUNK 77 -----
+MODUL ID
+Deutsch als Fremdsprache: Oberstufe 1/Wirtschaft 7552
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur + mündlicher Prüfungsteil HINWEISE Empfohlene Voraussetzungen: Bachelor: 
+Modul Wirtschaftsdeutsch Mittelstufe 3 
+(GER B2.2)
+Master: Kenntnisse lt. GER B2.2.
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Oberstufe 1 Wirtschaft (GER C1)
+Das Modul ist dient unter Berücksichtigung aller Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) der 
+Vervollkommnung bereits erworbener fachsprachlicher Kenntnisse mit folgender Zielsetzung:
+- Verständnis verschiedenartiger umfangreicher Texte und Identifikation impliziter Bedeutung
+- flüssige und spontane Ausdrucksweise ohne größeres Suchen nach adäquaten Wendungen
+- flexibler und effektiver Sprachgebrauch im sozialen, akademischen und beruflichen Kontext
+- klare, gut strukturierte und detaillierte Textproduktion zu anspruchsvollen Themen unter Verwendung usueller 
+Informationsstrukturen
+Modul 7552 Deutsch als Fremdsprache: Oberstufe 1/Wirtschaft
+Modulhandbuch der HTW Berlin 67/112
+Modul 7500 Variante 1: AWE und eine Fremdsprache
+Modulhandbuch der HTW Berlin 68/112
+ ID
+Variante 2: Fremdsprache mit Fachsprachenniveau und 
+eine 2. Fremdsprache
+7600
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 14 Modul(s) zugeordnete: 7510 1. Fremdsprache: Englisch, 7520 1. Fremdsprache: Französisch, 7530 1. 
+Fremdsprache: Spanisch, 7540 1. Fremdsprache: Russisch, 7550 1. Fremdsprac
+
+----- CHUNK 78 -----
+he: Deutsch als Fremdsprache, 
+7610 2. Fremdsprache: Englisch, 7620 2. Fremdsprache: Französisch, 7630 2. Fremdsprache: Spanisch, 
+7640 2. Fremdsprache: Russisch, 7650 2. Fremdsprache: Japanisch, 7660 2. Fremdsprache: Italienisch, 
+7670 2. Fremdsprache: Schwedisch, 7680 2. Fremdsprache: Arabisch, 7690 2. Fremdsprache: Deutsch als 
+Fremdsprache
+ ID
+1. Fremdsprache: Englisch 7510
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Modul(s) zugeordnete: 7511 Englisch: Mittelstufe 2/Technik, 7512 Englisch: Mittelstufe 3/Technik
+Modul 7510 1. Fremdsprache: Englisch
+Modulhandbuch der HTW Berlin 69/112
+
+----- CHUNK 79 -----
+MODUL ID
+Englisch: Mittelstufe 2/Technik 7511
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur und mündliche Prüfung HINWEISE Empfohlene Voraussetzungen: Englisch: 
+Abitur- /Fachabiturniveau (GER B1.2)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Einführung in die Fachsprache der Wirtschaft/ Fachsprache der Technik/ Fachsprache der 
+Gestaltung. Alle Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener 
+allgemeinsprachlicher Kenntnisse mit folgender Zielstellung weiterentwickelt:
+Mittelstufe 2/Wirtschaft/Technik/Gestaltung:
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Modul 7511 Englisch: Mittelstufe 2/Technik
+Modulhandbuch der HTW Berlin 70/112
+
+----- CHUNK 80 -----
+MODUL ID
+Englisch: Mittelstufe 3/Technik 7512
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur und mündliche Prüfung/
+Präsentation
+HINWEISE Empfohlene Voraussetzungen:English 
+for Computer Science and Business 
+Administration M2Ts
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Erlangung hoher allgemeinsprachlicher/ fachsprachlicher Kompetenz auf dem Gebiet der 
+Wirtschaft/ Technik/Gestaltung. Alle Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden aufbauend auf den 
+Sprachmodulen der Mittelstufe 2 mit folgender Zielstellung weiterentwickelt:
+Mittelstufe 3/ Allgemeinsprache/Wirtschaft/ Technik/Gestaltung:
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema unter Benennung der Vor- und Nachteile 
+unterschiedlicher Ansätze
+Modul 7512 Englisch: Mittelstufe 3/Technik
+Modulhandbuch der HTW Berlin 71/112
+ ID
+1. Fremdsprache: Französisch 7520
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Modul(s) zugeordnete: 7521 Französisch: Mittelstufe 1/Wirtschaft, 7522 Französisch: Mittelstufe 2/
+Wirtschaft
+Modul 7520 1. Fremdsprache: Französisch
+Modulhandbuch der HTW Berlin 72/112
+
+----- CHUNK 81 -----
+MODUL ID
+Französisch: Mittelstufe 1/Wirtschaft 7521
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE Empfohlene Voraussetzungen: 
+Modul Französisch Grundstufe 3As, 
+Französisch Reaktivierungskurs/
+Intensivkurs oder ca. 3-4 Jahre 
+Schulfranzösisch (GER B1.1)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Einführung in die Allgemeinsprache oder Fachsprache der Wirtschaft. Alle Sprachfertigkeiten 
+(Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener allgemeinsprachlicher Kenntnisse mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 1/Allgemeinsprache/Wirtschaft:
+- Verständnis des wesentlichen Inhalts klar standardisierter Informationen zu vertrauten Themen aus den Bereichen 
+Arbeit, Schule, Freizeit usw.
+- Kommunikationsfähigkeit in anzunehmenden Gesprächssituationen in Ländern, in denen die Sprache gesprochen wird
+- einfache Textproduktion zu vertrauten Fachthemen oder Themen von persönlichem Interesse
+- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen und Zielen
+- kurze Erklärung und Begründung von Meinungen und Plänen
+Modul 7521 Französisch: Mittelstufe 1/Wirtschaft
+Modulhandbuch der HTW Berlin 73/112
+
+----- CHUNK 82 -----
+MODUL ID
+Französisch: Mittelstufe 2/Wirtschaft 7522
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE Empfohlene Voraussetzungen: Modul 
+Französisch Mittelstufe 1 Wirtschaft 
+oder ca. 5 Jahre Unterricht, Abitur-/
+Fachabiturniveau (GER B 1.2)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Erlangung hoher allgemein-/fachsprachlicher Kompetenz auf dem Gebiet der Wirtschaft. Alle 
+Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden aufbauend auf den Sprachmodulen der Mittelstufe 1 mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 2/Allgemeinsprache oder Wirtschaft:
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Modul 7522 Französisch: Mittelstufe 2/Wirtschaft
+Modulhandbuch der HTW Berlin 74/112
+ ID
+1. Fremdsprache: Spanisch 7530
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Modul(s) zugeordnete: 7531 Spanisch: Mittelstufe 1/Wirtschaft, 7532 Spanisch: Mittelstufe 2/Wirtschaft
+Modul 7530 1. Fremdsprache: Spanisch
+Modulhandbuch der HTW Berlin 75/112
+
+----- CHUNK 83 -----
+MODUL ID
+Spanisch: Mittelstufe 1/Wirtschaft 7531
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE Empfohlene Voraussetzungen:
+Modul Spanisch Grundstufe 3As oder ca. 
+3-4 Jahre Unterricht
+(GER B1.1)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Einführung in die Allgemeinsprache oder Fachsprache der Wirtschaft. Alle Sprachfertigkeiten 
+(Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener allgemeinsprachlicher Kenntnisse mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 1/Allgemeinsprache/Wirtschaft:
+- Verständnis des wesentlichen Inhalts klar standardisierter Informationen zu vertrauten Themen aus den Bereichen 
+Arbeit, Schule, Freizeit usw.
+- Kommunikationsfähigkeit in anzunehmenden Gesprächssituationen in Ländern, in denen die Sprache gesprochen wird
+- einfache Textproduktion zu vertrauten Fachthemen oder Themen von persönlichem Interesse
+- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen und Zielen
+- kurze Erklärung und Begründung von Meinungen und Plänen
+Modul 7531 Spanisch: Mittelstufe 1/Wirtschaft
+Modulhandbuch der HTW Berlin 76/112
+
+----- CHUNK 84 -----
+MODUL ID
+Spanisch: Mittelstufe 2/Wirtschaft 7532
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur und mündliche Prüfung/
+Präsentation
+HINWEISE Empfohlene Voraussetzungen: Modul 
+Spanisch Mittelstufe 1 Wirtschaft oder 
+ca. 5 Jahre Unterricht (GER B1.2)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Erlangung hoher allgemein-/fachsprachlicher Kompetenz auf dem Gebiet der Wirtschaft. Alle 
+Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden aufbauend auf den Sprachmodulen der Mittelstufe 1 mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 2/Allgemeinsprache oder Wirtschaft:
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Modul 7532 Spanisch: Mittelstufe 2/Wirtschaft
+Modulhandbuch der HTW Berlin 77/112
+ ID
+1. Fremdsprache: Russisch 7540
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Modul(s) zugeordnete: 7541 Russisch: Mittelstufe 1/Wirtschaft, 7542 Russisch: Mittelstufe 2/Wirtschaft
+Modul 7540 1. Fremdsprache: Russisch
+Modulhandbuch der HTW Berlin 78/112
+
+----- CHUNK 85 -----
+MODUL ID
+Russisch: Mittelstufe 1/Wirtschaft 7541
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur + mündlicher Prüfungsteil HINWEISE Empfohlene Voraussetzungen: Modul 
+Russisch Grundstufe 3 (GER B1.1) oder 
+3-4 Schuljahre
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Einführung in die Allgemeinsprache oder Fachsprache der Wirtschaft. Alle Sprachfertigkeiten 
+(Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener allgemeinsprachlicher Kenntnisse mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 1/Allgemeinsprache/Wirtschaft:
+- Verständnis des wesentlichen Inhalts klar standardisierter Informationen zu vertrauten Themen aus den Bereichen 
+Arbeit, Schule, Freizeit usw.
+- Kommunikationsfähigkeit in anzunehmenden Gesprächssituationen in Ländern, in denen die Sprache gesprochen wird
+- einfache Textproduktion zu vertrauten Fachthemen oder Themen von persönlichem Interesse
+- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen und Zielen
+- kurze Erklärung und Begründung von Meinungen und Plänen
+Modul 7541 Russisch: Mittelstufe 1/Wirtschaft
+Modulhandbuch der HTW Berlin 79/112
+
+----- CHUNK 86 -----
+MODUL ID
+Russisch: Mittelstufe 2/Wirtschaft 7542
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur + mündlicher Prüfungsteil HINWEISE Empfohlene Voraussetzungen: Modul 
+Russisch Mittelstufe 1/Wirtschaft (GER 
+B1.2) oder Abitur-/ Fachabiturniveau
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Erlangung hoher allgemein-/fachsprachlicher Kompetenz auf dem Gebiet der Wirtschaft. Alle 
+Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden aufbauend auf den Sprachmodulen der Mittelstufe 1 mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 2/Allgemeinsprache oder Wirtschaft:
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Modul 7542 Russisch: Mittelstufe 2/Wirtschaft
+Modulhandbuch der HTW Berlin 80/112
+ ID
+1. Fremdsprache: Deutsch als Fremdsprache 7550
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 2 Modul(s) zugeordnete: 7551 Deutsch als Fremdsprache: Mittelstufe 3/Wirtschaft, 7552 Deutsch als 
+Fremdsprache: Oberstufe 1/Wirtschaft
+Modul 7550 1. Fremdsprache: Deutsch als Fremdsprache
+Modulhandbuch der HTW Berlin 81/112
+
+----- CHUNK 87 -----
+MODUL ID
+Deutsch als Fremdsprache: Mittelstufe 3/Wirtschaft 7551
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur + Präsentation HINWEISE Empfohlene Voraussetzungen: Bachelor: 
+Modul Wirtschaftsdeutsch Mittelstufe 2 
+(GER B2.1)
+Master: Kenntnisse lt. GER B2.1.
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Mittelstufe 3/ Wirtschaft (GER B2)
+Das Modul dient unter Berücksichtigung aller Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) der weiteren 
+Vertiefung der zuvor erlangten Sprachkompetenz mit folgender Zielstellung:
+Mittelstufe 3/ Wirtschaft:
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema unter Benennung der Vor- und Nachteile 
+unterschiedlicher Ansätze
+Modul 7551 Deutsch als Fremdsprache: Mittelstufe 3/Wirtschaft
+Modulhandbuch der HTW Berlin 82/112
+
+----- CHUNK 88 -----
+MODUL ID
+Deutsch als Fremdsprache: Oberstufe 1/Wirtschaft 7552
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur + mündlicher Prüfungsteil HINWEISE Empfohlene Voraussetzungen: Bachelor: 
+Modul Wirtschaftsdeutsch Mittelstufe 3 
+(GER B2.2)
+Master: Kenntnisse lt. GER B2.2.
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Oberstufe 1 Wirtschaft (GER C1)
+Das Modul ist dient unter Berücksichtigung aller Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) der 
+Vervollkommnung bereits erworbener fachsprachlicher Kenntnisse mit folgender Zielsetzung:
+- Verständnis verschiedenartiger umfangreicher Texte und Identifikation impliziter Bedeutung
+- flüssige und spontane Ausdrucksweise ohne größeres Suchen nach adäquaten Wendungen
+- flexibler und effektiver Sprachgebrauch im sozialen, akademischen und beruflichen Kontext
+- klare, gut strukturierte und detaillierte Textproduktion zu anspruchsvollen Themen unter Verwendung usueller 
+Informationsstrukturen
+Modul 7552 Deutsch als Fremdsprache: Oberstufe 1/Wirtschaft
+Modulhandbuch der HTW Berlin 83/112
+
+----- CHUNK 89 -----
+MODUL ID
+2. Fremdsprache: Englisch 7610
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module sind aus dem Modulangebot der ZE Fremdsprachen (Grundstufe 1 bis Oberstufe 2) frei wählbar. In 
+Abhängigkeit der vorhandenen Vorkenntnisse dienen sie der Erlangung von allgemein- und/oder fachsprachlichen 
+Kenntnissen in allen Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben).
+Modul 7610 2. Fremdsprache: Englisch
+Modulhandbuch der HTW Berlin 84/112
+
+----- CHUNK 90 -----
+MODUL ID
+2. Fremdsprache: Französisch 7620
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module sind aus dem Modulangebot der ZE Fremdsprachen (Grundstufe 1 bis Oberstufe 2) frei wählbar. In 
+Abhängigkeit der vorhandenen Vorkenntnisse dienen sie der Erlangung von allgemein- und/oder fachsprachlichen 
+Kenntnissen in allen Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben).
+Modul 7620 2. Fremdsprache: Französisch
+Modulhandbuch der HTW Berlin 85/112
+
+----- CHUNK 91 -----
+MODUL ID
+2. Fremdsprache: Spanisch 7630
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module sind aus dem Modulangebot der ZE Fremdsprachen (Grundstufe 1 bis Oberstufe 2) frei wählbar. In 
+Abhängigkeit der vorhandenen Vorkenntnisse dienen sie der Erlangung von allgemein- und/oder fachsprachlichen 
+Kenntnissen in allen Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben).
+Modul 7630 2. Fremdsprache: Spanisch
+Modulhandbuch der HTW Berlin 86/112
+
+----- CHUNK 92 -----
+MODUL ID
+2. Fremdsprache: Russisch 7640
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module sind aus dem Modulangebot der ZE Fremdsprachen (Grundstufe 1 bis Oberstufe 2) frei wählbar. In 
+Abhängigkeit der vorhandenen Vorkenntnisse dienen sie der Erlangung von allgemein- und/oder fachsprachlichen 
+Kenntnissen in allen Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben).
+Modul 7640 2. Fremdsprache: Russisch
+Modulhandbuch der HTW Berlin 87/112
+
+----- CHUNK 93 -----
+MODUL ID
+2. Fremdsprache: Japanisch 7650
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module sind aus dem Modulangebot der ZE Fremdsprachen (Grundstufe 1 bis Oberstufe 2) frei wählbar. In 
+Abhängigkeit der vorhandenen Vorkenntnisse dienen sie der Erlangung von allgemein- und/oder fachsprachlichen 
+Kenntnissen in allen Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben).
+Modul 7650 2. Fremdsprache: Japanisch
+Modulhandbuch der HTW Berlin 88/112
+
+----- CHUNK 94 -----
+MODUL ID
+2. Fremdsprache: Italienisch 7660
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module sind aus dem Modulangebot der ZE Fremdsprachen (Grundstufe 1 bis Oberstufe 2) frei wählbar. In 
+Abhängigkeit der vorhandenen Vorkenntnisse dienen sie der Erlangung von allgemein- und/oder fachsprachlichen 
+Kenntnissen in allen Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben).
+Modul 7660 2. Fremdsprache: Italienisch
+Modulhandbuch der HTW Berlin 89/112
+
+----- CHUNK 95 -----
+MODUL ID
+2. Fremdsprache: Schwedisch 7670
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module sind aus dem Modulangebot der ZE Fremdsprachen (Grundstufe 1 bis Oberstufe 2) frei wählbar. In 
+Abhängigkeit der vorhandenen Vorkenntnisse dienen sie der Erlangung von allgemein- und/oder fachsprachlichen 
+Kenntnissen in allen Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben).
+Modul 7670 2. Fremdsprache: Schwedisch
+Modulhandbuch der HTW Berlin 90/112
+
+----- CHUNK 96 -----
+MODUL ID
+2. Fremdsprache: Arabisch 7680
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module sind aus dem Modulangebot der ZE Fremdsprachen (Grundstufe 1 bis Oberstufe 2) frei wählbar. In 
+Abhängigkeit der vorhandenen Vorkenntnisse dienen sie der Erlangung von allgemein- und/oder fachsprachlichen 
+Kenntnissen in allen Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben).
+Modul 7680 2. Fremdsprache: Arabisch
+Modulhandbuch der HTW Berlin 91/112
+
+----- CHUNK 97 -----
+MODUL ID
+2. Fremdsprache: Deutsch als Fremdsprache 7690
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module sind aus dem Modulangebot der ZE Fremdsprachen (Grundstufe 1 bis Oberstufe 2) frei wählbar. In 
+Abhängigkeit der vorhandenen Vorkenntnisse dienen sie der Erlangung von allgemein- und/oder fachsprachlichen 
+Kenntnissen in allen Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben).
+Modul 7690 2. Fremdsprache: Deutsch als Fremdsprache
+Modulhandbuch der HTW Berlin 92/112
+Modul 7600 Variante 2: Fremdsprache mit Fachsprachenniveau und eine 2. Fremdsprache
+Modulhandbuch der HTW Berlin 93/112
+ ID
+Variante 3: eine Fremdsprache mit zusätzlicher 
+Vertiefung
+7900
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 4 Modul(s) zugeordnete: 7910 Vertiefte Fremdsprache: Englisch, 7920 Vertiefte Fremdsprache: Französisch, 
+7930 Vertiefte Fremdsprache: Spanisch, 7940 Vertiefte Fremdsprache: Russisch
+ ID
+Vertiefte Fremdsprache: Englisch 7910
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 3 Modul(s) zugeordnete: 7511 Englisch: Mittelstufe 2/Technik, 7512 Englisch: Mittelstufe 3/Technik, 7913 
+Englisch: ab Oberstufe 1/Technik/Wirtschaft/Allgemeinsprache/Gestaltung
+Modul 7910 Vertiefte Fremdsprache: Englisch
+Modulhandbuch der HTW Berlin 94/112
+
+----- CHUNK 98 -----
+MODUL ID
+Englisch: Mittelstufe 2/Technik 7511
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur und mündliche Prüfung HINWEISE Empfohlene Voraussetzungen: Englisch: 
+Abitur- /Fachabiturniveau (GER B1.2)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Einführung in die Fachsprache der Wirtschaft/ Fachsprache der Technik/ Fachsprache der 
+Gestaltung. Alle Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener 
+allgemeinsprachlicher Kenntnisse mit folgender Zielstellung weiterentwickelt:
+Mittelstufe 2/Wirtschaft/Technik/Gestaltung:
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Modul 7511 Englisch: Mittelstufe 2/Technik
+Modulhandbuch der HTW Berlin 95/112
+
+----- CHUNK 99 -----
+MODUL ID
+Englisch: Mittelstufe 3/Technik 7512
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur und mündliche Prüfung/
+Präsentation
+HINWEISE Empfohlene Voraussetzungen:English 
+for Computer Science and Business 
+Administration M2Ts
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Erlangung hoher allgemeinsprachlicher/ fachsprachlicher Kompetenz auf dem Gebiet der 
+Wirtschaft/ Technik/Gestaltung. Alle Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden aufbauend auf den 
+Sprachmodulen der Mittelstufe 2 mit folgender Zielstellung weiterentwickelt:
+Mittelstufe 3/ Allgemeinsprache/Wirtschaft/ Technik/Gestaltung:
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema unter Benennung der Vor- und Nachteile 
+unterschiedlicher Ansätze
+Modul 7512 Englisch: Mittelstufe 3/Technik
+Modulhandbuch der HTW Berlin 96/112
+
+----- CHUNK 100 -----
+MODUL ID
+Englisch: ab Oberstufe 1/Technik/Wirtschaft/
+Allgemeinsprache/Gestaltung
+7913
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE Notwendige Voraussetzungen: 
+Erfolgreicher Abschluss der Module der 
+Mittelstufe 2 und 3
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Oberstufe 1 oder 2 (GER C1)
+Die Module/Das Modul sind/ist aus dem Modulangebot der ZE Fremdsprachen frei wählbar und dienen/dient unter 
+Berücksichtigung aller Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) der Vervollkommnung bereits erworbener 
+allgemein- und fachsprachlicher Kenntnisse mit folgender Zielsetzung:
+- Verständnis verschiedenartiger umfangreicher Texte und Identifikation impliziter Bedeutung
+- flüssige und spontane Ausdrucksweise ohne größeres Suchen nach adäquaten Wendungen
+- flexibler und effektiver Sprachgebrauch im sozialen, akademischen und beruflichen Kontext
+- klare, gut strukturierte und detaillierte Textproduktion zu anspruchsvollen Themen unter Verwendung usueller 
+Informationsstrukturen
+Modul 7913 Englisch: ab Oberstufe 1/Technik/Wirtschaft/Allgemeinsprache/Gestaltung
+Modulhandbuch der HTW Berlin 97/112
+ ID
+Vertiefte Fremdsprache: Französisch 7920
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 3 Modul(s) zugeordnete: 7521 Französisch: Mittelstufe 1/Wirtschaft, 7522 Französisch: Mittelstufe 2/
+Wirtschaft, 7923 Französisch: ab Mittelstufe 3/Wirtschaft/Allgemeinsprache/Gestaltung
+Modul 7920 Vertiefte Fremdspra
+
+----- CHUNK 101 -----
+che: Französisch
+Modulhandbuch der HTW Berlin 98/112
+
+----- CHUNK 102 -----
+MODUL ID
+Französisch: Mittelstufe 1/Wirtschaft 7521
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE Empfohlene Voraussetzungen: 
+Modul Französisch Grundstufe 3As, 
+Französisch Reaktivierungskurs/
+Intensivkurs oder ca. 3-4 Jahre 
+Schulfranzösisch (GER B1.1)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Einführung in die Allgemeinsprache oder Fachsprache der Wirtschaft. Alle Sprachfertigkeiten 
+(Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener allgemeinsprachlicher Kenntnisse mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 1/Allgemeinsprache/Wirtschaft:
+- Verständnis des wesentlichen Inhalts klar standardisierter Informationen zu vertrauten Themen aus den Bereichen 
+Arbeit, Schule, Freizeit usw.
+- Kommunikationsfähigkeit in anzunehmenden Gesprächssituationen in Ländern, in denen die Sprache gesprochen wird
+- einfache Textproduktion zu vertrauten Fachthemen oder Themen von persönlichem Interesse
+- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen und Zielen
+- kurze Erklärung und Begründung von Meinungen und Plänen
+Modul 7521 Französisch: Mittelstufe 1/Wirtschaft
+Modulhandbuch der HTW Berlin 99/112
+
+----- CHUNK 103 -----
+MODUL ID
+Französisch: Mittelstufe 2/Wirtschaft 7522
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE Empfohlene Voraussetzungen: Modul 
+Französisch Mittelstufe 1 Wirtschaft 
+oder ca. 5 Jahre Unterricht, Abitur-/
+Fachabiturniveau (GER B 1.2)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Erlangung hoher allgemein-/fachsprachlicher Kompetenz auf dem Gebiet der Wirtschaft. Alle 
+Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden aufbauend auf den Sprachmodulen der Mittelstufe 1 mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 2/Allgemeinsprache oder Wirtschaft:
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Modul 7522 Französisch: Mittelstufe 2/Wirtschaft
+Modulhandbuch der HTW Berlin 100/112
+
+----- CHUNK 104 -----
+MODUL ID
+Französisch: ab Mittelstufe 3/Wirtschaft/
+Allgemeinsprache/Gestaltung
+7923
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur und mündliche Prüfung/
+Präsentation
+HINWEISE Empfohlene Voraussetzungen: Modul 
+Französisch Mittelstufe 2/Gestaltung 
+oder Wirtschaft, gute Abitur- oder 
+Fachabiturkenntnisse bzw. ca. 6-7 Jahre 
+Unterricht (GER B2.1)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Das Modul dient unter Berücksichtigung aller Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) der weiteren 
+Vertiefung der auf Mittelstufe 2 erlangten Sprachkompetenz mit folgender Zielstellung:
+Mittelstufe 3/Allgemeinsprache oder Wirtschaft:
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema unter Benennung der Vor- und Nachteile 
+unterschiedlicher Ansätze
+Modul 7923 Französisch: ab Mittelstufe 3/Wirtschaft/Allgemeinsprache/Gestaltung
+Modulhandbuch der HTW Berlin 101/112
+ ID
+Vertiefte Fremdsprache: Spanisch 7930
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 3 Modul(s) zugeordnete: 7531 Spanisch: Mittelstufe 1/Wirtschaft, 7532 Spanisch: Mittelstufe 2/Wirtschaft, 
+7933 Spanisch: Mittelstufe 3/Wirtschaft/Allgemeinsprache
+Modu
+
+----- CHUNK 105 -----
+l 7930 Vertiefte Fremdsprache: Spanisch
+Modulhandbuch der HTW Berlin 102/112
+
+----- CHUNK 106 -----
+MODUL ID
+Spanisch: Mittelstufe 1/Wirtschaft 7531
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur HINWEISE Empfohlene Voraussetzungen:
+Modul Spanisch Grundstufe 3As oder ca. 
+3-4 Jahre Unterricht
+(GER B1.1)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Einführung in die Allgemeinsprache oder Fachsprache der Wirtschaft. Alle Sprachfertigkeiten 
+(Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener allgemeinsprachlicher Kenntnisse mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 1/Allgemeinsprache/Wirtschaft:
+- Verständnis des wesentlichen Inhalts klar standardisierter Informationen zu vertrauten Themen aus den Bereichen 
+Arbeit, Schule, Freizeit usw.
+- Kommunikationsfähigkeit in anzunehmenden Gesprächssituationen in Ländern, in denen die Sprache gesprochen wird
+- einfache Textproduktion zu vertrauten Fachthemen oder Themen von persönlichem Interesse
+- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen und Zielen
+- kurze Erklärung und Begründung von Meinungen und Plänen
+Modul 7531 Spanisch: Mittelstufe 1/Wirtschaft
+Modulhandbuch der HTW Berlin 103/112
+
+----- CHUNK 107 -----
+MODUL ID
+Spanisch: Mittelstufe 2/Wirtschaft 7532
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur und mündliche Prüfung/
+Präsentation
+HINWEISE Empfohlene Voraussetzungen: Modul 
+Spanisch Mittelstufe 1 Wirtschaft oder 
+ca. 5 Jahre Unterricht (GER B1.2)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Erlangung hoher allgemein-/fachsprachlicher Kompetenz auf dem Gebiet der Wirtschaft. Alle 
+Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden aufbauend auf den Sprachmodulen der Mittelstufe 1 mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 2/Allgemeinsprache oder Wirtschaft:
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Modul 7532 Spanisch: Mittelstufe 2/Wirtschaft
+Modulhandbuch der HTW Berlin 104/112
+
+----- CHUNK 108 -----
+MODUL ID
+Spanisch: Mittelstufe 3/Wirtschaft/Allgemeinsprache 7933
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur und mündliche Prüfung/
+Präsentation
+HINWEISE Empfohlene Voraussetzungen:Modul 
+Spanisch Mittelstufe 2 Wirtschaft, gute 
+Abiturkenntnisse bzw. ca. 6-7 Jahre 
+Unterricht (GER B2.1)
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Das Modul dient unter Berücksichtigung aller Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) der weiteren 
+Vertiefung der auf Mittelstufe 2 erlangten Sprachkompetenz mit folgender Zielstellung:
+Mittelstufe 3/Allgemeinsprache oder Wirtschaft:
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema unter Benennung der Vor- und Nachteile 
+unterschiedlicher Ansätze
+Modul 7933 Spanisch: Mittelstufe 3/Wirtschaft/Allgemeinsprache
+Modulhandbuch der HTW Berlin 105/112
+ ID
+Vertiefte Fremdsprache: Russisch 7940
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+ 3 Modul(s) zugeordnete: 7541 Russisch: Mittelstufe 1/Wirtschaft, 7542 Russisch: Mittelstufe 2/Wirtschaft, 
+7943 Russisch: ab Mittelstufe 3/Wirtschaft/Allgemeinsprache
+Modul 7940 Vertiefte Fremdsprache: Russisch
+Modulhandbuch der HTW Berlin 1
+
+----- CHUNK 109 -----
+06/112
+
+----- CHUNK 110 -----
+MODUL ID
+Russisch: Mittelstufe 1/Wirtschaft 7541
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1a - voraussetzungsfreies Modul (BA) ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur + mündlicher Prüfungsteil HINWEISE Empfohlene Voraussetzungen: Modul 
+Russisch Grundstufe 3 (GER B1.1) oder 
+3-4 Schuljahre
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Einführung in die Allgemeinsprache oder Fachsprache der Wirtschaft. Alle Sprachfertigkeiten 
+(Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener allgemeinsprachlicher Kenntnisse mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 1/Allgemeinsprache/Wirtschaft:
+- Verständnis des wesentlichen Inhalts klar standardisierter Informationen zu vertrauten Themen aus den Bereichen 
+Arbeit, Schule, Freizeit usw.
+- Kommunikationsfähigkeit in anzunehmenden Gesprächssituationen in Ländern, in denen die Sprache gesprochen wird
+- einfache Textproduktion zu vertrauten Fachthemen oder Themen von persönlichem Interesse
+- Beschreibung von Erfahrungen und Ereignissen, Träumen, Hoffnungen und Zielen
+- kurze Erklärung und Begründung von Meinungen und Plänen
+Modul 7541 Russisch: Mittelstufe 1/Wirtschaft
+Modulhandbuch der HTW Berlin 107/112
+
+----- CHUNK 111 -----
+MODUL ID
+Russisch: Mittelstufe 2/Wirtschaft 7542
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur + mündlicher Prüfungsteil HINWEISE Empfohlene Voraussetzungen: Modul 
+Russisch Mittelstufe 1/Wirtschaft (GER 
+B1.2) oder Abitur-/ Fachabiturniveau
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Die Module dienen der Erlangung hoher allgemein-/fachsprachlicher Kompetenz auf dem Gebiet der Wirtschaft. Alle 
+Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden aufbauend auf den Sprachmodulen der Mittelstufe 1 mit 
+folgender Zielstellung weiterentwickelt:
+Mittelstufe 2/Allgemeinsprache oder Wirtschaft:
+- Verständnis der wesentlichen Gedanken sowohl von Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation von fachsprachlich relevanten Themen
+- angemessen flüssige Gesprächsführung
+- Textproduktion zu einer Reihe fachlicher Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema
+Modul 7542 Russisch: Mittelstufe 2/Wirtschaft
+Modulhandbuch der HTW Berlin 108/112
+
+----- CHUNK 112 -----
+MODUL ID
+Russisch: ab Mittelstufe 3/Wirtschaft/Allgemeinsprache 7943
+ 1 Studiengang zugeordnete: 620 Informatik und Wirtschaft
+Zusammenfassung
+ECTS-PKT. 4 PRÄSENZZEIT 4 SWS
+DAUER IN SEMESTER 1 SEMESTERZUORDNUNG0 
+STATUS DES MODULS Wahlpflichtmodul PRÜFUNGSBEWERTUNGDifferenzierte Leistungsbewertung
+NIVEAUSTUFE 1b - voraussetzungsbehaftetes Modul 
+(BA) 
+ANGEBOTSTURNUS 
+NOTWENDIGE 
+VORAUSSETZUNGEN
+EMPFOHLENE 
+VORAUSSETZUNGEN
+PRÜFUNGSFORM / ART 
+DER PRÜFUNG
+Klausur + mündlicher Prüfungsteil HINWEISE Empfohlene Voraussetzungen:Bachelor: 
+Modul Russisch Mittelstufe 2/Wirtschaft 
+(GER B2.1)
+Master: Kenntnisse lt. GER B2.1.
+ANERKANNTE MODULE VERWENDBARKEIT
+Lernergebnisse
+Das Modul dient unter Berücksichtigung aller Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) der weiteren 
+Vertiefung der auf Mittelstufe 2 erlangten Sprachkompetenz mit folgender Zielstellung:
+Mittelstufe 3/Allgemeinsprache oder Wirtschaft:
+- hohes Textverständnis sowohl bei Texten mit konkretem als auch abstraktem Inhalt
+- Präsentation und Diskussion von fachsprachlich relevanten Themen
+- flüssige Gesprächsführung, auch zu spontan gewählten Themen
+- detaillierte und klar strukturierte Textproduktion zu fachlichen Themen
+- Darlegung des eigenen Standpunkts zu einem fachlichen Hauptthema unter Benennung der Vor- und Nachteile 
+unterschiedlicher Ansätze
+Modul 7943 Russisch: ab Mittelstufe 3/Wirtschaft/Allgemeinsprache
+Modulhandbuch der HTW Berlin 109/112
+Modul 7900 Variante 3: eine Fremdsprache mit zusätzlicher Vertiefung
+Modulhandbuch der HTW Berlin 110/112
+Modul 7005 AWE Variantenauswahl - ACHTUNG - bewusst auswählen
+Modulhandbuch der HTW Berlin 111/112
+Studiengang
+Modulhandbuch der HTW Berlin 112/112
+
