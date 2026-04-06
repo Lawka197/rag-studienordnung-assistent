@@ -3,6 +3,8 @@ from pathlib import Path
 from typing import List
 
 MAX_CHUNK_LENGTH = 1800
+MAX_TABLE_CHUNK_LENGTH = 3200
+TABLE_BLOCK_LINE_LIMIT = 12
 
 FOOTER_PATTERNS = [
     r"Seite\s+\d+\s+Amtliches Mitteilungsblatt der HTW Berlin Nr\.\s*\d+/\d+",
@@ -106,7 +108,7 @@ def split_studienordnung(text: str) -> List[str]:
     Zerlegt Studienordnungen zunächst nach echten Paragraphenüberschriften.
     Lange Paragraphen werden danach an Unterpunkten wie (1), (2), (3) aufgeteilt.
     """
-    paragraph_pattern = r"(?m)(?=^\s*§\s*\d+[a-zA-Z]?\b)"
+    paragraph_pattern = r"(?m)(?=^\s*§\s*\d+[a-zA-Z](?:\s*[a-z])?\b)"
     paragraph_chunks = [part.strip() for part in re.split(paragraph_pattern, text) if part.strip()]
 
     final_chunks: List[str] = []
@@ -124,7 +126,7 @@ def split_paragraph_by_subpoints(paragraph_text: str) -> List[str]:
     Teilt einen Paragraphen an Unterpunkten wie (1), (2), (3) ...
     Der Paragraphenkopf bleibt beim ersten Unterpunkt erhalten.
     """
-    match = re.search(r"(?m)^\s*§\s*\d+[a-zA-Z]?\b.*?(?=\n\(1\)|\Z)", paragraph_text, flags=re.DOTALL)
+    match = re.search(r"(?m)^\s*§\s*\d+[a-zA-Z]?(?:\s*[a-z])?\b.*?(?=^\s*\(1\)|\Z)", paragraph_text)
     if match:
         paragraph_header = match.group(0).strip()
         body = paragraph_text[match.end():].strip()
@@ -132,10 +134,10 @@ def split_paragraph_by_subpoints(paragraph_text: str) -> List[str]:
         paragraph_header = ""
         body = paragraph_text.strip()
 
-    if not re.search(r"(?m)^\(\d+\)", body):
+    if not re.search(r"(?m)^\s*\(\d+\)", body):
         return split_large_chunk(paragraph_text)
 
-    subpoint_parts = [part.strip() for part in re.split(r"(?m)(?=^\(\d+\))", body) if part.strip()]
+    subpoint_parts = [part.strip() for part in re.split(r"(?m)(?=^\s*\(\d+\))", body) if part.strip()]
     if not subpoint_parts:
         return split_large_chunk(paragraph_text)
 
@@ -228,7 +230,7 @@ def split_large_chunk(chunk: str, max_length: int = MAX_CHUNK_LENGTH) -> List[st
         return [chunk.strip()]
 
     if contains_table_like_structure(chunk):
-        return [chunk.strip()]
+        return split_table_like_block(chunk)
 
     paragraphs = [part.strip() for part in chunk.split("\n\n") if part.strip()]
     if len(paragraphs) <= 1:
@@ -256,16 +258,90 @@ def split_large_chunk(chunk: str, max_length: int = MAX_CHUNK_LENGTH) -> List[st
     for part in result:
         if len(part) > max_length:
             if contains_table_like_structure(part):
-                final_chunks.append(part)
+                final_chunks.extend(split_table_like_block(part))
             else:
                 final_chunks.extend(split_by_length(part, max_length))
         else:
             final_chunks.append(part)
     return final_chunks
 
+def split_table_like_block(text: str) -> List[str]:
+    """Teilt tabellenartige Blöcke in größere, aber begrenzte Teilblöcke.
+    Zeilen sollen möglichst zusammenbleiben, ohne dass ein Monster-Chunk entsteht.
+    """
+    lines = [line.rstrip() for line in text.split("\n")]
+    if not lines:
+        return []
+
+    chunks: List[str] = []
+    current_lines: List[str] = []
+    current_length = 0
+    table_line_count = 0
+
+    for line in lines:
+        line_length = len(line) + 1
+        stripped = line.strip()
+        is_table_line = is_table_like_line(line)
+
+        would_exceed_length = current_length + line_length > MAX_TABLE_CHUNK_LENGTH
+        would_exceed_table_lines = is_table_line and table_line_count >= TABLE_BLOCK_LINE_LIMIT
+
+        if current_lines and (would_exceed_length or would_exceed_table_lines):
+            chunk_text = "\n".join(current_lines).strip()
+            if chunk_text:
+                chunks.append(chunk_text)
+            current_lines = []
+            current_length = 0
+            table_line_count = 0
+
+        current_lines.append(line)
+        current_length += line_length
+
+        if is_table_line:
+            table_line_count += 1
+        elif stripped == "":
+            table_line_count = 0
+
+    if current_lines:
+        chunk_text = "\n".join(current_lines).strip()
+        if chunk_text:
+            chunks.append(chunk_text)
+
+    return chunks
+
+
+def split_table_rows_fallback(text: str) -> List[str]:
+    """Fallback für sehr lange tabellenartige Bereiche ohne klare Absatzgrenzen."""
+    lines = [line.rstrip() for line in text.split("\n") if line.strip()]
+    if not lines:
+        return []
+
+    chunks: List[str] = []
+    current_lines: List[str] = []
+    current_length = 0
+
+    for line in lines:
+        line_length = len(line) + 1
+        if current_lines and current_length + line_length > MAX_TABLE_CHUNK_LENGTH:
+            chunks.append("\n".join(current_lines).strip())
+            current_lines = []
+            current_length = 0
+
+        current_lines.append(line)
+        current_length += line_length
+
+    if current_lines:
+        chunks.append("\n".join(current_lines).strip())
+
+    return chunks
+
+
+
 
 def split_by_length(text: str, max_length: int) -> List[str]:
     """Fallback-Splitting, wenn keine besseren Grenzen vorhanden sind."""
+    if contains_table_like_structure(text):
+        return split_table_rows_fallback(text)
     chunks: List[str] = []
     start = 0
 
@@ -273,10 +349,6 @@ def split_by_length(text: str, max_length: int) -> List[str]:
         end = min(start + max_length, len(text))
 
         if end < len(text):
-            if contains_table_like_structure(text[start:end]):
-                next_double_break = text.find("\n\n", end)
-                if next_double_break != -1:
-                    end = next_double_break
             last_break = text.rfind("\n", start, end)
             last_space = text.rfind(" ", start, end)
             split_pos = max(last_break, last_space)

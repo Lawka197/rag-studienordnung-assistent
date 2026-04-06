@@ -25,3 +25,9 @@ Qualität der Extraktion grob geprüft, Artefakte als akzeptabel eingestuft,da I
 
 ## Lösung:
 - strukturorientiertes Chunking + leichtes Text-Cleaning vor dem Chunking
+
+## Problem:
+- einfache Tabellen-Erkennung beim Chunken nicht erfolgreich am Ende entsteht ein super langer Chunk.
+
+## Lösung:
+- begrenzte TAbellenblock-Größe 
