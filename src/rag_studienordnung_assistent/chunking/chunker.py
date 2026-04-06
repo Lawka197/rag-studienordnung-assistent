@@ -1,7 +1,23 @@
+"""
+Hauptmodul für Text-Chunking und Preprocessing.
+
+Dieses Modul bietet Funktionen zum Bereinigen von PDF-Text und intelligenten
+Aufteilen in semantisch sinnvolle Chunks, basierend auf Dokumententyp und Struktur.
+"""
+
 import re
 from pathlib import Path
 from typing import List
+import logging
 
+from rag_studienordnung_assistent.chunking.strategies import (
+    SemesterStrategy,
+    AppendixStrategy,
+)
+
+logger = logging.getLogger(__name__)
+
+# Konfigurationskonstanten
 MAX_CHUNK_LENGTH = 1800
 MAX_TABLE_CHUNK_LENGTH = 3200
 TABLE_BLOCK_LINE_LIMIT = 12
@@ -22,11 +38,13 @@ def normalize_newlines(text: str) -> str:
     text = text.replace("\u2009", " ")
     return text
 
+
 def remove_footers(text: str) -> str:
     """Entfernt typische Fußzeilen aus den PDFs."""
     for pattern in FOOTER_PATTERNS:
         text = re.sub(pattern, "", text)
     return text
+
 
 def fix_hyphenation(text: str) -> str:
     """Setzt durch PDF-Zeilenumbruch getrennte Wörter wieder zusammen."""
@@ -34,7 +52,9 @@ def fix_hyphenation(text: str) -> str:
     text = re.sub(r"(?<=[A-Za-zÄÖÜäöüß])\s*\-\s*\n\s*(?=[A-Za-zÄÖÜäöüß])", "", text)
     return text
 
+
 def normalize_whitespace(text: str) -> str:
+    """Normalisiert Whitespace: mehrere Spaces/Tabs → 1 Space, 3+ Newlines → 2."""
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
@@ -48,29 +68,50 @@ def preprocess_text(text: str) -> str:
     text = normalize_whitespace(text)
     return text
 
+
 def is_table_like_line(line: str) -> bool:
-    """Heuristik für tabellenartige Zeilen aus Studienverlaufs- oder Äquivalenzübersichten."""
+    """
+    Heuristik für tabellenartige Zeilen aus Studienverlaufs- oder Äquivalenzübersichten.
+
+    Erkannt Patterns wie:
+    - Modulcodes (B11, WP14)
+    - Nummern mit Text (13 Grundlegende Konzepte)
+    - Text mit mehreren numerischen Spalten
+    """
     stripped = line.strip()
     if not stripped:
         return False
 
     patterns = [
         r"^[A-Z]{1,3}\d{2,}[a-zA-Z]?\b",  # z. B. B11, WP14
-        r"^\d{1,2}\s+[A-ZÄÖÜa-zäöüß]",    # z. B. 13 Grundlegende Konzepte ...
-        r"^[A-ZÄÖÜa-zäöüß].*\b\d+\b.*\b\d+\b",  # mehrere numerische Spalten in einer Zeile
+        r"^\d{1,2}\s+[A-ZÄÖÜa-zäöüß]",    # z. B. 13 Grundlegende Konzepte
+        r"^[A-ZÄÖÜa-zäöüß].*\b\d+\b.*\b\d+\b",  # mehrere numerische Spalten
     ]
 
     return any(re.search(pattern, stripped) for pattern in patterns)
 
 
 def contains_table_like_structure(text: str) -> bool:
-    """Erkennt grob tabellenartige Blöcke, damit diese nicht mitten im Inhalt zerschnitten werden."""
+    """
+    Erkennt grob tabellenartige Blöcke.
+
+    Braucht mindestens 3 Zeilen die wie Tabellenzeilen aussehen.
+    """
     lines = [line for line in text.split("\n") if line.strip()]
     if len(lines) < 3:
         return False
 
     table_like_lines = sum(1 for line in lines if is_table_like_line(line))
     return table_like_lines >= 3
+
+
+def contains_semester_markers(text: str) -> bool:
+    """Erkennt, ob ein Block typische Semesterüberschriften enthält (mindestens 2)."""
+    matches = re.findall(
+        r"(?mi)^\s*(?:[1-9]|1[0-2])\.\s*(?:Fachsemester|Semester)(?:\s*\([^\n]*\))?\b",
+        text
+    )
+    return len(matches) >= 2
 
 
 def remove_front_matter(text: str, document_type: str) -> str:
@@ -142,8 +183,8 @@ def split_paragraph_by_subpoints(paragraph_text: str) -> List[str]:
         return split_large_chunk(paragraph_text)
 
     result: List[str] = []
-    for index, subpoint in enumerate(subpoint_parts):
-        if index == 0 and paragraph_header:
+    for subpoint in subpoint_parts:
+        if paragraph_header:
             combined = f"{paragraph_header}\n{subpoint}".strip()
         else:
             combined = subpoint
@@ -224,18 +265,60 @@ def split_module_by_sections(module_text: str) -> List[str]:
     return final_chunks
 
 
+# ============================================================================
+# INTELLIGENT SPLITTING WITH STRATEGY PATTERN
+# ============================================================================
+
 def split_large_chunk(chunk: str, max_length: int = MAX_CHUNK_LENGTH) -> List[str]:
-    """ Teilt sehr große Chunks an Absatzgrenzen, notfalls nach Länge."""
+    """
+    Teilt sehr große Chunks intelligent auf.
+
+    Nutzt Strategien in dieser Reihenfolge:
+    1. Semester-basiert (falls 2+ Semester erkannt)
+    2. Anhang-basiert (falls Anhang-Marker erkannt)
+    3. Tabellen-basiert (falls Tabellenzeilen erkannt)
+    4. Absatz-basiert + Längen-basiert (Fallback)
+
+    REFACTORING NOTE: Diese Funktion wird jetzt mit Strategy Pattern implementiert.
+    Die vorherige wiederholte Fallback-Logik wurde eliminiert.
+    """
     if len(chunk) <= max_length:
         return [chunk.strip()]
 
+    # Versuche spezialisierte Strategien
+    if contains_semester_markers(chunk):
+        semester_strategy = SemesterStrategy()
+        result = semester_strategy.split(chunk)
+        if result:
+            logger.debug(f"SemesterStrategy: {len(result)} chunks")
+            return result
+
+    appendix_strategy = AppendixStrategy()
+    if appendix_strategy.can_apply(chunk):
+        result = appendix_strategy.split(chunk)
+        if result:
+            logger.debug(f"AppendixStrategy: {len(result)} chunks")
+            return result
+
     if contains_table_like_structure(chunk):
+        logger.debug("TableStrategy applied")
         return split_table_like_block(chunk)
 
+    # Fallback: Nach Absätzen + Länge teilen
+    return _split_by_paragraphs_and_length(chunk, max_length)
+
+
+def _split_by_paragraphs_and_length(chunk: str, max_length: int) -> List[str]:
+    """
+    Fallback-Strategie: Teilt nach Absätzen und dann nach Länge.
+    """
     paragraphs = [part.strip() for part in chunk.split("\n\n") if part.strip()]
+
     if len(paragraphs) <= 1:
+        # Keine Absatzgrenzen - Split nach reiner Länge
         return split_by_length(chunk, max_length)
 
+    # Merge Absätze bis zur maximalen Länge
     result: List[str] = []
     current = ""
 
@@ -254,21 +337,36 @@ def split_large_chunk(chunk: str, max_length: int = MAX_CHUNK_LENGTH) -> List[st
     if current.strip():
         result.append(current.strip())
 
+    # Rekursiv weitere zu lange Teile behandeln
     final_chunks: List[str] = []
     for part in result:
         if len(part) > max_length:
-            if contains_table_like_structure(part):
-                final_chunks.extend(split_table_like_block(part))
-            else:
-                final_chunks.extend(split_by_length(part, max_length))
+            final_chunks.extend(split_large_chunk(part, max_length))
         else:
             final_chunks.append(part)
+
     return final_chunks
 
+
 def split_table_like_block(text: str) -> List[str]:
-    """Teilt tabellenartige Blöcke in größere, aber begrenzte Teilblöcke.
+    """
+    Teilt tabellenartige Blöcke in größere, aber begrenzte Teilblöcke.
     Zeilen sollen möglichst zusammenbleiben, ohne dass ein Monster-Chunk entsteht.
     """
+    # Versuche erst spezialisierte Strategien
+    if contains_semester_markers(text):
+        semester_strategy = SemesterStrategy()
+        result = semester_strategy.split(text)
+        if result:
+            return result
+
+    appendix_strategy = AppendixStrategy()
+    if appendix_strategy.can_apply(text):
+        result = appendix_strategy.split(text)
+        if result:
+            return result
+
+    # Dann: Tabellen-basiert aufteilen
     lines = [line.rstrip() for line in text.split("\n")]
     if not lines:
         return []
@@ -336,12 +434,28 @@ def split_table_rows_fallback(text: str) -> List[str]:
     return chunks
 
 
-
-
 def split_by_length(text: str, max_length: int) -> List[str]:
-    """Fallback-Splitting, wenn keine besseren Grenzen vorhanden sind."""
+    """
+    Fallback-Splitting, wenn keine besseren Grenzen vorhanden sind.
+
+    Versucht zuerst Semester/Anhang/Tabellen-Strategien, dann Split nach reiner Länge.
+    """
+    if contains_semester_markers(text):
+        semester_strategy = SemesterStrategy()
+        result = semester_strategy.split(text)
+        if result:
+            return result
+
+    appendix_strategy = AppendixStrategy()
+    if appendix_strategy.can_apply(text):
+        result = appendix_strategy.split(text)
+        if result:
+            return result
+
     if contains_table_like_structure(text):
         return split_table_rows_fallback(text)
+
+    # Reine Längen-basierte Aufteilung
     chunks: List[str] = []
     start = 0
 
@@ -365,7 +479,19 @@ def split_by_length(text: str, max_length: int) -> List[str]:
 
 
 def chunk_document(text: str, document_type: str) -> List[str]:
-    """Bereitet Text vor und chunked dokumenttyp-spezifisch."""
+    """
+    Hauptfunktion: Bereitet Text vor und chunked dokumenttyp-spezifisch.
+
+    Args:
+        text: Der zu chunkende Text
+        document_type: "studienordnung" oder "modulhandbuch"
+
+    Returns:
+        Liste von Chunks
+
+    Raises:
+        ValueError: Wenn document_type unbekannt
+    """
     cleaned_text = preprocess_text(text)
     cleaned_text = remove_front_matter(cleaned_text, document_type)
 
@@ -380,6 +506,7 @@ def chunk_document(text: str, document_type: str) -> List[str]:
 
 
 def save_chunks_to_file(chunks: List[str], output_path: Path) -> None:
+    """Speichert Chunks in eine Datei mit Markierungen."""
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     with output_path.open("w", encoding="utf-8") as f:
@@ -387,3 +514,4 @@ def save_chunks_to_file(chunks: List[str], output_path: Path) -> None:
             f.write(f"----- CHUNK {i} -----\n")
             f.write(chunk)
             f.write("\n\n")
+

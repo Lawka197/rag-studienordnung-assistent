@@ -31,3 +31,4 @@ Qualität der Extraktion grob geprüft, Artefakte als akzeptabel eingestuft,da I
 
 ## Lösung:
 - begrenzte TAbellenblock-Größe 
+
