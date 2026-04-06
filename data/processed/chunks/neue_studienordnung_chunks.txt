@@ -1,78 +1,59 @@
 ----- CHUNK 1 -----
-§ 17 Abs. 1 Nr. 1 der Neufassung der Satzung der Hochschule für Technik und 
-Wirtschaft Berlin (HTW Berlin) zu Abweichungen von Bestimmungen des Berliner Hochschulgesetzes 
-(AMBl. HTW Berlin Nr. 29/09), zuletzt geändert am 14. Oktober 2019 (AMBl. HTW Berlin Nr. 26/19), in 
-Verbindung mit
-
------ CHUNK 2 -----
-§ 31 des Gesetzes über die Hochschulen im Land Berlin (Berliner Hochschulgesetz - 
-BerlHG) in der Fassung der Bekanntmachung vom 26. Juli 2011 (GVBl. S. 378), zuletzt geändert durch 
-Gesetz vom 11. Juli 2023 (GVBl. S. 260), hat der Fachbereichsrat des Fachbereiches Informatik, 
-Kommunikation und Wirtschaft der HTW Berlin am 10. Januar 2024 die folgende Studien- und 
-Prüfungsordnung für den Bachelorstudiengang Informatik und Wirtschaft (für Frauen) beschlossen1: 
- 
-Gliederung der Ordnung
-
------ CHUNK 3 -----
 § 1 Geltungsbereich ......................................................................................................................................... 301
 
------ CHUNK 4 -----
+----- CHUNK 2 -----
 § 2 Geltung der Rahmenstudien- und Prüfungsordnung (RStPO - Ba/Ma) ......................................... 301
 
------ CHUNK 5 -----
+----- CHUNK 3 -----
 § 3 Vergabe von Studienplätzen ................................................................................................................... 301
 
------ CHUNK 6 -----
+----- CHUNK 4 -----
 § 4 Fachgebundene Hochschulzugangsberechtigung ............................................................................. 301
 
------ CHUNK 7 -----
+----- CHUNK 5 -----
 § 5 Ziele des Studiums .................................................................................................................................... 302
 
------ CHUNK 8 -----
+----- CHUNK 6 -----
 § 6 Lehrveranstaltungen in englischer Sprache ........................................................................................ 302
 
------ CHUNK 9 -----
+----- CHUNK 7 -----
 § 7 Regelstudienzeit, Studienplan, Module ................................................................................................ 303
 
------ CHUNK 10 -----
+----- CHUNK 8 -----
 § 8 Ablauf des Studiums, Lehrangebote...................................................................................................... 303
 
------ CHUNK 11 -----
+----- CHUNK 9 -----
 § 9 Ergänzendes allgemeinwissenschaftliches Lehrangebot ................................................................. 304
 
------ CHUNK 12 -----
+----- CHUNK 10 -----
 § 10 Modulprüfungen ........................................................................................................................................ 304
 
------ CHUNK 13 -----
+----- CHUNK 11 -----
 § 11 Fachpraktikum ............................................................................................................................................ 305
 
------ CHUNK 14 -----
+----- CHUNK 12 -----
 § 12 Bachelorarbeit ............................................................................................................................................ 306
 
------ CHUNK 15 -----
+----- CHUNK 13 -----
 § 13 Abschlusskolloquium ............................................................................................................................... 307 
  
-1 Bestätigt durch die Hochschulleitung der Hochschule für Technik und Wirtschaft Berlin am 7. Februar 2024. 
-Seite 300 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24
+1 Bestätigt durch die Hochschulleitung der Hochschule für Technik und Wirtschaft Berlin am 7. Februar 2024.
 
------ CHUNK 16 -----
+----- CHUNK 14 -----
 § 14 Modulgruppen und Modulnoten auf dem Bachelorzeugnis ............................................................. 307
 
------ CHUNK 17 -----
+----- CHUNK 15 -----
 § 15 Berechnung des Gesamtprädikates ....................................................................................................... 309
 
------ CHUNK 18 -----
+----- CHUNK 16 -----
 § 16 Abschlussdokumente ............................................................................................................................... 310
 
------ CHUNK 19 -----
+----- CHUNK 17 -----
 § 17 Übergangsregelungen .............................................................................................................................. 310
 
------ CHUNK 20 -----
+----- CHUNK 18 -----
 § 18 Inkrafttreten/Veröffentlichung .............................................................................................................. 310 
- Fachgebundene Hochschulzugangsberechtigung nach
-
------ CHUNK 21 -----
-§ 11 Abs. 2 BerlHG ...................... 311 
+ Fachgebundene Hochschulzugangsberechtigung nach § 11 Abs. 2 BerlHG ...................... 311 
  Studienplanübersicht ...................................................................................................................... 312 
  Studienplanübersicht (Teilzeitstudium) ...................................................................................... 316 
  Wahlpflichtmodule ........................................................................................................................... 321 
@@ -104,7 +85,7 @@ Seite 300 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24
  
 Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 301
 
------ CHUNK 22 -----
+----- CHUNK 19 -----
 § 1 Geltungsbereich 
 (1) Diese Studien- und Prüfungsordnung gilt für alle Studierenden, die nach Inkrafttreten dieser 
 Ordnung am Fachbereich Informatik, Kommunikation und Wirtschaft der HTW Berlin im 
@@ -113,10 +94,7 @@ Bachelorstudiengang Informatik und Wirtschaft in das 1. Fachsemester immatrikuli
 Hochschul- oder Studiengangwechsel aufgrund der Anrechnung von Studien- und 
 Prüfungsleistungen zeitlich so in den Studienverlauf eingeordnet werden, dass ihr Studienstand dem 
 Personenkreis gemäß Abs. 1 entspricht. 
-(3) Die im
-
------ CHUNK 23 -----
-§ 17 festgelegten Übergangsregelungen gelten nur für Studierende, die nach der 
+(3) Die im § 17 festgelegten Übergangsregelungen gelten nur für Studierende, die nach der 
 vorangegangenen Studienordnung des Bachelorstudiengangs Informatik und Wirtschaft vom 7. Mai 
 2014 (AMBl. HTW Berlin Nr. 17/14), zuletzt geändert am 8. April 2020 (AMBl. HTW Berlin Nr. 23/20), 
 immatrikuliert wurden. 
@@ -125,14 +103,13 @@ Bachelorstudiengänge der HTW Berlin und die Ordnung für die Durchführung des 
 den Bachelor- und Masterstudiengängen der HTW Berlin (Praxisordnung – PraxO) in der jeweils 
 gültigen Fassung.
 
------ CHUNK 24 -----
+----- CHUNK 20 -----
 § 2 Geltung der Rahmenstudien- und Prüfungsordnung (RStPO - Ba/Ma) 
 Die Grundsätze für Studien- und Prüfungsordnungen für Bachelor- und Masterstudiengänge der 
-Hochschule für Technik und Wirtschaft Berlin (Rahmenstudien- und -prüfungsordnung für Bachelor- 
-und Masterstudiengänge – RStPO – Ba/Ma) in ihrer jeweils gültigen Fassung sind Bestandteil dieser 
+Hochschule für Technik und Wirtschaft Berlin (Rahmenstudien- und -prüfungsordnung für Bachelorund Masterstudiengänge – RStPO – Ba/Ma) in ihrer jeweils gültigen Fassung sind Bestandteil dieser 
 Ordnung.
 
------ CHUNK 25 -----
+----- CHUNK 21 -----
 § 3 Vergabe von Studienplätzen 
 (1) Die Vergabe von Studienplätzen richtet sich nach dem Berliner Hochschulgesetz, dem Berliner 
 Hochschulzulassungsgesetz und der Berliner Hochschulzulassungsverordnung in ihrer jeweils 
@@ -140,22 +117,19 @@ gültigen Fassung in Verbindung mit der Auswahlordnung für Bachelorstudiengäng
 gültigen Fassung. 
 (2) Der Bachelorstudiengang Informatik und Wirtschaft ist ausschließlich Frauen vorbehalten.
 
------ CHUNK 26 -----
+----- CHUNK 22 -----
 § 4 Fachgebundene Hochschulzugangsberechtigung 
-(1) Für Bewerbungen auf der Grundlage von
-
------ CHUNK 27 -----
-§ 11 Abs. 2 BerlHG werden für den Bachelorstudiengang 
+(1) Für Bewerbungen auf der Grundlage von § 11 Abs. 2 BerlHG werden für den Bachelorstudiengang 
 Informatik und Wirtschaft insbesondere die in Anlage 1 aufgeführten abgeschlossenen 
 Berufsausbildungen als geeignet angesehen. 
-Seite 302 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
 (2) Über die inhaltliche Vergleichbarkeit von anderen als den in Anlage 1 aufgeführten 
 Berufsausbildungen entscheidet der Prüfungsausschuss des Studienganges.
 
------ CHUNK 28 -----
-§ 5 Ziele des Studiums 
+----- CHUNK 23 -----
+§ 5 Ziele des Studiums
 (1) Die Ausbildung im Bachelorstudiengang Informatik und Wirtschaft erfolgt praxisorientiert. Die 
 Studierenden erwerben ein grundlegendes Verständnis für die Realisierung von komplexen 
 Softwaresystemen in Umgebungen der Wirtschaft und des Öffentlichen Dienstes. Die Absolventinnen 
@@ -165,7 +139,9 @@ mitzugestalten. Wesentliches Element ist dabei die Fähigkeit, in IT-Projekten z
 auch zu leiten. Grundlegende Kenntnisse der Betriebswirtschaft befähigen die Absolventinnen 
 betriebswirtschaftliche Fragestellungen zu analysieren und in nachhaltige IT-Lösungen umzusetzen. 
 Die Studierenden erlangen zentrale Schlüsselqualifikationen für die Arbeit in international geprägten 
-interdisziplinären IT-Projekten. 
+interdisziplinären IT-Projekten.
+
+----- CHUNK 24 -----
 (2) Zur Erreichung dieser Ziele baut der Studiengang folgende Kompetenzen auf: 
  Analyse von Systemen und Spezifikation von Anforderungen an zu entwickelnde Lösungen 
  Verständnis von Arbeitsprozessen 
@@ -174,24 +150,24 @@ Modellierungstechniken
  Verständnis von Methoden und Technologien sowie Fähigkeiten zum Entwickeln von 
 Anwendungssystemen, Datenbanksystemen und Verteilten Systemen 
  Kommunikations- und Teamfähigkeit 
- Kundenorientiertes und agiles Projektmanagement 
+ Kundenorientiertes und agiles Projektmanagement
+
+----- CHUNK 25 -----
 (3) Der Bachelorstudiengang Informatik und Wirtschaft an der HTW Berlin konzentriert sich auf die 
 Berufsfelder Anwendungsentwicklung, Projektleitung und IT-Beratung. Es findet keine 
-Spezialisierung auf bestimmte Branchen oder Unternehmensgrößen statt. 
-(4) Mögliche Einsatzbereiche der Absolventinnen sind IT-Dienstleistungsunt
+Spezialisierung auf bestimmte Branchen oder Unternehmensgrößen statt.
 
------ CHUNK 29 -----
-ernehmen, Software-
-Häuser, Unternehmen mit IT, Unternehmensberatungen und öffentliche Einrichtungen.
+----- CHUNK 26 -----
+(4) Mögliche Einsatzbereiche der Absolventinnen sind IT-Dienstleistungsunternehmen, SoftwareHäuser, Unternehmen mit IT, Unternehmensberatungen und öffentliche Einrichtungen.
 
------ CHUNK 30 -----
+----- CHUNK 27 -----
 § 6 Lehrveranstaltungen in englischer Sprache 
 Lehrveranstaltungen oder Teile davon können in englischer Sprache durchgeführt werden. 
  
  
 Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 303
 
------ CHUNK 31 -----
+----- CHUNK 28 -----
 § 7 Regelstudienzeit, Studienplan, Module 
 (1) Das Bachelorstudium hat im Präsenzstudium eine Dauer von 6 Semestern (Regelstudienzeit). Das 
 Bachelorstudium umfasst 180 ECTS-Leistungspunkte. 
@@ -211,78 +187,90 @@ Bachelorarbeit und erfolgreichem Kolloquium ab. Die Bachelorarbeit wird semester
 absolviert und umfasst 12 ECTS-Leistungspunkte, das abschließende Kolloquium mit dem 
 bachelorbegleitenden Seminar umfasst 3 ECTS-Leistungspunkte.
 
------ CHUNK 32 -----
-§ 8 Ablauf des Studiums, Lehrangebote 
+----- CHUNK 29 -----
+§ 8 Ablauf des Studiums, Lehrangebote
 (1) Studienbeginn im Bachelorstudiengang Informatik und Wirtschaft ist jährlich jeweils zum 
-Wintersemester. 
+Wintersemester.
+
+----- CHUNK 30 -----
 (2) Das Studium wird im Einzelnen nach dem Studienplan gemäß Anlage 2 durchgeführt. Der 
 Studienplan enthält die Modulbezeichnungen, die Niveaustufen der Module, die Form und Art des 
 Modulangebotes (Pflicht-/Wahlpflichtmodul), die Präsenzzeit der Lehrveranstaltungen (in SWS), die 
 zugrundeliegende Lernzeit in zu vergebenden ECTS-Leistungspunkten der Module sowie die 
-notwendigen und empfohlenen Voraussetzungen. 
+notwendigen und empfohlenen Voraussetzungen.
+
+----- CHUNK 31 -----
 (3) Auf Antrag der Studierenden kann das Bachelorstudium in Teilzeit absolviert werden. In Anlage 3 
 ist ein Teilzeitstudienplan für ein 10-semestriges Teilzeitstudium enthalten. Der Teilzeitstudienplan 
-hat empfehlenden Charakter und ist nicht verbindlich. 
+hat empfehlenden Charakter und ist nicht verbindlich.
+
+----- CHUNK 32 -----
 (3) In Anlage 4 sind die Wahlpflichtmodule und in Anlage 5 sind die AWE-/Fremdsprachenmodule 
 aufgelistet. Welche Module dazu angeboten werden, beschließt der Fachbereichsrat rechtzeitig vor 
-Semesterbeginn. 
+Semesterbeginn.
+
+----- CHUNK 33 -----
 (4) In jedem Semester kann ein Modul als E-Learning-Modul angeboten werden. Welches Modul auf 
 diese Art angeboten wird, beschließt der Fachbereichsrat jeweils rechtzeitig vor Semesterbeginn. Als 
 E-Learning-Module können alle Module bis auf die AWE-Module und Fremdsprachen durchgeführt 
-werden. 
-Seite 304 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
- 
- 
+werden.
+
+----- CHUNK 34 -----
 (5) Für die Wahlpflichtmodule B41 (Wirtschafts-)Informatik 1 und B54 (Wirtschafts-)Informatik 2 kann 
-jeweils ein Modul als Blockveranstaltung in der vorlesungsfreien Zeit angeboten werden. 
+jeweils ein Modul als Blockveranstaltung in der vorlesungsfreien Zeit angeboten werden.
+
+----- CHUNK 35 -----
 (6) Schwangere Studentinnen und Studentinnen, die Kinder oder pflegebedürftige Angehörige 
 betreuen, werden auf Antrag bei der Fachbereichsverwaltung bei der Belegung von 
-Lehrveranstaltungen bevorzugt behandel
+Lehrveranstaltungen bevorzugt behandelt.
 
------ CHUNK 33 -----
-t. 
+----- CHUNK 36 -----
 (7) Anstelle eines der curricular vorgesehenen Wahlpflichtmodule B41 (Wirtschafts-)Informatik 1 oder 
 B54 (Wirtschafts-)Informatik 2 ist es den Studierenden nach Zustimmung durch den 
 Prüfungsausschuss und Maßgabe freier Plätze gestattet, ein interdisziplinäres (oder Makro-) Projekt 
 die eigenen oder anderen Fachbereiche der HTW Berlin zu absolvieren.
 
------ CHUNK 34 -----
-§ 9 Ergänzendes allgemeinwissenschaftliches Lehrangebot 
-(1) Der Umfang der allgemeinwissenschaftlichen Ergänzungsmodule (AWE-Module) beträgt 12 ECTS-
-Leistungspunkte. Davon entfallen 8 ECTS-Leistungspunkte auf die Ausbildung in einer Fremdsprache 
+----- CHUNK 37 -----
+§ 9 Ergänzendes allgemeinwissenschaftliches Lehrangebot
+(1) Der Umfang der allgemeinwissenschaftlichen Ergänzungsmodule (AWE-Module) beträgt 12 ECTSLeistungspunkte. Davon entfallen 8 ECTS-Leistungspunkte auf die Ausbildung in einer Fremdsprache 
 und 4 ECTS-Leistungspunkte auf allgemeinwissenschaftliche Ergänzungsmodule (keine 
 Fremdsprache). Die Fremdsprachenausbildung dient der Vertiefung bereits vorhandener Kenntnisse 
 in einer Fremdsprache (siehe Anlage 5). Die Vertiefung der Kenntnisse der englischen Sprache wird 
-ausdrücklich vom Studiengang empfohlen. 
+ausdrücklich vom Studiengang empfohlen.
+
+----- CHUNK 38 -----
 (2) Abweichend von Abs. 1 können 12 ECTS-Leistungspunkte für Fremdsprachen eingesetzt werden, 
 wovon eine Fremdsprache im Umfang von 8 ECTS-Leistungspunkten und eine zweite Fremdsprache 
-im Umfang von 4 ECTS-Leistungspunkten zu wählen ist. 
+im Umfang von 4 ECTS-Leistungspunkten zu wählen ist.
+
+----- CHUNK 39 -----
 (3) Abweichend von Abs. 1 und Abs. 2 kann der gesamte Umfang der AWE-Module auf eine 
 vertiefende Ausbildung in der nach Abs. 1 gewählten Fremdsprache vorgesehen werden. Die 
-möglichen Varianten sind Anlage 5 zu entnehmen. 
+möglichen Varianten sind Anlage 5 zu entnehmen.
+
+----- CHUNK 40 -----
 (4) Gemäß Abs. 1 können Studierende, die ihre Hochschulzugangsberechtigung in einer anderen 
 Sprache als Deutsch erhalten haben, 8 ECTS-Leistungspunkte in Deutsch als Fremdsprache (B2.2 und 
-C1.1 bzw. C1.2) erwerben. 
+C1.1 bzw. C1.2) erwerben.
+
+----- CHUNK 41 -----
 (5) Die nach Abs. 1 bis 4 gewählte/n Fremdsprache/n darf/dürfen nicht mit der Muttersprache des 
-oder der Studierenden identisch sein. 
+oder der Studierenden identisch sein.
+
+----- CHUNK 42 -----
 (6) Die erste Fremdsprache ist als Fachsprache Technik (Englisch) oder Wirtschaft (Französisch, 
-Russisch, Spanisch) oder Technik/Wirtschaft (Deutsch als Fremdsprache) zu erlernen. Bei Hochschul- 
-und Studiengangwechsel oder Spracherwerb im Mobilitätssemester wird als erste Fremdsprache auf 
+Russisch, Spanisch) oder Technik/Wirtschaft (Deutsch als Fremdsprache) zu erlernen. Bei Hochschulund Studiengangwechsel oder Spracherwerb im Mobilitätssemester wird als erste Fremdsprache auf 
 dem jeweiligen Niveau auch die jeweils andere Fachsprache Wirtschaft bzw. Gestaltung (Englisch) 
-und Technik bzw. Gestal
+und Technik bzw. Gestaltung (Französisch, Russisch, Spanisch) anerkannt.
 
------ CHUNK 35 -----
-tung (Französisch, Russisch, Spanisch) anerkannt.
-
------ CHUNK 36 -----
+----- CHUNK 43 -----
 § 10 Modulprüfungen 
 (1) Alle Module mit Ausnahme des Moduls Fachpraktikum werden differenziert bewertet. 
 Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 305 
  
 (2) Die erfolgreiche Teilnahme an einem Modul wird durch das Bestehen einer einheitlichen 
 Modulprüfung nachgewiesen. Die Prüfungskomponenten und Prüfungsformen für jedes Modul 
-werden in den Modulbeschreibungen für den Bachelorstudiengang Informatik und Wirtschaft - 
-Bachelor of Science (B.Sc.) festgelegt. 
+werden in den Modulbeschreibungen für den Bachelorstudiengang Informatik und WirtschaftBachelor of Science (B.Sc.) festgelegt. 
 (3) Besteht eine Modulprüfung aus mehreren Prüfungskomponenten, so wird die Modulnote durch die 
 Bildung eines gewogenen Mittels der Teilnoten ermittelt, wobei die Gewichtung der Teilnoten in der 
 Modulbeschreibung festzulegen ist. 
@@ -297,40 +285,47 @@ Dozentin.
 Prüfungsanmeldung zwingend erforderlich. Einer erneuten Belegung bedarf es nur dann, wenn die 
 Modulprüfung nur aus einer modulbegleitend geprüften Studienleistung besteht.
 
------ CHUNK 37 -----
-§ 11 Fachpraktikum 
+----- CHUNK 44 -----
+§ 11 Fachpraktikum
 (1) Das Fachpraktikum ist ein Pflichtpraktikum. Seine Durchführung richtet sich nach der Ordnung für 
 die Durchführung des Fachpraktikums in den Bachelor- und Masterstudiengängen der HTW Berlin 
 (Praxisordnung – PraxO) in der jeweils gültigen Fassung und nach den Regelungen zur Durchführung 
-des Moduls Fachpraktikum im Bachelorstudiengang Informatik und Wirtschaft 
+des Moduls Fachpraktikum im Bachelorstudiengang Informatik und Wirtschaft
+
+----- CHUNK 45 -----
 (2) Das Modul Fachpraktikum hat einen Umfang von 20 Leistungspunkten bzw. 600 Arbeitsstunden. 
 Das Fachpraktikum (Vollzeitpraktikum) umfasst einen Zeitraum von mindestens 15 Wochen. Das 
 Praktikum soll als Vollzeitpraktikum durchgeführt werden. Das Fachpraktikum kann auf Antrag von 
 Studentinnen auch verlängert und mit einer reduzierten Wochenarbeitszeit absolviert werden. Über 
 andere Regelungen als zuvor festgelegt entscheidet der oder die Praxisbeauftragte des 
-Studienganges auf Antrag. 
+Studienganges auf Antrag.
+
+----- CHUNK 46 -----
 (3) Als Ausbildungsbereiche, die für die Tätigkeit von Studierenden im Rahmen eines Fachpraktikums 
 geeignet sind, gelten Firmen, Institutionen, Dienstleister und Behörden aus den fachspezifischen 
 Bereichen des Studiengangs Informatik und Wirtschaft. Die Studierenden können in allen 
 Tätigkeitsfeldern mit IT-Bezug eingesetzt werden, wenn dort Fragestellungen aus den im Studienplan 
 gemäß Anlage 2 aufgeführten Fachgebieten behandelt werden. In Zweifelsfällen entscheidet der/die 
-Praxisbeauftragte, ob eine Tätigkeit der angestrebten Berufspraxis zugeordnet werden kann. 
-(4) Es ist für das Fachpraktikum erforderlich, Module im Umfang von mindestens 60 Leistungspunkten 
-erfolgreich absolviert zu haben. 
-(5) Der Ausbildungsplan für den einzelnen Praxisplatz soll vorsehen, dass die Studierende 
-Seite 306 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
- 
- 
- in der Regel einen Arbeitsbereich kennenlernt
+Praxisbeauftragte, ob eine Tätigkeit der angestrebten Berufspraxis zugeordnet werden kann.
 
------ CHUNK 38 -----
-und dabei möglichst einer Arbeitsgruppe 
+----- CHUNK 47 -----
+(4) Es ist für das Fachpraktikum erforderlich, Module im Umfang von mindestens 60 Leistungspunkten 
+erfolgreich absolviert zu haben.
+
+----- CHUNK 48 -----
+(5) Der Ausbildungsplan für den einzelnen Praxisplatz soll vorsehen, dass die Studierende 
+ 
+ 
+ 
+ in der Regel einen Arbeitsbereich kennenlernt und dabei möglichst einer Arbeitsgruppe 
 angehört, 
  an der Lösung klar beschriebener informationstechnischer Aufgaben oder Teilaufgaben unter 
 Anleitung beteiligt wird, wobei das im bisherigen Studium erworbene Wissen angemessen zu 
 berücksichtigen ist, 
  eine Erläuterung über die Einordnung ihres jeweiligen Arbeitsbereiches in den gesamten 
-Betriebsablauf erhält. 
+Betriebsablauf erhält.
+
+----- CHUNK 49 -----
 (6) Für die erfolgreiche Durchführung des Fachpraktikums sind folgende Nachweise erforderlich: 
  ein Praktikumsbericht, aus dem der zeitliche Ablauf des Praktikums, die Praxisaufgaben und 
 die Tätigkeiten zur Lösung der Aufgaben hervorgehen; der Praktikumsbericht ist unmittelbar 
@@ -339,15 +334,16 @@ zum Ende des Fachpraktikums bei der oder dem Praxisbeauftragten abzugeben und
  oder ein Zeugnis des Praktikumsbetriebes über eine erfolgreiche Durchführung des 
 Praktikums mit Ausweis der absolvierten Arbeitsbereiche und -aufgaben, der erbrachten 
 Leistung der Studierenden für das Unternehmen, der konkreten Dauer des Praktikums und der 
-tatsächlich geleisteten Gesamtarbeitsstunden (ohne Fehlzeiten). 
+tatsächlich geleisteten Gesamtarbeitsstunden (ohne Fehlzeiten).
+
+----- CHUNK 50 -----
 (7) Das Fachpraktikum wird auf der Grundlage der vorgenannten Nachweise von der 
 Praxisbeauftragten undifferenziert bewertet. Lautet die Bewertung „ohne Erfolg“, so ist das 
 Fachpraktikum zu wiederholen.
 
------ CHUNK 39 -----
+----- CHUNK 51 -----
 § 12 Bachelorarbeit 
-(1) Zur Bachelorarbeit wird zugelassen, wer Module im Umfang von mindestens 151 ECTS-
-Leistungspunkten erfolgreich abgeschlossen hat. Ein oder eine Kandidat*in kann auch zugelassen 
+(1) Zur Bachelorarbeit wird zugelassen, wer Module im Umfang von mindestens 151 ECTSLeistungspunkten erfolgreich abgeschlossen hat. Ein oder eine Kandidat*in kann auch zugelassen 
 werden, wenn er oder sie Module im Gesamtumfang von bis zu zehn ECTS-Leistungspunkten noch 
 nicht erfolgreich abgeschlossen hat. Der Anmeldeschluss für die Bachelorarbeit in der Abteilung 
 Studierendenservice (ASS) ist das jeweils festgelegte Ende der Vorlesungszeit des 5. 
@@ -366,7 +362,7 @@ Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 307
 (4) Die Bachelorarbeit ist spätestens am Abgabetermin bei der Fachbereichsverwaltung in der von der 
 HTW Berlin festgelegten Form einzureichen.
 
------ CHUNK 40 -----
+----- CHUNK 52 -----
 § 13 Abschlusskolloquium 
 (1) Das Abschlusskolloquium ist die Modulprüfung im Modul Bachelorseminar und 
 Abschlusskolloquium. Zum Abschlusskolloquium wird zugelassen, wer 177 ECTS-Leistungspunkte im 
@@ -378,8 +374,8 @@ oder die Studierende zeigen, dass er oder sie in der Lage ist, einen komplexen S
 Zeit zu präsentieren und die Arbeit im Rahmen eines wissenschaftlichen Fachgesprächs kritisch zu 
 reflektieren.
 
------ CHUNK 41 -----
-§ 14 Modulgruppen und Modulnoten auf dem Bachelorzeugnis 
+----- CHUNK 53 -----
+§ 14 Modulgruppen und Modulnoten auf dem Bachelorzeugnis
 (1) Folgende Modulnoten werden im Bachelorzeugnis zu einer fachspezifischen Modulgruppe mit 
 eigenem Namen zusammengefasst. Die Note dieser Modulgruppe wird durch die Bildung des 
 gewogenen Mittels aufgrund der Leistungspunkte der einzelnen Modulnoten ermittelt. 
@@ -390,8 +386,7 @@ berechnet.
 entspricht der Note des Moduls Mathematik 2. 
 - Programmierung 1 und Programmierung 2 bilden die Modulgruppe Programmierung. Die Note der 
 Modulgruppe Programmierung entspricht der Note des Moduls Programmierung 2. 
-- Software-Engineering 1 und Software-Engineering 2 bilden die Modulgruppe Software-
-Engineering. Die Note der Modulgruppe Software-Engineering wird aus den Noten der Module 
+- Software-Engineering 1 und Software-Engineering 2 bilden die Modulgruppe SoftwareEngineering. Die Note der Modulgruppe Software-Engineering wird aus den Noten der Module 
 Software-Engineering 1 und Software-Engineering 2 berechnet. 
 - 1. Fremdsprache 1 und 1. Fremdsprache 2 (Anlage 5 Variante 1 oder Variante 2 erste 
 Fremdsprache) bilden die Modulgruppe der gewählten Fremdsprache. Die Note für die 
@@ -401,15 +396,16 @@ gewählte Fremdsprache auf dem Bachelorzeugnis ausgewiesen.
 Modulgruppe Vertiefte Fremdsprache Englisch oder Vertiefte Fremdsprache Französisch oder 
 Vertiefte Fremdsprache Spanisch oder Vertiefte Fremdsprache Russisch. Die Gesamtnote der 
 Modulgruppe Vertiefte Fremdsprache Englisch oder Vertiefte Fremdsprache Französisch oder 
-Seite 308 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/
+ 
+ 
+ 
+Vertiefte Fremdsprache Spanisch oder Vertiefte
 
------ CHUNK 42 -----
-24 
- 
- 
-Vertiefte Fremdsprache Spanisch oder Vertiefte Fremdsprache Russisch wird nur aus den 
-Modulnoten der Module 1. Fremdsprache 2 und 1. Fremdsprache 3 berechnet. 
- 
+----- CHUNK 54 -----
+Fremdsprache Russisch wird nur aus den 
+Modulnoten der Module 1. Fremdsprache 2 und 1. Fremdsprache 3 berechnet.
+
+----- CHUNK 55 -----
 (2) Reihenfolge der Module/-modulgruppen auf dem Bachelorzeugnis: 
 (a) Pflichtmodule/-modulgruppen 
 Rechnerarchitektur/Betriebssysteme 
@@ -440,8 +436,9 @@ Projekte in der Wirtschaft
 (AWE-Modul 1, ggf. gewählte vertiefende Fremdsprache, 
 ggf. gewählte 2. Fremdsprache) 
 (AWE-Modul 2, ggf. gewählte vertiefende Fremdsprache, 
-ggf. gewählte 2. Fremdsprache) 
- 
+ggf. gewählte 2. Fremdsprache)
+
+----- CHUNK 56 -----
 (3) Folgende Modulnoten werden auf dem Bachelorzeugnis ausgewiesen, gehen jedoch nicht in die 
 Berechnung des Gesamtprädikates ein: 
 Rechnerarchitektur/Betriebssysteme 
@@ -451,7 +448,7 @@ Grundlegende Konzepte der Informatik.
 Die Modulnoten Programmierung 1, BWL 1, Mathematik 1 und 1. Fremdsprache 1 werden nicht auf 
 dem Bachelorzeugnis ausgewiesen und gehen nicht in die Berechnung des Gesamtprädikates ein.
 
------ CHUNK 43 -----
+----- CHUNK 57 -----
 § 15 Berechnung des Gesamtprädikates 
 (1) Das Gesamtprädikat des Abschlusses ergibt sich aus der Gesamtnote (X), die wiederum als 
 gewogenes arithmetisches Mittel der Teilnoten (X1, X2, X3) nach der Formel 
@@ -489,7 +486,7 @@ Data Science 5
 Software-Engineering 2 5 
 Datenbanksysteme 5 
 Softwareentwicklungsprojekt 10 
-Seite 310 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
 Projektmanagement 5 
@@ -502,28 +499,21 @@ WP (Wirtschafts-)Informatik 2 5
 Informatik und Gesellschaft 5 
 Projekte in der Wirtschaft 6 
 Modellierung von Informationssystemen 5 
-BWL 3: Berufspraxis IT-Wir
-
------ CHUNK 44 -----
-tschaft 5 
+BWL 3: Berufspraxis IT-Wirtschaft 5 
 AWE-Modul 1 2 
 AWE-Modul 2 2 
 Summe 115
 
------ CHUNK 45 -----
+----- CHUNK 58 -----
 § 16 Abschlussdokumente 
-(1) Die Absolventin erhält die Abschlussdokumente gemäß
-
------ CHUNK 46 -----
-§ 28 der Rahmenstudien- und -
-prüfungsordnung für Bachelor- und Masterstudiengänge - RStPO – Ba/Ma in ihrer jeweils gültigen 
+(1) Die Absolventin erhält die Abschlussdokumente gemäß § 28 der Rahmenstudien- undprüfungsordnung für Bachelor- und Masterstudiengänge - RStPO – Ba/Ma in ihrer jeweils gültigen 
 Fassung. Die Verleihung des akademischen Grades Bachelor of Science wird auf der Bachelorurkunde 
 bescheinigt. Auf den Abschlussdokumenten wird nicht gesondert ausgewiesen, dass es sich um einen 
 mono-edukativen Studiengang handelt. 
 (2) Die Spezifika des Diploma Supplements des Bachelorstudienganges Informatik und Wirtschaft 
 werden in der Anlage 8 ausgewiesen.
 
------ CHUNK 47 -----
+----- CHUNK 59 -----
 § 17 Übergangsregelungen 
 Studierende, welche in Studienverzug geraten sind und für die Module nach der vorangegangenen 
 Studienordnung im Bachelorstudiengang Informatik und Wirtschaft vom 7. Mai 2014 (AMBl. HTW 
@@ -531,7 +521,7 @@ Berlin Nr. 17/14), zuletzt geändert am 8. April 2020 (AMBl. HTW Berlin Nr. 23/2
 angeboten werden, müssen als Äquivalent die in der Äquivalenztabelle in Anlage 9 aufgeführten 
 Module dieser Studien- und Prüfungsordnung absolvieren.
 
------ CHUNK 48 -----
+----- CHUNK 60 -----
 § 18 Inkrafttreten/Veröffentlichung 
 Diese Ordnung tritt am Tage nach ihrer Veröffentlichung im Amtlichen Mitteilungsblatt der HTW Berlin 
 mit Wirkung vom 1. Oktober 2024 in Kraft. 
@@ -539,10 +529,7 @@ mit Wirkung vom 1. Oktober 2024 in Kraft.
 Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 311 
  
  
-Folgende Berufsausbildungen sind insbesondere für eine Immatrikulation gem.
-
------ CHUNK 49 -----
-§ 11 Abs. 2 BerlHG 
+Folgende Berufsausbildungen sind insbesondere für eine Immatrikulation gem. § 11 Abs. 2 BerlHG 
 geeignet: 
  Assistentin – Informatik (allgemeine Informatik, Medieninformatik, 
 Softwaretechnik, technische Informatik, Wirtschaftsinformatik) 
@@ -573,18 +560,18 @@ Informationsverarbeitung
 Über die inhaltliche Vergleichbarkeit von Berufsausbildungen mit einer anderen Bezeichnung als der 
 genannten entscheidet der Prüfungsausschuss des Studienganges Informatik und Wirtschaft. 
  
- Fachgebundene Hochschulzugangsberechtigung nach
-
------ CHUNK 50 -----
-§ 11 Abs. 2 BerlHG
-Seite 312 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ Fachgebundene Hochschulzugangsberechtigung nach § 11 Abs. 2 BerlHG
+ 
  
  
  
  
 1. Fachsemester 
 Nr. Modulbezeichnung Art Form SWS LP NSt NV EV 
-B11 Programmierung 1 P SL/PCÜ 4/2 6 1a - - 
+B11 Programmierung 1 P SL/PCÜ 4/2 6
+
+----- CHUNK 61 -----
+1a - - 
 B12 Rechnerarchitektur/ 
 Betriebssysteme 
 P SL/PCÜ 2/2 5 1a - - 
@@ -663,23 +650,22 @@ WP
  
  
  
-20 60 LP - 
- Summe Semester 30 
+20 60 LPSumme Semester 30 
  
  
-Seite 314 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
  
  
-5. Fachsemester (Mobilitätssemest
-
------ CHUNK 51 -----
-er) 
+ 
+5. Fachsemester (Mobilitätssemester) 
 Nr. Modulbezeichnung Art Form SWS LP NSt NV EV 
 B51 Human Computer Interaction P SL/PCÜ 2/2 5 1b - B32 
 B52 Verteilte Systeme P SL/PCÜ 2/2 5 1b - B24 
 B31 
 B53 Datenschutz und Datensicherheit P SL/PCÜ 2/2 5 1b - B12 
-B54 Wahlpflichtmodul (Wirtschafts-) 
+B54 Wahlpflichtmodul
+
+----- CHUNK 62 -----
+(Wirtschafts-) 
 Informatik 2 
 WP PCÜ 4 5 siehe Anlage 4 
 B55 Informatik und Gesellschaft P SL 4 5 1b - B42 
@@ -699,15 +685,9 @@ B63 AWE-Modul 1 WP PÜ 2 2 1a - -
 B64 AWE-Modul 2 WP PÜ 2 2 1a - - 
 B65 Bachelorseminar und 
 Abschlusskolloquium 
-P 3 1b s.
-
------ CHUNK 52 -----
-§13 
+P 3 1b s.§13 
 B65.1 Bachelorseminar PS 1 
-B66 Bachelorarbeit P 12 1b s.
-
------ CHUNK 53 -----
-§12 
+B66 Bachelorarbeit P 12 1b s.§12 
  Summe Semester 29 
  Summe gesamt 180 
  
@@ -738,7 +718,7 @@ Anmerkungen:
 Ein ECTS-Leistungspunkt steht für eine studentische Lernzeit (Workload) von 30 Stunden à 60 
 Minuten. 
  
-Seite 316 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
  
@@ -760,7 +740,10 @@ B14 BWL 1: Grundlagen der BWL P SL 4 5 1a - -
  
 2. Fachsemester 
 Nr. Modulbezeichnung Art Form SWS LP NSt NV EV 
-B21 Programmierung 2 P SL/PCÜ 2/2 5 1b - B11 
+B21
+
+----- CHUNK 63 -----
+Programmierung 2 P SL/PCÜ 2/2 5 1b - B11 
 B13 
 B23 Software-Engineering 1 P SL/PCÜ 2/2 5 1b - B11 
 B13 
@@ -776,10 +759,7 @@ B32 Software-Engineering 2 P SL/PCÜ 2/2 5 1b - B23
 B33 Datenbanksysteme P SL/PCÜ 2/2 5 1b - B24 
 B16 1. Fremdsprache 1 WP PÜ 4 4 1a - - 
  Summe Semester 10/6 19 
- Studienplanübersic
-
------ CHUNK 54 -----
-ht (Teilzeitstudium)
+ Studienplanübersicht (Teilzeitstudium)
 Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 317 
  
 4. Fachsemester 
@@ -834,11 +814,10 @@ WP
  
  
  
-20 60 LP - 
- Summe Semester 0/0 20 
+20 60 LPSumme Semester 0/0 20 
  
  
-Seite 318 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
 7. Fachsemester (Mobilitätssemester) 
@@ -854,7 +833,10 @@ B55 Informatik und Gesellschaft P SL 4 5 1b - B42
  Summe Semester 8/8 20 
  
  
-8. Fachsemester 
+8.
+
+----- CHUNK 64 -----
+Fachsemester 
 Nr. Modulbezeichnung Art Form SWS LP NSt NV EV 
 B61 Modellierung von 
 Informationssystemen 
@@ -870,10 +852,7 @@ Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 319
  
 9. Fachsemester 
 Nr. Modulbezeichnung Art Form SWS LP NSt NV EV 
-B52 Verteilt
-
------ CHUNK 55 -----
-e Systeme P SL/PCÜ 2/2 5 1b - B24 
+B52 Verteilte Systeme P SL/PCÜ 2/2 5 1b - B24 
 B31 
 B56 Projekte in der Wirtschaft WP PS 4 6 1b B34 B21 
  Summe Semester 2/6 11 
@@ -883,15 +862,9 @@ B56 Projekte in der Wirtschaft WP PS 4 6 1b B34 B21
 Nr. Modulbezeichnung Art Form SWS LP NSt NV EV 
 B65 Bachelorseminar und 
 Abschlusskolloquium 
-P 3 1b s.
-
------ CHUNK 56 -----
-§13 
+P 3 1b s.§13 
 B65.1 Bachelorseminar PS 1 
-B66 Bachelorarbeit P 12 1b s.
-
------ CHUNK 57 -----
-§12 
+B66 Bachelorarbeit P 12 1b s.§12 
  Summe Semester 2/9 15 
  Summe gesamt 180 
  
@@ -915,7 +888,7 @@ NSt Niveaustufe (1a =
 voraussetzungsfrei/1b = 
 voraussetzungsbehaftet) 
  
-Seite 320 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
  
@@ -929,7 +902,10 @@ Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 321
  
 Für die Wahlpflichtmodule B41 (Wirtschafts-)Informatik 1 und B54 (Wirtschafts-)Informatik 2 werden 
 den Studierenden in jedem Semester zwei Module angeboten. Aus den angebotenen Modulen kann im 
-4. und 5. Fachsemester jeweils 1 Modul gewählt werden. Eine der beiden Lehrveranstaltungen findet 
+4. und 5. Fachsemester jeweils 1 Modul gewählt werden. Eine der beiden Lehrveranstaltungen
+
+----- CHUNK 65 -----
+findet 
 semesterbegleitend statt, die andere Lehrveranstaltung wird in der Regel in der vorlesungsfreien Zeit 
 als Blockveranstaltung (über 2 Wochen) angeboten. Der Fachbereichsrat kann weitere 
 Wahlpflichtmodulangebote unter Berücksichtigung der Entwicklung der jeweiligen Fachgebiete 
@@ -945,10 +921,7 @@ WP2 Deep Learning PCÜ 4 1b - B31
 WP3 Vertiefung in Datenbanken und 
 Datenstrukturen 
 PCÜ 4 1b - B33 
-WP4 Vertiefung in Datensch
-
------ CHUNK 58 -----
-utz und 
+WP4 Vertiefung in Datenschutz und 
 Datensicherheit 
 PCÜ 4 1a - - 
 WP5 IT-Security PCÜ 4 1a - - 
@@ -967,7 +940,7 @@ PCÜ 4 1a - -
  
  
  Wahlpflichtmodule 
-Seite 322 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
  
@@ -993,7 +966,10 @@ B64 AWE-Modul 2 (freie Wahl) WP PÜ 2 2 1a - -
  
 Variante 2: 
 Nr. Modulbezeichnung Art Form SWS LP NSt NV EV 
-B16 Englisch Fachsprache B2.1 T 
+B16 Englisch
+
+----- CHUNK 66 -----
+Fachsprache B2.1 T 
 oder 
 Französisch/Russisch/Spanisch 
 Fachsprache B1.2 W oder 
@@ -1006,15 +982,9 @@ WP PÜ 4 4 1b - B16
  
 1 Fachsprache Technik 
 2 Fachsprache Wirtschaft 
-3 gilt nur für Studierende mit Hochschulzugangsberechtigung in einer anderen Sprache als Deutsch gemäß
-
------ CHUNK 59 -----
-§ 9 
+3 gilt nur für Studierende mit Hochschulzugangsberechtigung in einer anderen Sprache als Deutsch gemäß § 9 
 Abs. 4 
-4 gilt nur für Studierende mit Hochschulzugangsberechtigung in einer anderen Sprache als Deutsch gemäß
-
------ CHUNK 60 -----
-§ 9 
+4 gilt nur für Studierende mit Hochschulzugangsberechtigung in einer anderen Sprache als Deutsch gemäß § 9 
 Abs. 4 
  AWE-Module/Fremdsprachen 
 Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 323 
@@ -1055,7 +1025,7 @@ WP PÜ 4 4 1b - B26
 2 Fachsprache Gestaltung 
 3 Fachsprache Technik 
 4 Fachsprache Wirtschaft 
-Seite 324 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
  
@@ -1074,7 +1044,10 @@ B14 BWL 1: Grundlagen der BWL Business Administration 1: Fundamentals
 of Business Administration 
 5 
 B15 Mathematik 1 Mathematics 1 5 
-B21 Programmierung 2 Programming 2 5 
+B21 Programmierung 2
+
+----- CHUNK 67 -----
+Programming 2 5 
 B22 Mathematik 2 Mathematics 2 6 
 B23 Software-Engineering 1 Software Engineering 1 5 
 B24 Webtechnologien Web Technologies 5 
@@ -1083,10 +1056,7 @@ B31 Data Science Data Science 5
 B32 Software-Engineering 2 Software Engineering 2 5 
 B33 Datenbanksysteme Database Systems 5 
 B35 Projektmanagement Project Management 5 
-B42 Wissenschaftliches Schreiben Scientific
-
------ CHUNK 61 -----
-Writing 5 
+B42 Wissenschaftliches Schreiben Scientific Writing 5 
 B43 Fachpraktikum Professional Internship 20 
 B51 Human Computer Interaction Human Computer Interaction 5 
 B52 Verteilte Systeme Distributed Systems 5 
@@ -1130,7 +1100,10 @@ Advanced Studies in Data Protection and
 Data Security 
 5 
 WP5 IT-Security IT-Security 5 
-WP6 Programmierung mit Python Programming with Python 5 
+WP6 Programmierung
+
+----- CHUNK 68 -----
+mit Python Programming with Python 5 
 WP7 DevOps DevOps 5 
 WP8 Cloud Computing Cloud Computing 5 
 WP9 Micro-Service-Architekturen Microservice Architectures 5 
@@ -1138,10 +1111,7 @@ WP10 Ethik in Informatik Ethics in Computer Science 5
 WP11 Business Intelligence Business Intelligence 5 
 WP12 Design Patterns Design Patterns 5 
 WP13 Progressive Web Apps Progressive Web Apps 5 
-WP14 Besondere Kapitel der Informatik Special Topics in Computer Scien
-
------ CHUNK 62 -----
-ce 5 
+WP14 Besondere Kapitel der Informatik Special Topics in Computer Science 5 
 WP15 Besondere Kapitel der 
 Wirtschaftsinformatik 
 Special Topics in Business Informatics 5 
@@ -1152,7 +1122,7 @@ B63/64 Vertiefte Fremdsprache: Advanced Foreign Language: 4
 B63 AWE-Modul 1 Supplementary Elective Module 1 2 
 B64 AWE-Modul 2 Supplementary Elective Module 2 2 
  
-Seite 326 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
  
@@ -1179,7 +1149,10 @@ gestalten,
  sicher mit der Programmiersprache Java arbeiten. 
  
  
-Modulbezeichnung B12 Rechnerarchitektur/Betriebssysteme 
+Modulbezeichnung B12
+
+----- CHUNK 69 -----
+Rechnerarchitektur/Betriebssysteme 
 Lernergebnis und 
 Kompetenzen 
 Nachdem sie das Modul erfolgreich absolviert haben, besitzen die Studierenden 
@@ -1187,10 +1160,7 @@ folgende Fachkompetenzen:
  Verständnis der Rechnerarchitektur: Studierende kennen grundlegenden 
 Komponenten eines Computersystems, darunter die CPU (Central 
 Processing Unit), den Hauptspeicher, Eingabe-/Ausgabegeräte und 
-Speichermedien. Sie ver
-
------ CHUNK 63 -----
-stehen, wie diese Komponenten miteinander 
+Speichermedien. Sie verstehen, wie diese Komponenten miteinander 
 interagieren und wie Daten in einem Computer verarbeitet werden. 
  Betriebssystemkonzepte: Die Studierenden wissen, wie Betriebssysteme 
 funktionieren, welche Aufgaben sie erfüllen und wie sie Ressourcen wie 
@@ -1218,7 +1188,10 @@ abzuwägen,
  Standard-PCs auseinander- und zusammenbauen. 
  
  
-Modulbezeichnung B13 Grundlegende Konzepte der Informatik 
+Modulbezeichnung B13 Grundlegende Konzepte der
+
+----- CHUNK 70 -----
+Informatik 
 Lernergebnis und 
 Kompetenzen 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
@@ -1227,10 +1200,7 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
 Sprachen, der Automatentheorie und der Berechenbarkeitstheorie 
 erklären, 
 • wichtige Beschreibungs-, Analyse- und Beweisverfahren aus den 
-Bereichen Aussagenlogik, Graphentheorie und formale S
-
------ CHUNK 64 -----
-prachen 
+Bereichen Aussagenlogik, Graphentheorie und formale Sprachen 
 erläutern und anwenden, 
 • prinzipielle Grenzen für die Berechenbarkeit und Entscheidbarkeit 
 benennen. 
@@ -1251,12 +1221,11 @@ Lernergebnis und
 Kompetenzen 
 Nachdem sie das Modul erfolgreich absolviert haben, verfügen die Studierenden 
 (Fachkompetenz) über: 
-Seite 328 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
 • Verständnis der grundlegenden Modelle ökonomischen Handelns, 
-• Verständnis des volkswirtschaftlichen Zusammenhangs Angebot-
-Nachfrage, 
+• Verständnis des volkswirtschaftlichen Zusammenhangs AngebotNachfrage, 
 • Verständnis grundlegender volkswirtschaftlicher Begriffe Markt, 
 Marktmodelle, Konjunktur und Ziele der Wirtschaftspolitik, 
 • Verständnis aufbau- und ablauforganisatorischer Strukturen, 
@@ -1264,17 +1233,17 @@ Marktmodelle, Konjunktur und Ziele der Wirtschaftspolitik,
 • Einblick in Führungsstile und die sie begründenden Theorien, 
 • Verständnis für die Aufgaben und Methoden der Personalwirtschaft, 
 • Verständnis der Grundfragen der Investition, 
-• Verständnis für die Grundlagen der Finanzierung, 
+• Verständnis für
+
+----- CHUNK 71 -----
+die Grundlagen der Finanzierung, 
 • Verständnis der Wertschöpfungsprozesse in Produktion, Logistik und 
 Dienstleistung, 
 • Verständnis für die Grundlagen des Marketings. 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Methodenkompetenz) 
  Arbeiten in einem Team, 
- Eine wissenschaftliche Recherche durchführe
-
------ CHUNK 65 -----
-n, 
+ Eine wissenschaftliche Recherche durchführen, 
  Wissen aneignen und erklären, 
  Theorie aus dem Lehrbuch, wissenschaftliche Studien und Praxisbeispiel 
 zueinander in Bezug setzen. 
@@ -1305,16 +1274,16 @@ Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 329
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Methodenkompetenz) 
  Mathematische Konzepte und Methoden zur Entwicklung und Bewertung 
-von Algorithmen und Datenstrukturen in der Informatik anwenden, 
+von Algorithmen und
+
+----- CHUNK 72 -----
+Datenstrukturen in der Informatik anwenden, 
  Formale Beweisführung und logisches Denken zur Lösung und 
 Validierung von mathematischen und informatischen Problemstellungen 
 nutzen, 
  Algebraische Strukturen und Zahlentheorie zur Entwicklung und Analyse 
 von kryptographischen Verfahren verwenden, 
- Grundlegende Konzepte der linearen Algebra un
-
------ CHUNK 66 -----
-d Mengenlehre zur 
+ Grundlegende Konzepte der linearen Algebra und Mengenlehre zur 
 Modellierung und Lösung von Problemen in der Computergrafik und 
 Datenverarbeitung nutzen. 
  
@@ -1349,18 +1318,18 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
 (Fachkompetenz) 
  Grundlegende Begriffe und Konzepte der Stochastik, Statistik und 
 Differentialrechnung erklären, 
-Seite 330 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
  
  
- Erhobene Messdaten mit grundlegenden statistischen Methoden 
+ 
+ Erhobene Messdaten mit grundlegenden
+
+----- CHUNK 73 -----
+statistischen Methoden 
 analysieren und wahrscheinlichkeitstheoretisch modellieren, 
  Die erworbenen Kenntnisse zum Lösen von praxisrelevanten Problemen 
 in Data Science und Maschinellem Lernen einsetzen, 
  Zentrale Begriffe und Sätze der Wahrscheinlichkeitsrechnung und 
-Statistik erläuter
-
------ CHUNK 67 -----
-n und in wirtschaftsinformatischen Kontexten anwenden. 
+Statistik erläutern und in wirtschaftsinformatischen Kontexten anwenden. 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Methodenkompetenz) 
  Mathematische Methoden und Modelle zur Lösung komplexer, 
@@ -1380,8 +1349,7 @@ Nachdem sie das Modul erfolgreich absolviert haben, kennen die Studierenden
  den Lebenszyklus von Software und grundlegenden Prinzipien des 
 Software-Engineerings, 
  Methoden des Software-Engineerings in den Bereichen Analyse (Vision, 
-Stakeholder, Ziele, Typen von Anforderungen, Prototyping), Design (Grob-
-und Feinentwurf) und Test, 
+Stakeholder, Ziele, Typen von Anforderungen, Prototyping), Design (Grobund Feinentwurf) und Test, 
  wesentliche Eigenschaften von Softwarearchitekturen, 
  Artefakte und Methoden moderner SW-Entwicklungsprozesse (Fokus auf 
 SCRUM), 
@@ -1392,7 +1360,10 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
  die Eignung von Vorgehensmodellen beurteilen, 
  Anforderungen erheben, validieren und formalisieren, 
  statische und dynamische Modelle erstellen, 
- grundlegende Designprinzipien und Entwurfsmuster erkennen und deren 
+ grundlegende
+
+----- CHUNK 74 -----
+Designprinzipien und Entwurfsmuster erkennen und deren 
 Einsatzgebiete erläutern, 
  Subsysteme/Komponente/Module entwerfen, 
  Testfälle formulieren. 
@@ -1402,25 +1373,19 @@ Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 331
 Modulbezeichnung B24 Webtechnologien 
 Lernergebnis und 
 Kompetenzen 
-Nachd
-
------ CHUNK 68 -----
-em sie das Modul erfolgreich absolviert haben, besitzen die Studierenden 
+Nachdem sie das Modul erfolgreich absolviert haben, besitzen die Studierenden 
 folgende Fachkompetenzen: 
  Verständnis über die wesentlichen Prinzipien des Internets und des 
 World Wide Webs, 
- Verständnis über die wesentlichen Konzepte von Client-Server-
-Architekturen und deren Anwendung zur Erstellung von 
+ Verständnis über die wesentlichen Konzepte von Client-ServerArchitekturen und deren Anwendung zur Erstellung von 
 Webanwendungen, 
  Anwendbare Kenntnisse über mit HTML, CSS und JavaScript 
 programmierten Webseiten, 
  Anwendbare Kenntnisse über Single-Page-Applications, die mit einem 
 JavaScript-Framework (Angular) erstellt werden, 
- Anwendbare Kenntnisse über REST-APIs, die mithilfe eines JavaScript-
-Frameworks (node.js + express.js) erstellt werden, 
+ Anwendbare Kenntnisse über REST-APIs, die mithilfe eines JavaScriptFrameworks (node.js + express.js) erstellt werden, 
  Anwendbare Kenntnisse über die programmatische Anbindung von 
-Datenbanken, z.B. MongoDB, zur Implementierung von CRUD-
-Funktionalitäten im Backend 
+Datenbanken, z.B. MongoDB, zur Implementierung von CRUDFunktionalitäten im Backend 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Methodenkompetenz): 
  Moderne, komplexe Webanwendungen implementieren, die auf dem 
@@ -1438,20 +1403,20 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
 sowie der Kostenrechnung verstehen, 
  Inhalt eines Jahresabschlusses verstehen und in Grundzügen 
 interpretieren, 
- den Aufbau eines Kostenrechnungssystem erläutern. 
+
+
+----- CHUNK 75 -----
+den Aufbau eines Kostenrechnungssystem erläutern. 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Methodenkompetenz): 
  ausgewählte Buchungsfälle aus verschiedenen Funktionsbereichen von 
 Unternehmen selbstständig durchführen, 
- die buchhalterische Abbildung
-
------ CHUNK 69 -----
-von Beratungsleistungen im 
+ die buchhalterische Abbildung von Beratungsleistungen im 
 Zusammenhang mit der Softwareentwicklung auswählen und anwenden, 
  einen einfachen, jedoch vollständigen Prozess zur Erstellung eines 
 Jahresabschlusses durchführen, 
  ausgewählte Kostenverrechnungs- und Kalkulationsverfahren anwenden, 
-Seite 332 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
  passende Methoden der Kostenermittlung (Herstellkosten/Selbstkosten) 
@@ -1476,20 +1441,19 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
 Modellierung und Interpretation durchführen, 
  Statistische Methoden und maschinelles Lernen zur Analyse und 
 Vorhersage verwenden, 
- Programmierung und Datenmanagement zur Lösung von Data-Science-
-Problemen effektiv einsetzen, 
+ Programmierung und Datenmanagement zur Lösung von Data-ScienceProblemen effektiv einsetzen, 
  Data-Science-Projekte eigenständig planen, durchführen und die 
 Ergebnisse präsentieren und interpretieren, 
- Kritisch die Qualität von Daten und Modellen bewerten und die ethischen 
+ Kritisch die Qualität von
+
+----- CHUNK 76 -----
+Daten und Modellen bewerten und die ethischen 
 Implikationen der Datenanalyse verstehen. 
  
 Modulbezeichnung B32 Software-Engineering 2 
 Lernergebnis und 
 Kompetenzen 
-Nachdem sie das Modul erfolgreich absolviert haben, besitzen die S
-
------ CHUNK 70 -----
-tudierenden 
+Nachdem sie das Modul erfolgreich absolviert haben, besitzen die Studierenden 
 folgende Fachkompetenzen: 
  Praktische Kenntnisse über Softwarerefactoringtechniken, 
  Kenntnisse über fortgeschrittene Konzepte von Softwarearchitekturen, 
@@ -1513,8 +1477,7 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
  Existierende Software analysieren und so refaktorieren, dass neue 
 Architekturstile, wie z.B. Microservices, umgesetzt werden, 
  Die Softwareentwicklung in einer CI/CD-Pipeline durchführen, 
- Software auf die Cloud deployen und innerhalb der Software Cloud-
-Services verwenden, 
+ Software auf die Cloud deployen und innerhalb der Software CloudServices verwenden, 
  Software in Containern ausrollen. 
  
 Modulbezeichnung B33 Datenbanksysteme 
@@ -1523,15 +1486,15 @@ Kompetenzen
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Fachkompetenz): 
  grundlegender Datenbank-Begriffe und Funktionen von 
-Datenbanksystemen wiedergeben und erläutern, 
+Datenbanksystemen wiedergeben und
+
+----- CHUNK 77 -----
+erläutern, 
  Datenbankmodelle (ER-Diagramme) verstehen und interpretieren, 
  Abfragen mittels relationaler Algebra formulieren, 
  Grundlegende Konzepte und Eigenschaften von DB erklären (Transaktion, 
 ACID). 
-Nachdem sie das Modul e
-
------ CHUNK 71 -----
-rfolgreich absolviert haben, können die Studierenden 
+Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Methodenkompetenz): 
  Ein Datenbankentwurf mittels ER-Diagrammen entwerfen und in ein 
 relationales Datenmodell überführen, 
@@ -1547,7 +1510,7 @@ Lernergebnis und
 Kompetenzen 
 Nachdem sie das Modul erfolgreich absolviert haben, besitzen die Studierenden 
 folgende Fachkompetenzen: 
-Seite 334 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
  angewandte Kenntnisse über alle Bereiche des 
@@ -1566,13 +1529,13 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
 (Methodenkompetenz): 
  Moderne Kollaborationswerkzeuge richtig einsetzen (Team-Chats nutzen, 
 Boards zur transparenten Pflege von Zuständigkeiten führen), 
- sich Teamregeln definieren und an deren Wirksamkeit arbeiten 
+ sich Teamregeln
+
+----- CHUNK 78 -----
+definieren und an deren Wirksamkeit arbeiten 
 (verschiedene Reflektions- und Feedbackmethoden anwenden), 
  Fragestellungen im Team diskutieren und Lösungsideen abwägen, 
- Lösungen
-
------ CHUNK 72 -----
-mittels moderner Frameworks umsetzen, testen und deployen, 
+ Lösungen mittels moderner Frameworks umsetzen, testen und deployen, 
  Team-Ergebnisse präsentieren und verteidigen. 
  
  
@@ -1608,13 +1571,13 @@ Lernergebnis und
 Kompetenzen 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Fachkompetenz) 
- die Grundlagen und Prinzipien des wissenschaftlichen Arbeitens und des 
+ die
+
+----- CHUNK 79 -----
+Grundlagen und Prinzipien des wissenschaftlichen Arbeitens und des 
 Forschungsprozesses detailliert erläutern, 
  die Struktur und die erforderlichen Bestandteile einer Bachelorarbeit 
-vers
-
------ CHUNK 73 -----
-tehen und angemessen anwenden, 
+verstehen und angemessen anwenden, 
  klare und präzise Zielsetzungen, Fragestellungen und Hypothesen für 
 wissenschaftliche Arbeiten formulieren, 
  durchdachte und realisierbare Ideen für Abschlussarbeiten entwickeln 
@@ -1642,19 +1605,19 @@ anwenden.
  
  
  
-Seite 336 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
 Modulbezeichnung B43 Fachpraktikum 
 Lernergebnis und 
 Kompetenzen 
 Die Studierenden sind mit Einsatzgebieten und Einsatzanforderungen der 
-(Wirtschafts-)informatik in der Praxis vertraut. Sie kennen die praktische Mitarbeit 
-in betrieblichen Projekten. Sie kennen typische Berufsbilder in der Informatik. Sie 
-haben Einblicke in die technischen, or
+(Wirtschafts-)informatik in der Praxis vertraut. Sie kennen die praktische
 
------ CHUNK 74 -----
-ganisatorischen, wirtschaftlichen und 
+----- CHUNK 80 -----
+Mitarbeit 
+in betrieblichen Projekten. Sie kennen typische Berufsbilder in der Informatik. Sie 
+haben Einblicke in die technischen, organisatorischen, wirtschaftlichen und 
 sozialen Zusammenhänge der betrieblichen Abläufe. Sie entwickeln ein 
 Verständnis für die Besonderheiten der Zusammenarbeit mit Kunden an konkreten 
 Themen 
@@ -1691,12 +1654,12 @@ Kontexten eingesetzt werden können,
 und geeignete Kommunikationsmuster für verschiedene Anforderungen 
 auswählen, 
  Methoden zur Koordination in verteilten Systemen anwenden und die 
-Rolle von Lamport-Zeitstempeln und Vektoruhren beim Aufbau 
-konsistenter Systeme verstehen, 
-Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 33
+Rolle von
 
------ CHUNK 75 -----
-7 
+----- CHUNK 81 -----
+Lamport-Zeitstempeln und Vektoruhren beim Aufbau 
+konsistenter Systeme verstehen, 
+Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 337 
  
  die Konzepte der Replikation und die damit verbundenen 
 Herausforderungen und Lösungen, einschließlich Konsistenzprotokolle 
@@ -1730,19 +1693,18 @@ Schutzziele erklären,
  einfache Angriffe auf verwundbare Web-Anwendungen erläutern, 
  Grundsätze der Verarbeitung personenbezogener Daten (nach DSGVO) 
 benennen. 
-Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
+Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
+
+----- CHUNK 82 -----
 (Methodenkompetenz) 
  Offensichtliche Seitenkanäle identifizieren und ausnutzen, 
  Praktische Hindernisse in Organisationen benennen, die sich 
-kontraprodukti
-
------ CHUNK 76 -----
-v auf die IT-Sicherheit auswirken, 
+kontraproduktiv auf die IT-Sicherheit auswirken, 
  Die Sinnhaftigkeit von Antivirenprogrammen bzgl. einer gegebenen 
 Malware einschätzen. 
  
  
-Seite 338 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
 Modulbezeichnung B55 Informatik und Gesellschaft 
@@ -1777,11 +1739,11 @@ folgende Fachkompetenzen:
  fortgeschrittene Kenntnisse über alle Bereiche des 
 Softwareentwicklungsprozesses (Anforderungsanalyse, Konzeption, 
 Implementierung, Testen) 
- fortgeschrittene Kenntnisse über den Software- und Architekturentwurf, 
- fortgeschrittene Kenntnisse über Softwaredokumentationen
+ fortgeschrittene Kenntnisse
 
------ CHUNK 77 -----
-inkl. 
+----- CHUNK 83 -----
+über den Software- und Architekturentwurf, 
+ fortgeschrittene Kenntnisse über Softwaredokumentationen inkl. 
 Schnittstellendokumentationen, z.B. Dokumentation der Endpunkte einer 
 REST-API, 
  fortgeschrittene Kenntnisse über das Softwaretesten, 
@@ -1821,12 +1783,12 @@ von Prozessmodellen nachweisen.
 Modulbezeichnung B62 BWL 3: Berufspraxis IT-Wirtschaft 
 Lernergebnis und 
 Kompetenzen 
-Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
-(Fachkompetenz) 
- geeignete Informationen für die nächsten Schritte
+Nachdem sie das Modul erfolgreich
 
------ CHUNK 78 -----
-ihrer Karriereplanung 
+----- CHUNK 84 -----
+absolviert haben, können die Studierenden 
+(Fachkompetenz) 
+ geeignete Informationen für die nächsten Schritte ihrer Karriereplanung 
 gewinnen, bewerten und umzusetzen, 
  potenzielle Arbeitgeber hinsichtlich ihrer Kultur und gelebter Werte 
 einschätzen, 
@@ -1845,7 +1807,7 @@ Lernergebnis und
 Kompetenzen 
 Die Studierenden haben die Fähigkeit, eine wissenschaftliche Arbeit zu erstellen 
 und praktische Informatiksachverhalte wissenschaftlich darzustellen. Sie können 
-Seite 340 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
 den eigenen Arbeitsansatz und die erzielten Ergebnisse präsentieren und 
@@ -1869,10 +1831,10 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
 (Fachkompetenz) 
  vertiefte Kenntnisse und Verständnis im Bereich Machine Learning 
 demonstrieren, 
- die erworbenen spezialisierten Kenntnisse nutzen, um kom
+ die
 
------ CHUNK 79 -----
-plexere 
+----- CHUNK 85 -----
+erworbenen spezialisierten Kenntnisse nutzen, um komplexere 
 Probleme zu analysieren und Lösungsstrategien zu entwickeln, 
  die erlernten Konzepte und Methoden auf neue, unbekannte Probleme 
 und Fragestellungen in Praxis und Forschung anwenden, 
@@ -1907,11 +1869,11 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
  erweiterte wissenschaftliche und praktische Methoden und Techniken 
 des Deep Learnings effektiv einsetzen, 
  erlernte Methoden und Werkzeuge kritisch auswählen und anwenden, um 
-spezifische Probleme mit Hilfe des Deep Learnings zu lösen, 
- Interdisziplinär erworbenes Wissen in
+spezifische Probleme mit Hilfe des Deep
 
------ CHUNK 80 -----
-tegrieren und in der Praxis 
+----- CHUNK 86 -----
+Learnings zu lösen, 
+ Interdisziplinär erworbenes Wissen integrieren und in der Praxis 
 umsetzen, um innovative Lösungen zu entwickeln. 
  
  
@@ -1946,17 +1908,17 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
 (Fachkompetenz) 
  vertiefte Kenntnisse und Verständnis im Bereich Datenschutz und 
 Datensicherheit demonstrieren, 
-Seite 342 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
  die erworbenen spezialisierten Kenntnisse nutzen, um komplexere 
 Probleme zu analysieren und Lösungsstrategien zu entwickeln, 
  die erlernten Konzepte und Methoden auf neue, unbekannte Probleme 
 und Fragestellungen anwenden, 
- aktuelle Trends und Entwicklungen im Bereich Da
+ aktuelle Trends und Entwicklungen im Bereich
 
------ CHUNK 81 -----
-tenschutz und 
+----- CHUNK 87 -----
+Datenschutz und 
 Datensicherheit kritisch reflektieren und bewerten. 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Methodenkompetenz) 
@@ -1995,10 +1957,10 @@ Kompetenzen
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Fachkompetenz) 
  vertiefte Kenntnisse in der Programmierung mit Python demonstrieren, 
- die erworbenen spezialisierten Kenntni
+ die erworbenen spezialisierten
 
------ CHUNK 82 -----
-sse nutzen, um komplexere 
+----- CHUNK 88 -----
+Kenntnisse nutzen, um komplexere 
 Probleme zu analysieren und Lösungsstrategien zu entwickeln, 
 Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 343 
  
@@ -2006,8 +1968,7 @@ Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 343
 und Fragestellungen anwenden. 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Methodenkompetenz) 
- erweiterte praktische Methoden und Techniken der Python-
-Programmierung effektiv einsetzen, 
+ erweiterte praktische Methoden und Techniken der PythonProgrammierung effektiv einsetzen, 
  Erworbenes Wissen integrieren und in der Praxis umsetzen, um innovative 
 Lösungen zu entwickeln. 
  
@@ -2038,10 +1999,10 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
 Organisationen und Unternehmen hinsichtlich Cloud Computing zu 
 bewerten, 
  die erlernten Konzepte und Methoden auf neue Fragestellungen wie z.B. 
-Vor- und Nachteile einer Migration in die Cloud
+Vor- und Nachteile einer Migration in die
 
------ CHUNK 83 -----
-anwenden, 
+----- CHUNK 89 -----
+Cloud anwenden, 
  aktuelle Trends und Entwicklungen im Cloud Computing bewerten. 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Methodenkompetenz) 
@@ -2051,7 +2012,7 @@ recherchieren, aufbereiten und präsentieren,
 spezifische Probleme in der mit Werkzeugen des Cloud Computings zu 
 lösen. 
  
-Seite 344 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
  
@@ -2066,13 +2027,11 @@ Softwareentwicklung demonstrieren,
  die erworbenen spezialisierten Kenntnisse nutzen, um neue und 
 existierende Software dahingehend zu gestalten, dass Micro-Services 
 Anwendung finden, 
- aktuelle Trends und Entwicklungen im Bereich der Micro-Service-
-Architekturen reflektieren und bewerten. 
+ aktuelle Trends und Entwicklungen im Bereich der Micro-ServiceArchitekturen reflektieren und bewerten. 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Methodenkompetenz) 
  erweiterte analytische und praktische Methoden und Techniken im 
-Bereich der Konzeption und Entwicklung von Micro-Service-
-Architekturen effektiv einsetzen, 
+Bereich der Konzeption und Entwicklung von Micro-ServiceArchitekturen effektiv einsetzen, 
  selbstständig und systematisch Informationen recherchieren, aufbereiten 
 und präsentieren, 
  erlernte Methoden und Werkzeuge kritisch auswählen und anwenden, um 
@@ -2084,11 +2043,11 @@ Lernergebnis und
 Kompetenzen 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Fachkompetenz) 
- vertiefte Kenntnisse und Ve
+ vertiefte Kenntnisse und Verständnis zu ausgewählten Themen an der 
+Schnittstelle
 
------ CHUNK 84 -----
-rständnis zu ausgewählten Themen an der 
-Schnittstelle von Ethik und Informatik demonstrieren, 
+----- CHUNK 90 -----
+von Ethik und Informatik demonstrieren, 
  die erworbenen spezialisierten Kenntnisse nutzen, um komplexere 
 Probleme zu analysieren und Lösungsstrategien zu entwickeln, 
  die erlernten Konzepte und Methoden auf neue, unbekannte Probleme 
@@ -2124,11 +2083,11 @@ Science oder Machine Learning bzgl. ihres Nutzens im Bereich der
 Business Intelligence reflektieren und bewerten. 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Methodenkompetenz) 
- erweiterte analytische und
+ erweiterte analytische und praktische Methoden und Techniken im 
+Bereich der
 
------ CHUNK 85 -----
-praktische Methoden und Techniken im 
-Bereich der Business Intelligence effektiv einsetzen, 
+----- CHUNK 91 -----
+Business Intelligence effektiv einsetzen, 
  selbstständig und systematisch Informationen recherchieren, aufbereiten 
 und präsentieren, 
  erlernte Methoden und Werkzeuge kritisch auswählen und anwenden, um 
@@ -2151,7 +2110,7 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
  erweiterte analytische und praktische Methoden und Techniken im 
 Bereich der Konzeption und Entwicklung von Software unter Verwendung 
 von Design Patterns effektiv einsetzen, 
-Seite 346 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
  selbstständig und systematisch Informationen recherchieren, aufbereiten 
@@ -2167,12 +2126,12 @@ Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden
  vertiefte Kenntnisse und Verständnis bei der Erweiterung von 
 Webanwendungen um progressive Funktionalitäten demonstrieren, 
  die erworbenen spezialisierten Kenntnisse nutzen, um Webanwendungen 
-dahingehend zu gestalten, dass die
-
------ CHUNK 86 -----
-se in ihrer Funktionalität und 
+dahingehend zu gestalten, dass diese in ihrer Funktionalität und 
 Verwendbarkeit nativen Webanwendungen entsprechen, 
- aktuelle Trends und Entwicklungen im Bereich der Progressive Web Apps 
+ aktuelle Trends und
+
+----- CHUNK 92 -----
+Entwicklungen im Bereich der Progressive Web Apps 
 reflektieren und bewerten. 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
 (Methodenkompetenz) 
@@ -2207,13 +2166,13 @@ Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 347
 und präsentieren, 
  erlernte Methoden und Werkzeuge kritisch auswählen und anwenden, um 
 spezifische Probleme in der Informatik zu lösen, 
- Interdisziplinär erworbenes Wissen integrieren und in der P
-
------ CHUNK 87 -----
-raxis 
+ Interdisziplinär erworbenes Wissen integrieren und in der Praxis 
 umsetzen, um innovative Lösungen zu entwickeln. 
  
-Modulbezeichnung WP15 Besondere Kapitel der Wirtschaftsinformatik 
+Modulbezeichnung WP15 Besondere Kapitel der
+
+----- CHUNK 93 -----
+Wirtschaftsinformatik 
 Lernergebnis und 
 Kompetenzen 
 Nachdem sie das Modul erfolgreich absolviert haben, können die Studierenden 
@@ -2237,7 +2196,7 @@ spezifische Probleme in der Wirtschaftsinformatik zu lösen,
  Interdisziplinär erworbenes Wissen integrieren und in der Praxis 
 umsetzen, um innovative Lösungen zu entwickeln. 
  
-Seite 348 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
 AWE-Module/Fremdsprachen 
@@ -2251,13 +2210,12 @@ Englisch: B2.1 Technik
 Das Modul dient der Einführung in die Fachsprache Technik. Alle 
 Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben) werden auf Grundlage 
 bereits erworbener allgemeinsprachlicher Kenntnisse weiterentwickelt. Die 
-Stu
-
------ CHUNK 88 -----
-dierenden 
+Studierenden 
  verstehen die Hauptinhalte komplexer Texte zu konkreten und abstrakten 
 Themen 
- verstehen und präsentieren relevante Themen im eigenen Fachgebiet 
+ verstehen und präsentieren relevante Themen im eigenen Fachgebiet
+
+----- CHUNK 94 -----
  können angemessen flüssige Gespräche führen 
  können Texte zu einer Reihe fachlicher Themen klar und detailliert verfassen 
  können den eigenen Standpunkt zu einem fachlichen Thema darlegen 
@@ -2283,10 +2241,7 @@ Das Modul dient der Erlangung hoher fachsprachlicher Kompetenz auf den
 Gebieten der Technik oder der Wirtschaft. Alle Sprachfertigkeiten (Hören, 
 Sprechen, Lesen, Schreiben) werden auf Grundlage bereits erworbener 
  
-1 gilt nur für Studierende mit Hochschulzugangsberechtigung in einer anderen Sprache als Deutsch gemäß
-
------ CHUNK 89 -----
-§ 9 
+1 gilt nur für Studierende mit Hochschulzugangsberechtigung in einer anderen Sprache als Deutsch gemäß § 9 
 Abs. 4 
 Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 349 
  
@@ -2295,7 +2250,10 @@ allgemeinsprachlicher Kenntnisse weiterentwickelt. Die Studierenden
 Themen 
  können relevante Themen im eigenen Fachgebiet präsentieren und an 
 Fachdiskussionen teilnehmen 
- können sich so spontan und fließend verständigen, dass ein normales 
+ können sich so spontan und fließend verständigen,
+
+----- CHUNK 95 -----
+dass ein normales 
 Gespräch mit Muttersprachlern ohne größere Anstrengung auf beiden Seiten 
 gut möglich ist 
  können Texte zu einem breiten Themenspektrum des eigenen Fachgebiets 
@@ -2323,25 +2281,22 @@ Fachdiskussionen teilnehmen
  können sich so spontan und fließend verständigen, dass ein normales 
 Gespräch mit Muttersprachlern ohne größere Anstrengung auf beiden Seiten 
 gut möglich ist 
- können Texte zu einem breiten Themenspektrum des eigenen Fachge
-
------ CHUNK 90 -----
-biets 
+ können Texte zu einem breiten Themenspektrum des eigenen Fachgebiets 
 klar strukturiert und detailliert verfassen 
 können den eigenen Standpunkt zu einem fachlichen Thema darlegen sowie 
 Vor- und Nachteile unterschiedlicher Ansätze benennen 
  
 Französisch/Spanisch/Russisch: B2.1 Wirtschaft 
  
-1 gilt nur für Studierende mit Hochschulzugangsberechtigung in einer anderen Sprache als Deutsch gemäß
-
------ CHUNK 91 -----
-§ 9 
+1 gilt nur für Studierende mit Hochschulzugangsberechtigung in einer anderen Sprache als Deutsch gemäß § 9 
 Abs. 4 
-Seite 350 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
  
  
- verstehen die Hauptinhalte komplexer Texte zu konkreten und abstrakten 
+ 
+ verstehen die
+
+----- CHUNK 96 -----
+Hauptinhalte komplexer Texte zu konkreten und abstrakten 
 Themen 
  verstehen und präsentieren relevante Themen im eigenen Fachgebiet 
  können angemessen flüssige Gespräche führen 
@@ -2378,11 +2333,10 @@ Modulbezeichnung 2. Fremdsprache
 Lernergebnisse und 
 Kompetenzen 
 Die Module sind aus dem Modulangebot der ZE Fremdsprachen (A1 bis C2) frei 
-wählbar. In Abhängigkeit der vorhandenen Vorkennt
+wählbar. In Abhängigkeit der vorhandenen Vorkenntnisse dienen sie der 
+Erlangung von allgemein- und/oder fachsprachlichen Kenntnissen in allen
 
------ CHUNK 92 -----
-nisse dienen sie der 
-Erlangung von allgemein- und/oder fachsprachlichen Kenntnissen in allen 
+----- CHUNK 97 -----
 Sprachfertigkeiten (Hören, Sprechen, Lesen, Schreiben). 
  
  
@@ -2397,8 +2351,7 @@ Wirtschaft
 Das Modul ist aus dem Modulangebot der ZE Fremdsprachen frei wählbar und 
 dient unter Berücksichtigung aller Sprachfertigkeiten (Hören, Sprechen, Lesen, 
 Schreiben) der Vervollkommnung bereits erworbener allgemein- und/oder 
-fachsprachlicher Kenntnisse (C1.1) bzw. der Erlangung sehr hoher allgemein- 
-und/oder fachsprachlicher Kompetenz (C1.2). Die Studierenden 
+fachsprachlicher Kenntnisse (C1.1) bzw. der Erlangung sehr hoher allgemeinund/oder fachsprachlicher Kompetenz (C1.2). Die Studierenden 
  verstehen ein breites Spektrum anspruchsvoller und umfangreicher Texte 
 und erfassen dabei auch implizite Bedeutungen 
  können sich spontan, sehr flüssig und genau ausdrücken 
@@ -2417,11 +2370,10 @@ weiterentwickelt. Die Studierenden
  verstehen die Hauptinhalte komplexer Texte zu konkreten und abstrakten 
 Themen 
  können relevante Themen im eigenen Fachgebiet präsentieren und an 
-Fachdi
+Fachdiskussionen teilnehmen 
+ können sich so spontan und fließend verständigen, dass ein normales
 
------ CHUNK 93 -----
-skussionen teilnehmen 
- können sich so spontan und fließend verständigen, dass ein normales 
+----- CHUNK 98 -----
 Gespräch mit Muttersprachlern ohne größere Anstrengung auf beiden 
 Seiten gut möglich ist 
  können Texte zu einem breiten Themenspektrum des eigenen Fachgebiets 
@@ -2434,7 +2386,7 @@ Vor- und Nachteile unterschiedlicher Ansätze benennen
 2 Fachsprache Gestaltung 
 3 Fachsprache Technik 
 4 Fachsprache Wirtschaft 
-Seite 352 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
  
@@ -2466,14 +2418,15 @@ Studiengang durchgeführt hat (in der Originalsprache)
  dito 
 2.5 Im Unterricht / in der Prüfung verwendete Sprache(n) 
  Deutsch und Englisch 
-3. ANGABEN ZU EBENE UND ZEITDAUER DER QUALIFIKATION
-
------ CHUNK 94 -----
+3. ANGABEN ZU EBENE UND ZEITDAUER DER QUALIFIKATION 
 3.1 Ebene der Qualifikation 
  Spezifika des Diploma Supplements
 Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 353 
  
- Hochschule für Technik und Wirtschaft Berlin (HTW Berlin), (Hochschule (FH)/staatlich) 
+ Hochschule für Technik
+
+----- CHUNK 99 -----
+und Wirtschaft Berlin (HTW Berlin), (Hochschule (FH)/staatlich) 
 Fachbereich Informatik, Kommunikation und Wirtschaft (siehe Abschnitte 8.1 und 8.4.1) 
 3.2 Offizielle Dauer des Studiums (Regelstudienzeit) in Leistungspunkten und/oder Jahren 
  Regelstudienzeit: 6 Semester (3 Jahre) 
@@ -2482,20 +2435,15 @@ ECTS-Leistungspunkte: 180 LP
 davon Fachpraktikum 20 LP und Bachelorarbeit 12 LP 
 3.3 Zugangsvoraussetzung(en) 
  Allgemeine Hochschulreife oder Fachhochschulreife oder 
-Hochschulzugangsberechtigung nach
-
------ CHUNK 95 -----
-§ 11 Abs. 1 oder 2 Berliner 
+Hochschulzugangsberechtigung nach § 11 Abs. 1 oder 2 Berliner 
 Hochschulgesetz (s. Abschnitt 8.7) 
 4. ANGABEN ZUM INHALT DES STUDIUMS UND ZU DEN ERZIELTEN ERGEBNISSEN 
 4.1 Studienform 
  Vollzeitstudium, Präsenzstudium, ggf. mit E-Learning-Anteilen 
 4.2 Lernergebnisse des Studiengangs 
- Die Absolventin verfügt über solide Kenntnisse aus den Informatik-Bereichen Software-
-Engineering/ -Entwicklung, Datenbanken/ Datenmodellierung/ Data Science und Verteilte 
+ Die Absolventin verfügt über solide Kenntnisse aus den Informatik-Bereichen SoftwareEngineering/ -Entwicklung, Datenbanken/ Datenmodellierung/ Data Science und Verteilte 
 Systeme. Ergänzt wird dies durch betriebswirtschaftliche und mathematische Kenntnisse 
-sowie soziale Kompetenz und Teamfähigkeit, besonders für die Durchführung von IT-
-Projekten. 
+sowie soziale Kompetenz und Teamfähigkeit, besonders für die Durchführung von ITProjekten. 
 Die Absolventin ist in der Lage, basierend auf dem Verständnis von Arbeitsprozessen auf 
 betriebswirtschaftlicher Ebene, IT-Systeme zu konzipieren, Anforderungen an zu 
 entwickelnde Lösungen zu spezifizieren und innerhalb von Projekten zu realisieren. Sie 
@@ -2506,14 +2454,17 @@ Informationssicherheit sowie Human Computer Interaction und ist in der Lage, die
 anzuwenden. 
  
 Die Absolventin ist geeignet für folgende Einsatzfelder in der beruflichen Praxis: 
-- Anwendungsentwicklung, 
+-
+
+----- CHUNK 100 -----
+Anwendungsentwicklung, 
 - Beratung, 
 - Anwendungsbetreuung, 
 - Projektdurchführung 
 - sowie Projektleitung 
 in IT-Dienstleistungsunternehmen, Software-Häusern, Unternehmen, 
 Unternehmensberatungen und öffentlichen Einrichtungen. 
-Seite 354 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
 Zusammensetzung des Studiengangs: 
@@ -2522,10 +2473,7 @@ Zusammensetzung des Studiengangs:
 - minimale Fremdsprachenausbildung: 8 LP 
 - Fachpraktikum: 20 LP 
 - Bachelorarbeit: 12 LP 
-4.3 Einzelheiten
-
------ CHUNK 96 -----
-zum Studiengang, individuell erworbene Leistungspunkte und erzielte Noten 
+4.3 Einzelheiten zum Studiengang, individuell erworbene Leistungspunkte und erzielte Noten 
  Siehe „Bachelorzeugnis“ für weitere Details zu den absolvierten Modulen und Modulgruppen 
 sowie dem Thema der Bachelorarbeit inklusive ihrer Benotungen. 
 4.4 Notensystem und, wenn vorhanden, Notenspiegel 
@@ -2551,7 +2499,10 @@ waren und sind, akkreditiert. Darunter fällt auch der hier vorliegende Studieng
 www.akkreditierungsrat.de). 
 6.2 Weitere Informationsquellen 
  HTW Berlin: http://www.HTW-berlin.de 
-Studiengang: http://fiw.htw-berlin.de/ 
+Studiengang:
+
+----- CHUNK 101 -----
+http://fiw.htw-berlin.de/ 
 Nr. 08/24 Amtliches Mitteilungsblatt der HTW Berlin Seite 355 
  
  
@@ -2571,10 +2522,7 @@ Betriebssysteme
 5 B12 Rechnerarchitektur/ 
 Betriebssysteme 
 5 
-B
-
------ CHUNK 97 -----
-13 Grundlegende Konzepte der 
+B13 Grundlegende Konzepte der 
 Informatik 
 5 B13 Grundlegende Konzepte der 
 Informatik 
@@ -2605,13 +2553,15 @@ B53 Praxis in Forschung und
 Entwicklung 
 10 B56 Projekte in der Wirtschaft 6 
  Äquivalenztabelle
-Seite 356 Amtliches Mitteilungsblatt der HTW Berlin Nr. 08/24 
+ 
  
  
 B54 BWL 3: Betriebswirtschaftliches 
 Denken und Handeln 
 5 B62 BWL 3: Berufspraxis IT-Wirtschaft 5 
-B55 Besondere Kapitel der 
+B55 Besondere Kapitel der
+
+----- CHUNK 102 -----
 Wirtschaftsinformatik 
 5 WP15 Besondere Kapitel der 
 Wirtschaftsinformatik 
