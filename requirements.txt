@@ -1,4 +1,19 @@
 pypdf==6.9.1
 python-dotenv==1.2.2
 
+# Embeddings
+sentence-transformers==3.1.1
+torch>=2.0.0
+
+# Vector Store
+faiss-cpu>=1.7.4
+
+# LLM Communication
+requests>=2.31.0
+
+# Numeric/Vector operations
+numpy>=1.24.0
+
+# Testing
 pytest
+
