@@ -1,9 +1,3 @@
-"""
-Zentrale Konfiguration für das Chunking-System.
-
-Diese Datei enthält alle konfigurierbaren Parameter für Text-Preprocessing und -Chunking.
-"""
-
 from dataclasses import dataclass, field
 from typing import List
 
@@ -12,63 +6,49 @@ from typing import List
 class ChunkingConfig:
     """
     Zentrale Konfiguration für das Text-Chunking-System.
-
     Diese Klasse enthält alle Parameters die das Chunking-Verhalten steuern.
     """
-
-    # CHUNK-GRÖSSEN KONFIGURATION
-
     max_chunk_length: int = 1800
     max_table_chunk_length: int = 3200
 
-    # TABELLEN-ERKENNUNG KONFIGURATION
-
+    # TABELLEN-ERKENNUNG
     table_block_line_limit: int = 12
     table_detection_threshold: int = 3
 
-    # SEMESTER-ERKENNUNG KONFIGURATION
-
+    # SEMESTER-ERKENNUNG
     semester_marker_threshold: int = 2
 
-    # ANHANG-ERKENNUNG KONFIGURATION
-
+    # ANHANG-ERKENNUNG
     appendix_marker_threshold: int = 2
 
     # DOKUMENTTYP-STRATEGIE REIHENFOLGE
-
     strategy_order: dict = field(default_factory=lambda: {
         "studienordnung": [
-            "semester",      # 1. Versuche nach Semestern zu teilen
-            "appendix",      # 2. Versuche nach Anhängen zu teilen
-            "table",         # 3. Versuche Tabellen zu erkennen
-            "length",        # 4. Fallback: Nach Länge teilen
+            "semester",
+            "appendix",
+            "table",
+            "length",
         ],
         "modulhandbuch": [
-            "section",       # 1. Versuche nach Abschnitten zu teilen
-            "appendix",      # 2. Versuche nach Anhängen zu teilen
-            "table",         # 3. Versuche Tabellen zu erkennen
-            "length",        # 4. Fallback: Nach Länge teilen
+            "section",
+            "appendix",
+            "table",
+            "length",
         ],
     })
 
-    # PREPROCESSING KONFIGURATION
-
+    # PREPROCESSING
     normalize_multiple_newlines_threshold: int = 3
 
-    # FRONT-MATTER KONFIGURATION
-
+    # FRONT-MATTER
     remove_front_matter: bool = True
 
     # DEBUGGING UND LOGGING
-
     verbose: bool = False
-
     log_strategy_decisions: bool = False
 
     # VALIDIERUNG UND DEFAULTS
-
     def __post_init__(self):
-
         if self.max_chunk_length <= 0:
             raise ValueError(f"max_chunk_length muss > 0 sein, got {self.max_chunk_length}")
 
@@ -94,36 +74,6 @@ class ChunkingConfig:
                         f"Gültig sind: {valid_strategies}"
                     )
 
-    @classmethod
-    def from_dict(cls, config_dict: dict) -> "ChunkingConfig":
-        """
-        Erstellt ChunkingConfig aus einem Dictionary.
-
-        Nützlich um Config aus JSON/YAML zu laden.
-        """
-        return cls(**config_dict)
-
-    def to_dict(self) -> dict:
-        """
-        Konvertiert ChunkingConfig zu Dictionary.
-
-        Nützlich um Config zu JSON/YAML zu speichern.
-        """
-        return {
-            "max_chunk_length": self.max_chunk_length,
-            "max_table_chunk_length": self.max_table_chunk_length,
-            "table_block_line_limit": self.table_block_line_limit,
-            "table_detection_threshold": self.table_detection_threshold,
-            "semester_marker_threshold": self.semester_marker_threshold,
-            "appendix_marker_threshold": self.appendix_marker_threshold,
-            "strategy_order": self.strategy_order,
-            "normalize_multiple_newlines_threshold": self.normalize_multiple_newlines_threshold,
-            "remove_front_matter": self.remove_front_matter,
-            "verbose": self.verbose,
-            "log_strategy_decisions": self.log_strategy_decisions,
-        }
-
-#DEFAULT KONFIGURATIONEN
 
 # Standard-Konfiguration (gut für die meisten Fälle)
 DEFAULT_CONFIG = ChunkingConfig()
@@ -142,33 +92,13 @@ CONSERVATIVE_CONFIG = ChunkingConfig(
     table_block_line_limit=15,
 )
 
-# Performance-optimierte Konfiguration (schneller, aber eventuell weniger genau)
-PERFORMANCE_CONFIG = ChunkingConfig(
-    max_chunk_length=2000,
-    table_block_line_limit=20,
-    verbose=False,
-    log_strategy_decisions=False,
-)
-
-# Debug-Konfiguration (viel Logging, hilft beim Verstehen)
-DEBUG_CONFIG = ChunkingConfig(
-    max_chunk_length=1800,
-    verbose=True,
-    log_strategy_decisions=True,
-)
-
 # HILFSFUNKTIONEN
 
 def get_config(config_name: str = "default") -> ChunkingConfig:
-    """
-    Holt vordefinierte Konfiguration nach Name.
-    """
     configs = {
         "default": DEFAULT_CONFIG,
         "aggressive": AGGRESSIVE_CONFIG,
         "conservative": CONSERVATIVE_CONFIG,
-        "performance": PERFORMANCE_CONFIG,
-        "debug": DEBUG_CONFIG,
     }
 
     if config_name not in configs:
@@ -178,31 +108,4 @@ def get_config(config_name: str = "default") -> ChunkingConfig:
         )
 
     return configs[config_name]
-
-
-def print_config_comparison():
-    """
-    Druckt Vergleich aller vordefinierter Konfigurationen.
-
-    Hilft um die richtige Konfiguration zu wählen.
-    """
-    configs = {
-        "Default": DEFAULT_CONFIG,
-        "Aggressive": AGGRESSIVE_CONFIG,
-        "Conservative": CONSERVATIVE_CONFIG,
-        "Performance": PERFORMANCE_CONFIG,
-        "Debug": DEBUG_CONFIG,
-    }
-
-    print("\n" + "="*80)
-    print("VERGLEICH VORDEFINIERTER KONFIGURATIONEN")
-    print("="*80)
-
-    print(f"\n{'Config':<15} | {'Max Chunk':<12} | {'Max Table':<12} | {'Verbose':<10}")
-    print("-" * 60)
-
-    for name, config in configs.items():
-        print(f"{name:<15} | {config.max_chunk_length:<12} | {config.max_table_chunk_length:<12} | {str(config.verbose):<10}")
-
-    print("\n" + "="*80)
 
