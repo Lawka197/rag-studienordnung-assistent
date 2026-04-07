@@ -1,22 +1,3 @@
-"""
-Zentrale Sammlung aller Regex-Patterns für Text-Chunking und -Preprocessing.
-
-Organisiert nach Funktionsbereichen:
-- FOOTER_PATTERNS: PDF-Fußzeilen
-- HYPHENATION_PATTERNS: Silbentrennung
-- WHITESPACE_PATTERNS: Whitespace-Normalisierung
-- TABLE_LINE_PATTERNS: Tabellenerkennung
-- PARAGRAPH_PATTERNS: Paragraphen-Erkennung
-- SEMESTER_PATTERNS: Semester-Erkennung
-- MODULE_PATTERNS: Modul-Erkennung
-- SECTION_PATTERNS: Abschnitts-Erkennung
-- APPENDIX_PATTERNS: Anhang-Erkennung
-- FRONT_MATTER_PATTERNS: Front-Matter für verschiedene Dokumenttypen
-"""
-
-
-# FOOTER PATTERNS - Entfernung von PDF-Fußzeilen
-
 FOOTER_PATTERNS = {
     "htw_footer_format_1": {
         "pattern": r"Seite\s+\d+\s+Amtliches Mitteilungsblatt der HTW Berlin Nr\.\s*\d+/\d+",
@@ -36,11 +17,8 @@ FOOTER_PATTERNS = {
 }
 
 def get_footer_patterns_list() -> list:
-    """Gibt Liste aller Footer-Patterns (für re.sub Iteration) zurück."""
     return [info["pattern"] for info in FOOTER_PATTERNS.values()]
 
-
-# HYPHENATION PATTERNS - Silbentrennung fixen
 
 HYPHENATION_PATTERNS = {
     "hyphen_at_newline": {
@@ -59,8 +37,6 @@ HYPHENATION_PATTERNS = {
     },
 }
 
-# WHITESPACE PATTERNS - Whitespace normalisieren
-
 WHITESPACE_PATTERNS = {
     "multiple_spaces_or_tabs": {
         "pattern": r"[ \t]+",
@@ -75,9 +51,6 @@ WHITESPACE_PATTERNS = {
         "rationale": "Collapse zu 2 Zeilenumbrüchen (Paragraph-Trennung)",
     },
 }
-
-
-# TABLE LINE PATTERNS - Tabellenzeilen erkennen
 
 TABLE_LINE_PATTERNS = {
     "module_code": {
@@ -101,10 +74,8 @@ TABLE_LINE_PATTERNS = {
 }
 
 def get_table_line_patterns_list() -> list:
-    """Gibt Liste aller Table-Line-Patterns zurück (für is_table_like_line Funktion)."""
     return [info["pattern"] for info in TABLE_LINE_PATTERNS.values()]
 
-# PARAGRAPH PATTERNS - Paragraphen erkennen (Studienordnung)
 
 PARAGRAPH_PATTERNS = {
     "paragraph_header": {
@@ -130,15 +101,13 @@ PARAGRAPH_PATTERNS = {
 }
 
 
-# SEMESTER PATTERNS - Semester/Fachsemester erkennen
-
 SEMESTER_PATTERNS = {
     "semester_marker": {
         "pattern": r"(?mi)^\s*(?:[1-9]|1[0-2])\.\s*(?:Fachsemester|Semester)(?:\s*\([^\n]*\))?\b",
         "description": "Semester-Markierungen: '1. Fachsemester', '2. Semester', etc.",
         "flags": "MULTILINE, IGNORECASE",
         "rationale": "Identifiziert Semester-Blöcke in Studienplänen",
-        "threshold": 2,  # Mindestens 2 Marker erforderlich
+        "threshold": 2,
         "examples": ["1. Fachsemester", "2. Semester", "3. Fachsemester (WS)"],
     },
     "semester_split_point": {
@@ -148,8 +117,6 @@ SEMESTER_PATTERNS = {
         "rationale": "Für re.split() zur Aufteilung nach Semestern",
     },
 }
-
-# MODULE PATTERNS - Module erkennen (Modulhandbuch)
 
 MODULE_PATTERNS = {
     "module_id": {
@@ -164,8 +131,6 @@ MODULE_PATTERNS = {
         "rationale": "Für re.split() zur Aufteilung nach Modulen",
     },
 }
-
-# SECTION MARKERS - Abschnitte in Modulen erkennen
 
 SECTION_MARKERS = {
     "markers": [
@@ -187,15 +152,11 @@ SECTION_MARKERS = {
 }
 
 def get_section_markers_pattern() -> str:
-    """
-    Gibt kombiniertes Regex-Pattern für alle Section-Marker zurück.
-    """
     markers = SECTION_MARKERS["markers"]
     escaped = "|".join(__import__('re').escape(marker) for marker in markers)
     return r"(?m)(?=^(?:" + escaped + r")\b)"
 
 
-# APPENDIX PATTERNS - Anhänge erkennen
 APPENDIX_PATTERNS = {
     "appendix_marker": {
         "pattern": (
@@ -213,7 +174,7 @@ APPENDIX_PATTERNS = {
         "description": "Anhang-Markierungen in Studienordnungen",
         "flags": "MULTILINE, IGNORECASE",
         "rationale": "Definiert Grenzen für Anhang-Blöcke",
-        "threshold": 2,  # Mindestens 2 Marker erforderlich
+        "threshold": 2,
         "markers": [
             "Anlage X",
             "Fachgebundene Hochschulzugangsberechtigung",
@@ -227,8 +188,6 @@ APPENDIX_PATTERNS = {
         ],
     },
 }
-
-# FRONT MATTER PATTERNS - Vorderer Teil von Dokumenten entfernen
 
 FRONT_MATTER_PATTERNS = {
     "studienordnung": {
@@ -274,20 +233,10 @@ FRONT_MATTER_PATTERNS = {
 }
 
 
-# HELPER FUNCTIONS
-
 def get_pattern(key: str, category: str = None) -> str:
-    """
-    Holt ein Pattern aus der Sammlung.
-    """
-
     pass
 
 def document_patterns() -> str:
-    """
-    Gibt eine Dokumentation aller Patterns zurück.
-
-    """
     doc = "# Regex Patterns Dokumentation\n\n"
 
     doc += "## Footer Patterns\n"
@@ -305,8 +254,7 @@ def document_patterns() -> str:
 
     return doc
 
-# CONSTANTS FOR DEBUGGING
-# Diese Konstanten helfen beim Debuggen - zeigen aktuelle Patterns
+
 ACTIVE_PATTERNS = {
     "footer": get_footer_patterns_list(),
     "table_lines": get_table_line_patterns_list(),

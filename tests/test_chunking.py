@@ -1,10 +1,3 @@
-"""
-Tests für die Chunking-Funktionen.
-
-Diese Tests dokumentieren die erwartete Behavior der verschiedenen Chunking-Strategien
-und schützen sie vor Regressions während des Refactorings.
-"""
-
 import pytest
 from pathlib import Path
 import sys
