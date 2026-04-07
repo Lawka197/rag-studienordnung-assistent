@@ -1,8 +1,10 @@
 # Setup und Projektinitialisierung
 
+---
 ## Ziel
 Ziel dieses Schrittes war die Einrichtung einer stabilen und reproduzierbaren Entwicklungsumgebung für das RAG-Projekt zur Analyse von Studienordnungen.
 
+---
 ## Lokale Projektanlage
 Das Projekt wurde lokal in PyCharm erstellt und folgende grundlegende Ordnerstruktur angelegt:
 - data/: zur Ablage der PDF-Dokumente der Studienordnungen
@@ -10,6 +12,7 @@ Das Projekt wurde lokal in PyCharm erstellt und folgende grundlegende Ordnerstru
 - tests/: für Testfälle und Testdaten
 - docs/: für die Projektdokumentation
 
+---
 ## Versionskontrolle mit Git und GitHub
 Ein GitHub-Repository wurde vorab erstellt (inklusive README.md und .gitignore für Python)
 
@@ -28,9 +31,11 @@ git pull origin main --allow-unrelated-histories --no-rebase
 ```
 Danach konnte das Projekt erfolgreich gepusht werden.
 
+---
 ## Virtuelle Umgebung und Abhängigkeiten
 Eine virtuelle Umgebung wurde mit `python -m venv .venv` erstellt und aktiviert.
 
+---
 ## Installation von Abhängigkeiten
 Für den Einstieg wurden folgende Python-Pakete installiert:
 - pypdf: zum Einlesen und Verarbeiten von PDF-Dokumenten
@@ -38,6 +43,7 @@ Für den Einstieg wurden folgende Python-Pakete installiert:
 
 Die installierten Pakete wurden in einer `requirements.txt` festgehalten, um die Reproduzierbarkeit der Entwicklungsumgebung zu gewährleisten.
 
+---
 ## Ergebnis
 Die Entwicklungsumgebung ist vollständig eingereichtet:
 GitHub-Inegration funktioniert
