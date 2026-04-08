@@ -121,7 +121,6 @@ ollama pull neural-chat
 ollama serve
 ```
 
----
 
 ## Konfiguration
 
@@ -158,11 +157,4 @@ rag = RAGSystem(llm_type="ollama", model="llama2")
 - Wie viele ECTS-Punkte muss ich für das Praktikum in der neuen Studienordnung erwerben
 - Wie unterscheiden sich die Anforderungen für das Praktikum zwischen der alten und neuen Studienordnung?
 - Wo finde ich Regelungen zu Modul X?
-
-
-## Autorin
-
-**Olivia**
-- GitHub: https://github.com/Lawka197/rag-studienordnung-assistent.git
-- Projekt: **RAG Studienordnung Assistent**
 

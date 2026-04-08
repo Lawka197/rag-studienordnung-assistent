@@ -22,12 +22,19 @@ class FAISSVectorStore:
         self.embedding_dim = embedding_dim
         self.texts: List[str] = []
         self.metadata: List[dict] = []
-        self.index = self.faiss.IndexFlatL2(embedding_dim)
+        self.index = self.faiss.IndexFlatIP(embedding_dim)
 
         logger.info(f"Initialized FAISS Vector Store (dim={embedding_dim})")
 
     def add(self, text: str, embedding: np.ndarray, metadata: dict = None):
-        embedding = embedding.astype(np.float32).reshape(1, -1)
+        embedding = np.asarray(embedding, dtype=np.float32).reshape(1, -1)
+
+        if embedding.shape[1] != self.embedding_dim:
+            raise ValueError(
+                f"Falsche Embedding-Dimension: {embedding.shape[1]} statt {self.embedding_dim}"
+        )
+
+        self.faiss.normalize_L2(embedding)
 
         self.index.add(embedding)
         self.texts.append(text)
@@ -50,26 +57,27 @@ class FAISSVectorStore:
 
         logger.info(f"Added batch of {len(texts)} texts. Total: {len(self.texts)}")
 
-    def search(self, query_embedding: np.ndarray, top_k: int = 5) -> List[Tuple[str, float, dict]]:
+    def search(self, query_embedding: np.ndarray, top_k: int = 5):
         if len(self.texts) == 0:
             logger.warning("Vector store ist leer!")
             return []
 
-        query_embedding = query_embedding.astype(np.float32).reshape(1, -1)
+        query_embedding = np.asarray(query_embedding, dtype=np.float32).reshape(1, -1)
 
-        distances, indices = self.index.search(query_embedding, min(top_k, len(self.texts)))
+        if query_embedding.shape[1] != self.embedding_dim:
+            raise ValueError(
+                f"Falsche Query-Dimension: {query_embedding.shape[1]} statt {self.embedding_dim}"
+            )
+
+        self.faiss.normalize_L2(query_embedding)
+
+        scores, indices = self.index.search(query_embedding, min(top_k, len(self.texts)))
 
         results = []
-        for i, distance in zip(indices[0], distances[0]):
+        for i, score in zip(indices[0], scores[0]):
             if i == -1:
                 continue
-            similarity = 1.0 / (1.0 + float(distance))
-
-            results.append((
-                self.texts[i],
-                similarity,
-                self.metadata[i]
-            ))
+            results.append((self.texts[i], float(score), self.metadata[i]))
 
         return results
 
@@ -120,4 +128,6 @@ class FAISSVectorStore:
 
     def __repr__(self) -> str:
         return f"FAISSVectorStore(size={len(self.texts)}, dim={self.embedding_dim})"
+
+
 
