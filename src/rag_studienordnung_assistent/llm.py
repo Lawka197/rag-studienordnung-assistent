@@ -1,5 +1,6 @@
 import logging
 import requests
+from rag_studienordnung_assistent.prompts import system_prompt
 
 logger = logging.getLogger(__name__)
 
@@ -76,11 +77,6 @@ class OllamaLLM:
         context: str,
         temperature: float = 0.7,
     ) -> str:
-        system_prompt = (
-            "Du bist ein hilfreicher Assistent für Studien-Fragen. "
-            "Antworte basierend auf dem gegebenen Kontext. "
-            "Wenn die Antwort nicht im Kontext steht, sage das klar."
-        )
 
         prompt = f"""Kontext:
 {context}
