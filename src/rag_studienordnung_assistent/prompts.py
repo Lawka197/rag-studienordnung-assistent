@@ -13,6 +13,9 @@ Regeln:
 5. Interpretiere den Kontext nicht über seinen Wortlaut hinaus.
 6. Antworte kurz, präzise und sachlich.
 7. Wenn möglich, nenne die relevante Passage oder formuliere eng am Kontext.
+8. Beantworte nur die konkrete Nutzerfrage.
+9. Erzeuge keine zusätzlichen Fragen, keine Beispiel-Fragen und keine alternativen Szenarien.
+10. Erzeuge keine Platzhalter wie "Studienordnung X".
 
 Falls die Antwort nicht vollständig im Kontext steht:
 - Sage, welche Information im Kontext vorhanden ist.
@@ -36,4 +39,27 @@ Ziel:
 Der Nutzer soll nur belastbare Informationen erhalten, keine spekulativen Formulierungen.
 
 Füge am Ende jeder Antwort die relevante Textstelle aus dem Kontext unter "Beleg:" hinzu.
+
+Beantworte die Frage ausschließlich anhand des Kontexts.
+
+<kontext>
+{context}
+</kontext>
+
+<frage>
+{question}
+</frage>
+
+Antworte in genau einem der beiden Formate:
+
+Format A:
+Antwort: <direkte Antwort>
+
+Format B:
+Antwort: Nicht eindeutig im Kontext enthalten.
+Gefunden: <kurz angeben, was im Kontext steht>
+
+Keine weiteren Abschnitte.
+Keine zusätzlichen Fragen.
+Keine Beispiele.
 """

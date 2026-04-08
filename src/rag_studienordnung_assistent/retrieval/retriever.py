@@ -11,6 +11,7 @@ class Retriever:
         self.embedder = embedder
         logger.info(f"Initialized Retriever with {len(vector_store)} chunks")
 
+
     def retrieve(self, query: str, top_k: int = 5) -> List[Tuple[str, float, dict]]:
         logger.debug(f"Embedding query: '{query[:50]}...'")
         query_embedding = self.embedder.embed(query)

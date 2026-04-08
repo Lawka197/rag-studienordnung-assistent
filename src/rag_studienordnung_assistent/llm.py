@@ -75,7 +75,7 @@ class OllamaLLM:
         self,
         question: str,
         context: str,
-        temperature: float = 0.7,
+        temperature: float = 0.2,
     ) -> str:
 
         prompt = f"""Kontext:

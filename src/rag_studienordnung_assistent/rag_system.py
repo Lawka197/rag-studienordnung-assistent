@@ -76,10 +76,10 @@ class RAGSystem:
 
         if use_llm and self.llm:
             try:
-                logger.info("Generating answer with LLM...")
+                logger.info("GeneriereAntwort mit LLM...")
                 llm_answer = self.llm.answer_question(question, context)
                 result["llm_answer"] = llm_answer
-                logger.info("LLM Answer generated successfully")
+                logger.info("LLM Antwort erfolgreich generiert")
             except Exception as e:
                 logger.warning(f"Error generating LLM answer: {e}")
                 result["llm_answer"] = f"Fehler bei LLM-Generierung: {e}"
