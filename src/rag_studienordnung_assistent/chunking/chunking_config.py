@@ -9,11 +9,11 @@ class ChunkingConfig:
     Diese Klasse enthält alle Parameters die das Chunking-Verhalten steuern.
     """
     max_chunk_length: int = 1800
-    max_table_chunk_length: int = 3200
+    max_table_chunk_length: int = 5000
 
     # TABELLEN-ERKENNUNG
     table_block_line_limit: int = 12
-    table_detection_threshold: int = 3
+    table_detection_threshold: int = 2
 
     # SEMESTER-ERKENNUNG
     semester_marker_threshold: int = 2

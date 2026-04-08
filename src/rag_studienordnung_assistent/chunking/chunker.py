@@ -41,8 +41,6 @@ def normalize_newlines(text: str) -> str:
 def remove_footers(text: str) -> str:
     """
     Entfernt typische Fußzeilen aus den PDFs.
-
-    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
     footer_list = patterns.get_footer_patterns_list()
     for pattern in footer_list:
@@ -53,8 +51,6 @@ def remove_footers(text: str) -> str:
 def fix_hyphenation(text: str) -> str:
     """
     Setzt durch PDF-Zeilenumbruch getrennte Wörter wieder zusammen.
-
-    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
     hyphenation_info = patterns.HYPHENATION_PATTERNS
 
@@ -67,8 +63,6 @@ def fix_hyphenation(text: str) -> str:
 def normalize_whitespace(text: str) -> str:
     """
     Normalisiert Whitespace: mehrere Spaces/Tabs → 1 Space, 3+ Newlines → 2.
-
-    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
     whitespace_info = patterns.WHITESPACE_PATTERNS
 
@@ -90,8 +84,6 @@ def preprocess_text(text: str) -> str:
 def is_table_like_line(line: str) -> bool:
     """
     Heuristik für tabellenartige Zeilen aus Studienverlaufs- oder Äquivalenzübersichten.
-
-    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
     stripped = line.strip()
     if not stripped:
@@ -118,8 +110,6 @@ def contains_table_like_structure(text: str) -> bool:
 def contains_semester_markers(text: str) -> bool:
     """
     Erkennt, ob ein Block typische Semesterüberschriften enthält (mindestens 2).
-
-    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
     semester_pattern = patterns.SEMESTER_PATTERNS["semester_marker"]["pattern"]
     threshold = patterns.SEMESTER_PATTERNS["semester_marker"]["threshold"]
@@ -131,8 +121,6 @@ def contains_semester_markers(text: str) -> bool:
 def remove_front_matter(text: str, document_type: str) -> str:
     """
     Entfernt offensichtliches Front Matter wie Titelblätter oder Inhaltsverzeichnisse.
-
-    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
     if document_type not in patterns.FRONT_MATTER_PATTERNS:
         return text
@@ -157,8 +145,6 @@ def split_studienordnung(text: str) -> List[str]:
     """
     Zerlegt Studienordnungen zunächst nach echten Paragraphenüberschriften.
     Lange Paragraphen werden danach an Unterpunkten wie (1), (2), (3) aufgeteilt.
-
-    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
     paragraph_pattern = patterns.PARAGRAPH_PATTERNS["paragraph_header"]["pattern"]
     paragraph_chunks = [part.strip() for part in re.split(paragraph_pattern, text) if part.strip()]
@@ -177,8 +163,6 @@ def split_paragraph_by_subpoints(paragraph_text: str) -> List[str]:
     """
     Teilt einen Paragraphen an Unterpunkten wie (1), (2), (3) ...
     Der Paragraphenkopf bleibt beim ersten Unterpunkt erhalten.
-
-    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
     paragraph_header_pattern = patterns.PARAGRAPH_PATTERNS["paragraph_header_with_subpoints"]["pattern"]
 
@@ -218,8 +202,6 @@ def split_modulhandbuch(text: str) -> List[str]:
     """
     Zerlegt das Modulhandbuch primär nach Modulblöcken und teilt große Module
     anschließend nach typischen Unterabschnitten.
-
-    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
     module_pattern = patterns.MODULE_PATTERNS["module_id_split"]["pattern"]
     module_parts = [part.strip() for part in re.split(module_pattern, text) if part.strip()]
@@ -237,10 +219,7 @@ def split_modulhandbuch(text: str) -> List[str]:
 def split_module_by_sections(module_text: str) -> List[str]:
     """
     Teilt große Modulblöcke an typischen Abschnittsüberschriften.
-
-    Nutzt Patterns aus patterns.py für zentrale Verwaltung.
     """
-    # Section-Marker aus patterns.py
     section_pattern = patterns.get_section_markers_pattern()
     parts = [part.strip() for part in re.split(section_pattern, module_text) if part.strip()]
 
@@ -502,7 +481,6 @@ def chunk_document(text: str, document_type: str, config: ChunkingConfig = None)
         logger.info(f"Erstellt {len(result)} Chunks")
 
     return result
-
 
 def save_chunks_to_file(chunks: List[str], output_path: Path) -> None:
     """Speichert Chunks in eine Datei mit Markierungen."""

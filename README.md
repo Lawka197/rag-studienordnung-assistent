@@ -1,6 +1,5 @@
 # RAG-System für Studienordnungen 
 
----
 ### Projektziel
 Dieses projekt entwickelt ein RAG-basiertes Frage-Antwort-System, das Studentinnen der alten &amp; neuen Studienordnung hilft, schnelle verlässliche Informationen zu Modulen &amp; Praktikumsanforderungen zu finden.
 
@@ -18,7 +17,7 @@ Studentinnen der alten &amp; neuen Studienordnung haben Schwierigkeiten, relevan
 - Quellen und Referenzen nennen
 - Praktikumsanforderungen aus offiziellen Dokumenten extrahieren
 
----
+
 ## Tech-Stack
 
 | Komponente | Technologie | Grund |
@@ -30,7 +29,6 @@ Studentinnen der alten &amp; neuen Studienordnung haben Schwierigkeiten, relevan
 | **Framework** | Python 3.11+ | Flexibel, datascience-friendly |
 | **Testing** | Pytest | 51 Tests, 100% coverage |
 
----
 
 ## Projektstruktur
 ```
@@ -74,7 +72,7 @@ rag_studienordnung_assistent/
 │
 └── requirements.txt           # Dependencies
 ```
----
+
 ## Installation
 
 #### **Voraussetzungen**
@@ -153,7 +151,7 @@ rag = RAGSystem(llm_type="ollama", model="mistral")
 rag = RAGSystem(llm_type="ollama", model="llama2")
 ```
 
----
+
 
 ## Beispielanfragen
 - Welche Module sind Pflichtmodule in der alten Studienordnung?
@@ -161,11 +159,10 @@ rag = RAGSystem(llm_type="ollama", model="llama2")
 - Wie unterscheiden sich die Anforderungen für das Praktikum zwischen der alten und neuen Studienordnung?
 - Wo finde ich Regelungen zu Modul X?
 
----
+
 ## Autorin
 
 **Olivia**
 - GitHub: https://github.com/Lawka197/rag-studienordnung-assistent.git
 - Projekt: **RAG Studienordnung Assistent**
 
----

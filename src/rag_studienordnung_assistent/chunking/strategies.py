@@ -4,8 +4,6 @@ Chunking-Strategien als abstrakte und konkrete Klassen.
 Jede Strategie kann entscheiden, ob sie auf einen Text anwendbar ist,
 und ihn dann entsprechend aufteilen. Das eliminiert die wiederholte
 Fallback-Logik aus dem ursprünglichen Code.
-
-Nutzt zentrale Patterns aus patterns.py.
 """
 
 from abc import ABC, abstractmethod
@@ -16,37 +14,18 @@ from rag_studienordnung_assistent.chunking import patterns
 
 
 class ChunkingStrategy(ABC):
-    """
-    Basis-Interface für alle Chunking-Strategien.
-
-    Eine Strategie kann:
-    1. Prüfen, ob sie auf einen Text anwendbar ist (can_apply)
-    2. Den Text entsprechend aufteilen (split)
-    """
 
     @abstractmethod
     def can_apply(self, text: str) -> bool:
-        """
-        Prüft, ob diese Strategie auf den Text anwendbar ist.
-        """
         pass
 
     @abstractmethod
     def split(self, text: str) -> List[str]:
-        """
-        Teilt den Text nach dieser Strategie auf.
-        """
         pass
 
 
 class SemesterStrategy(ChunkingStrategy):
-    """
-    Strategie für Semester/Fachsemester-basiertes Splitting.
 
-    Erkennt Patterns wie:
-    - "1. Fachsemester"
-    - "2. Semester"
-    """
 
     def can_apply(self, text: str) -> bool:
         semester_pattern = patterns.SEMESTER_PATTERNS["semester_marker"]["pattern"]
@@ -85,17 +64,10 @@ class AppendixStrategy(ChunkingStrategy):
 
 
 class TableStrategy(ChunkingStrategy):
-    """
-    Strategie für Tabellen-basiertes Splitting.
 
-    Erkannt tabellenartige Zeilen und teilt entsprechend auf.
-    Diese Strategie wird in split_table_like_block implementiert.
-    """
-
-    TABLE_HEURISTIC_THRESHOLD = 3  # Mindestens 3 Tabellenzeilen
+    TABLE_HEURISTIC_THRESHOLD = 3
 
     def _is_table_like_line(self, line: str) -> bool:
-        """Heuristik für tabellenartige Zeilen"""
         stripped = line.strip()
         if not stripped:
             return False
@@ -109,7 +81,6 @@ class TableStrategy(ChunkingStrategy):
         return any(re.search(pattern, stripped) for pattern in patterns)
 
     def can_apply(self, text: str) -> bool:
-        """Text muss 3+ Tabellenzeilen enthalten"""
         lines = [line for line in text.split("\n") if line.strip()]
         if len(lines) < 3:
             return False
@@ -118,48 +89,22 @@ class TableStrategy(ChunkingStrategy):
         return table_like_lines >= self.TABLE_HEURISTIC_THRESHOLD
 
     def split(self, text: str) -> List[str]:
-        """
-        Teilt tabellenartige Blöcke.
-        """
         return []
 
 
 class LengthStrategy(ChunkingStrategy):
-    """
-    Fallback-Strategie für Längenbases Splitting.
-
-    Dies ist die letzte Strategie die immer anwendbar ist,
-    falls keine spezialisierte Strategie funktioniert hat.
-    """
 
     def can_apply(self, text: str) -> bool:
         return True
 
     def split(self, text: str) -> List[str]:
-        """
-        Diese Methode wird nicht direkt verwendet,
-        da split_by_length die volle Logik enthält.
-        """
+
         return []
 
 
 class StrategyChain:
-    """
-    Orchestriert mehrere Chunking-Strategien in einer definierten Reihenfolge.
-
-    Die Kette versucht jede Strategie nacheinander:
-    1. Semester-Strategie
-    2. Anhang-Strategie
-    3. Tabellen-Strategie
-    4. Längen-Strategie (Fallback)
-
-    Diese Klasse eliminiert die wiederholte "if can_apply -> split" Logik.
-    """
 
     def __init__(self, strategies: List[ChunkingStrategy] = None):
-        """
-        Initialisiert die Strategy Chain.
-        """
         if strategies is None:
             strategies = [
                 SemesterStrategy(),
@@ -170,13 +115,9 @@ class StrategyChain:
         self.strategies = strategies
 
     def find_applicable_strategy(self, text: str) -> ChunkingStrategy:
-        """
-        Findet die erste anwendbare Strategie für den Text.
-        """
         for strategy in self.strategies:
             if strategy.can_apply(text):
                 return strategy
 
-        # Sollte nicht vorkommen da LengthStrategy immer True zurückgibt
-        return self.strategies[-1]  # Fallback zur letzten Strategie
+        return self.strategies[-1]
 
